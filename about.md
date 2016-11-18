@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Doing arts, taking pictures & coding.
-
-### More Information
-
-No more.
+A 4th year student studying Computer Science and Interactive Media Arts at [NYU Shanghai](https://shanghai.nyu.edu), currently studying Visual Arts at [NYU Abu Dhabi](http://nyuad.nyu.edu) and previously at [NYU Tandon](http://engineering.nyu.edu).
 
 ### Contact me
 
