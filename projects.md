@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: default
 title: Projects
 permalink: /projects/
 ---
+
+<h1>{{ page.title }}</h1>
 
 <div class="posts">
 
