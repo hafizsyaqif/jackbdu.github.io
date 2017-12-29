@@ -6,10 +6,10 @@
 name: Jack B. Du
 
 # Short bio or description (displayed in the header)
-description: Taking pictures, doing arts & coding.
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://www.jackbdu.com/blog/images/avatar.jpg
+avatar:
 
 #
 # Flags below are optional
@@ -20,7 +20,7 @@ footer-links:
   dribbble:
   email: jackbdu@nyu.edu
   facebook: 
-  flickr: jackbdu
+  flickr:
   github: jackbdu
   instagram: jackbdu
   linkedin: jackbdu
