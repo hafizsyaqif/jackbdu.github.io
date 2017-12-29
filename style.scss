@@ -27,7 +27,6 @@ body {
 }
 
 .container {
-//  padding: 0 10px;
   width: 825px;
   margin-left: 180px;
 }
@@ -117,6 +116,7 @@ strong, b {
 
 img {
   max-width: 100%;
+  border-radius: 0.5em;
 }
 
 // Fixes images in popup boxes from Google Translate
