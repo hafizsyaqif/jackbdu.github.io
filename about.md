@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-A 4th year student studying [Computer Science](https://shanghai.nyu.edu/academics/majors/cs) and [Interactive Media Arts](http://ima.nyu.sh) at [NYU Shanghai](https://shanghai.nyu.edu), currently studying [Visual Arts](http://www.nyuadvisarts.space) at [NYU Abu Dhabi](http://nyuad.nyu.edu) and previously at [NYU Tandon](http://engineering.nyu.edu).
+I'm a recent graduate from [NYU Shanghai](https://shanghai.nyu.edu), where I studied [Computer Science](https://shanghai.nyu.edu/academics/majors/cs), [Interactive Media Arts](http://ima.nyu.sh) and [Studio Art](http://steinhardt.nyu.edu/art/studio/minor/studio_art_minor).
 
-### Contact me
+I love so many things that I don't want to give myself a title.
 
-[jackbdu@nyu.edu](mailto:jackbdu@nyu.edu)
+![wo]({{ site.baseurl }}/images/wo.jpg) | ![wo]({{ site.baseurl }}/images/wo.jpg)
+
+Learn more about me from my CV or reach me at [jackbdu@nyu.edu](mailto:jackbdu@nyu.edu).
