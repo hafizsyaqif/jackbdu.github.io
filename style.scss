@@ -117,6 +117,11 @@ img {
 .container {
   width: 825px;
   margin-left: 180px;
+
+  @include mobile {
+    width: 90%;
+    margin: 5%;
+  }
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -167,66 +172,37 @@ img {
   float: left;
   display: inline;
   text-align: right;
-}
-
-.masthead {
 
   @include mobile {
     text-align: center;
-  }
-}
-
-.site-info {
-
-  @include mobile {
     float: none;
-    display: block;
-    margin: 0 auto;
+    width: 100%;
+    position: static;
   }
 }
 
 .site-name {
   margin: 0;
   cursor: pointer;
-  font-family: $fontStack;
   font-weight: 400;
   font-size: 1.2em;
   text-transform: none;
 //  letter-spacing: 1px;
 }
 
-.site-description {
-  margin: -5px 0 0 0;
-  color: $lightBodyColor;
-  font-size: 16px;
-
-  @include mobile {
-    margin: 3px 0;
-  }
-}
-
 nav {
-  text-align: right;
   padding: 0.3em 0;
   margin: 1em 0;
   text-transform: lowercase;
 
   @include mobile {
     float: none;
-    margin-top: 9px;
-    display: block;
     font-size: 16px;
   }
 
   a {
     display: block;
-    text-align: right;
     padding: 0.3em 0;
-
-    @include mobile {
-      margin: 0 10px;
-      color: $aColor;
-    }
   }
 }
 
