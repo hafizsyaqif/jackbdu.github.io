@@ -13,6 +13,10 @@ permalink: /projects/
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
+      <div class="date">
+        {{ post.date | date: "%Y" }}
+      </div>
+
       <div class="entry">
         {{ post.excerpt }}
       </div>
