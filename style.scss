@@ -21,14 +21,9 @@ body {
 	background: $bgColor;
   font: 100 16px $fontStack;
   color: $bodyColor;
-  margin: 0 auto;
+  margin: 2em auto;
   max-width: 1005px;
   width: 100%;
-}
-
-.container {
-  width: 825px;
-  margin-left: 180px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -51,8 +46,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 1.2em;
+  margin-bottom: 1.3em;
   text-transform: uppercase;
-  margin: 1.5em 0 1.3em 0;
 }
 
 h2 {
@@ -68,7 +63,7 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  margin: 1em 0;
 }
 
 a {
@@ -117,6 +112,11 @@ strong, b {
 img {
   max-width: 100%;
   border-radius: 0.5em;
+}
+
+.container {
+  width: 825px;
+  margin-left: 180px;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -234,7 +234,7 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding-bottom: 1em;
   border-bottom: 1px solid $borderColor;
 }
 
@@ -244,6 +244,14 @@ nav {
 }
 
 .post {
+
+  h1 {
+    margin: 1.3em 0 0 0;
+    position: relative;
+    top: -0.1em;
+    text-transform: none;
+  }
+
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $lightBodyColor;
