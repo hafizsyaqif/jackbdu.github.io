@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
+title: Projects
+permalink: /projects/
 ---
 
 <div class="posts">
-
-  <h1>Projects</h1>
 
   {% for post in site.posts %}
     <article class="post">
@@ -18,4 +18,5 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
+
 </div>
