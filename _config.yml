@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: JackBillDu
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCmz0FTW_bFitKZpmJTHSOLg # channel/<your_long_string> or user/<user-name>
+  youtube: jackbdu # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -48,6 +48,8 @@ url: www.jackbdu.com/blog
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/blog"
+
+excerpt_separator: "<!--more-->"
 
 #
 # !! You don't need to change any of the configuration flags below !!
