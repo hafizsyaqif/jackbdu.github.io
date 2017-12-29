@@ -4,20 +4,16 @@
 //
 
 // Colors
-$blue: #999;
-
-// Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #555;
-$gray: #666;
-$lightGray: #eee;
-$white: #fcfcfc;
+$bgColor: #fcfcfc;
+$bodyColor: #555;
+$lightBodyColor: #666;
+$aColor: #999;
+$selColor: #fcfcfc;
+$selBgColor: #555;
+$borderColor: #eee;
 
 // Font stacks
-$helvetica: Futura, Helvetica, Arial, sans-serif;
-$helveticaNeue: Futura, Helvetica, Arial, sans-serif;
-$georgia: Futura, Helvetica, Arial, sans-serif;
+$fontStack: Futura, Helvetica, Arial, sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
