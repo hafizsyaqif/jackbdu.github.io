@@ -18,8 +18,10 @@ permalink: /projects/
       </div>
 
       <div class="entry">
-        {{ post.excerpt }}
+        <p>{{ post.description }}</p>
       </div>
+
+      <img src="{{ site.baseurl }}/images{{ post. url}}preview.jpg"/>
 
     </article>
   {% endfor %}
