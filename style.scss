@@ -132,6 +132,11 @@ img {
 }
 
 .thumb {
+  -webkit-transition: filter 0.3s ease;
+     -moz-transition: filter 0.3s ease;
+      -ms-transition: filter 0.3s ease;
+       -o-transition: filter 0.3s ease;
+          transition: filter 0.3s ease;
   background-size:cover;
   background-position: center;
   width: 20%;
@@ -140,11 +145,18 @@ img {
   display: block;
   border-radius: 0.7em;
   padding-bottom: 20%;
+  -webkit-filter: grayscale(100%);
+          filter: grayscale(100%);
 
   @include mobile {
     width: 50%;
     padding-bottom: 50%;
   }
+}
+
+.thumb:hover {
+  -webkit-filter: grayscale(0%);
+          filter: grayscale(0%);
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -274,11 +286,13 @@ nav {
   text-align: center;
 
   a {
-    filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+          filter: grayscale(100%);
   }
 
   a:hover {
-    filter: grayscale(0%);
+  -webkit-filter: grayscale(0%);
+          filter: grayscale(0%);
   }
 }
 
