@@ -5,3 +5,9 @@ description: A mixed media project that explores the identity of the neightborho
 ---
 
 ![This Is Where I Live]({{ site.baseurl }}/images/this-is-where-i-live/this-is-where-i-live.jpg)
+
+![This Is Where I Live - Collage]({{ site.baseurl }}/images/this-is-where-i-live/this-is-where-i-live-collage.jpg)
+
+![This Is Where I Live - Painting #1]({{ site.baseurl }}/images/this-is-where-i-live/this-is-where-i-live-painting-01.jpg)
+
+![This Is Where I Live - Painting #2]({{ site.baseurl }}/images/this-is-where-i-live/this-is-where-i-live-painting-02.jpg)

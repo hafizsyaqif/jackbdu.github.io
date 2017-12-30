@@ -4,6 +4,8 @@ title: Home Series
 description: A series of photographs of my home.
 ---
 
+Dimensions variable.
+
 ![Home Series #1]({{ site.baseurl }}/images/home-series/home-series-01.jpg)
 
 ![Home Series #2]({{ site.baseurl }}/images/home-series/home-series-02.jpg)
