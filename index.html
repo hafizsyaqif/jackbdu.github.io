@@ -4,15 +4,8 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      <div style="background-image: url('{{ site.baseurl }}/images{{ post. url}}preview.jpg'); background-size:cover; background-position: center; width:10em; height:10em; display: inline-block; border-radius: 0.5em;"></div>
+    </a>
   {% endfor %}
 </div>
