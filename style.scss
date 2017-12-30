@@ -73,11 +73,11 @@ a {
   &:hover, &:active {
     color: $bodyColor;
   }
-  -webkit-transition: color 0.3s ease;
-     -moz-transition: color 0.3s ease;
-      -ms-transition: color 0.3s ease;
-       -o-transition: color 0.3s ease;
-          transition: color 0.3s ease;
+  -webkit-transition: filter 0.3s ease, color 0.3s ease;
+     -moz-transition: filter 0.3s ease, color 0.3s ease;
+      -ms-transition: filter 0.3s ease, color 0.3s ease;
+       -o-transition: filter 0.3s ease, color 0.3s ease;
+          transition: filter 0.3s ease, color 0.3s ease;
 }
 
 ul, ol {
@@ -269,9 +269,17 @@ nav {
   margin-top: 50px;
 }
 
-footer {
+.footer {
   padding: 20px 0;
   text-align: center;
+
+  a {
+    filter: grayscale(100%);
+  }
+
+  a:hover {
+    filter: grayscale(0%);
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
