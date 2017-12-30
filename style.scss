@@ -124,15 +124,31 @@ img {
   }
 }
 
-// Fixes images in popup boxes from Google Translate
-.gmnoprint img {
-  max-width: none;
-}
-
 .date {
   font-weight: 100;
   font-size: 0.8em;
   color: $lightBodyColor;
+}
+
+.thumb {
+  background-size:cover;
+  background-position: center;
+  width: 20%;
+  border: $bgColor 0.2em solid;
+  float: left;
+  display: block;
+  border-radius: 0.7em;
+  padding-bottom: 20%;
+
+  @include mobile {
+    width: 50%;
+    padding-bottom: 50%;
+  }
+}
+
+// Fixes images in popup boxes from Google Translate
+.gmnoprint img {
+  max-width: none;
 }
 
 // Specify the color of the selection

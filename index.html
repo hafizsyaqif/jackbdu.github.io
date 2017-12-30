@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<div class="posts">
+<div class="posts clearfix">
   {% for post in site.posts %}
     <a href="{{ site.baseurl }}{{ post.url }}">
-      <div style="background-image: url('{{ site.baseurl }}/images{{ post. url}}thumb.jpg'); background-size:cover; background-position: center; width:10em; height:10em; display: inline-block; border-radius: 0.5em;"></div>
+      <div class="thumb" style="background-image: url('{{ site.baseurl }}/images{{ post. url}}thumb.jpg');"></div>
     </a>
   {% endfor %}
 </div>
