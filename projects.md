@@ -21,7 +21,7 @@ permalink: /projects/
         <p>{{ post.description }}</p>
       </div>
 
-      <img src="{{ site.baseurl }}/images{{ post. url}}preview.jpg"/>
+      <a href="{{ site.baseurl }}{{ post. url}}"><img src="{{ site.baseurl }}/images{{ post. url}}preview.jpg"/></a>
 
     </article>
   {% endfor %}
