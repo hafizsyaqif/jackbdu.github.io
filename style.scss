@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
     color: $lightBodyColor;
   }
 
-  @include mobile {
+  @include tablet {
     line-height: 1.4;
   }
 }
@@ -119,7 +119,7 @@ img {
   width: 825px;
   margin-left: 180px;
 
-  @include mobile {
+  @include tablet {
     width: 90%;
     margin: 5%;
   }
@@ -148,11 +148,16 @@ img {
   -webkit-filter: grayscale(100%);
           filter: grayscale(100%);
 
+  @include tablet {
+    width: 25%;
+    padding-bottom: 25%;
+    -webkit-filter: grayscale(0%);
+            filter: grayscale(0%);
+  }
+
   @include mobile {
     width: 50%;
     padding-bottom: 50%;
-    -webkit-filter: grayscale(0%);
-            filter: grayscale(0%);
   }
 }
 
@@ -204,7 +209,7 @@ img {
   display: inline;
   text-align: right;
 
-  @include mobile {
+  @include tablet {
     text-align: center;
     float: none;
     width: 100%;
@@ -226,7 +231,7 @@ nav {
   margin: 1em 0;
   text-transform: lowercase;
 
-  @include mobile {
+  @include tablet {
     float: none;
     font-size: 16px;
   }
