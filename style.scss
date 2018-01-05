@@ -115,6 +115,14 @@ img {
   padding: 0.2em;
 }
 
+table {
+  margin-bottom: 1.5em;
+
+  td {
+    padding: 0.2em 0;
+  }
+}
+
 .container {
   width: 825px;
   margin-left: 180px;
@@ -123,6 +131,10 @@ img {
     width: 90%;
     margin: 5%;
   }
+}
+
+.entry {
+  margin: 0.8em 0;
 }
 
 .date {
