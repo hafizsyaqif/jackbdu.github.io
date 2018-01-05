@@ -8,6 +8,9 @@ I'm a recent graduate from [NYU Shanghai](https://shanghai.nyu.edu), where I stu
 
 I'm constantly asking myself who I am and the answer is always different.
 
-![wo]({{ site.baseurl }}/images/wo.jpg) | ![wo]({{ site.baseurl }}/images/wo.jpg)
+<div class="clearfix">
+  <div class="about" style="background-image:url('{{ site.baseurl }}/images/wo.jpg')"></div>
+  <div class="about" style="background-image:url('{{ site.baseurl }}/images/wo.jpg')"></div>
+</div>
 
 Learn more about me from my [CV]({{ site.baseurl }}/cv) or reach me at [jackbdu@nyu.edu](mailto:jackbdu@nyu.edu).
