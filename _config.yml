@@ -26,10 +26,11 @@ footer-links:
   linkedin: jackbdu
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: JackBillDu
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: jackbdu # channel/<your_long_string> or user/<user-name>
+  youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  love: jackbdu.com/love
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
