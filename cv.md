@@ -4,8 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-Jack B. Du (Jiadong Du)
-
 # Education 
 
 **New York University Shanghai**, Shanghai, China
