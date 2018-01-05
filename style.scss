@@ -111,7 +111,7 @@ strong, b {
 
 img {
   max-width: 100%;
-  border: $bgColor 0.2em solid;
+  padding: 0.2em;
   border-radius: 0.7em;
 }
 
@@ -137,27 +137,21 @@ img {
       -ms-transition: filter 0.3s ease;
        -o-transition: filter 0.3s ease;
           transition: filter 0.3s ease;
-  background-size:cover;
-  background-position: center;
   width: 20%;
-  border: $bgColor 0.2em solid;
   float: left;
   display: block;
   border-radius: 0.7em;
-  padding-bottom: 20%;
-  -webkit-filter: grayscale(100%);
-          filter: grayscale(100%);
+  -webkit-filter: grayscale(100%) blur(5px);
+          filter: grayscale(100%) blur(5px);
 
   @include tablet {
     width: 25%;
-    padding-bottom: 25%;
     -webkit-filter: grayscale(0%);
             filter: grayscale(0%);
   }
 
   @include mobile {
     width: 50%;
-    padding-bottom: 50%;
   }
 }
 
@@ -309,10 +303,8 @@ nav {
 
 .about {
   width: 50%;
-  padding-bottom: 50%;
   background-size:cover;
   background-position: center;
-  border: $bgColor 0.2em solid;
   float: left;
   display: block;
   border-radius: 0.7em;
@@ -321,16 +313,22 @@ nav {
       -ms-transition: filter 0.3s ease;
        -o-transition: filter 0.3s ease;
           transition: filter 0.3s ease;
+  -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
+          filter: blur(5px);
+
+  @include tablet {
+    -webkit-filter: blur(0px); /* Safari 6.0 - 9.0 */
+            filter: blur(0px);
+  }
 
   @include mobile {
     width: 100%;
-    padding-bottom: 100%;
   }
 }
 
 .about:hover {
-  -webkit-filter: invert(100%); /* Safari 6.0 - 9.0 */
-          filter: invert(100%);
+  -webkit-filter: blur(0px); /* Safari 6.0 - 9.0 */
+          filter: blur(0px);
 }
 
 .about:last-child {
