@@ -131,23 +131,34 @@ img {
   color: $lightBodyColor;
 }
 
-.thumb {
+// home page adjustments
+
+.gray {
   -webkit-transition: filter 0.3s ease;
      -moz-transition: filter 0.3s ease;
       -ms-transition: filter 0.3s ease;
        -o-transition: filter 0.3s ease;
           transition: filter 0.3s ease;
+  -webkit-filter: grayscale(100%);
+          filter: grayscale(100%);
+
+  @include tablet {
+    -webkit-filter: grayscale(0%);
+            filter: grayscale(0%);
+  }
+}
+
+.gray:hover {
+  -webkit-filter: grayscale(0%);
+          filter: grayscale(0%);
+}
+
+.thumb {
   width: 20%;
   float: left;
-  display: block;
-  border-radius: 0.7em;
-  -webkit-filter: grayscale(100%) blur(5px);
-          filter: grayscale(100%) blur(5px);
 
   @include tablet {
     width: 25%;
-    -webkit-filter: grayscale(0%);
-            filter: grayscale(0%);
   }
 
   @include mobile {
@@ -155,10 +166,50 @@ img {
   }
 }
 
-.thumb:hover {
-  -webkit-filter: grayscale(0%);
-          filter: grayscale(0%);
+// about page adjustments
+
+.about {
+  width: 50%;
+  float: left;
+  display: block;
+  -webkit-transition: filter 0.3s ease;
+     -moz-transition: filter 0.3s ease;
+      -ms-transition: filter 0.3s ease;
+       -o-transition: filter 0.3s ease;
+          transition: filter 0.3s ease;
+  -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
+          filter: blur(5px);
+
+  @include tablet {
+    -webkit-filter: blur(0px); /* Safari 6.0 - 9.0 */
+            filter: blur(0px);
+  }
+
+  @include mobile {
+    width: 100%;
+  }
 }
+
+.about:hover {
+  -webkit-filter: blur(0px); /* Safari 6.0 - 9.0 */
+          filter: blur(0px);
+}
+
+.about:last-child {
+  -webkit-transform: scale(-1, 1);
+     -moz-transform: scale(-1, 1);
+       -o-transform: scale(-1, 1);
+          transform: scale(-1, 1);
+
+  @include mobile {
+  -webkit-transform: scale(1, -1);
+     -moz-transform: scale(1, -1);
+       -o-transform: scale(1, -1);
+          transform: scale(1, -1);
+  }
+}
+
+
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
@@ -296,52 +347,6 @@ nav {
 
   a {
     margin: 0.5em;
-  }
-}
-
-// about page adjustments
-
-.about {
-  width: 50%;
-  background-size:cover;
-  background-position: center;
-  float: left;
-  display: block;
-  border-radius: 0.7em;
-  -webkit-transition: filter 0.3s ease;
-     -moz-transition: filter 0.3s ease;
-      -ms-transition: filter 0.3s ease;
-       -o-transition: filter 0.3s ease;
-          transition: filter 0.3s ease;
-  -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
-          filter: blur(5px);
-
-  @include tablet {
-    -webkit-filter: blur(0px); /* Safari 6.0 - 9.0 */
-            filter: blur(0px);
-  }
-
-  @include mobile {
-    width: 100%;
-  }
-}
-
-.about:hover {
-  -webkit-filter: blur(0px); /* Safari 6.0 - 9.0 */
-          filter: blur(0px);
-}
-
-.about:last-child {
-  -webkit-transform: scale(-1, 1);
-     -moz-transform: scale(-1, 1);
-       -o-transform: scale(-1, 1);
-          transform: scale(-1, 1);
-
-  @include mobile {
-  -webkit-transform: scale(1, -1);
-     -moz-transform: scale(1, -1);
-       -o-transform: scale(1, -1);
-          transform: scale(1, -1);
   }
 }
 
