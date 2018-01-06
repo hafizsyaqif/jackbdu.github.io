@@ -50,7 +50,7 @@ Aug. 2017 – Present
 
 2017 \| **Shanghai Science Expo**, Shanghai Exhibition Center, Shanghai, China
 
-2016 \| **NYUAD December Showcase**, NYUAD Arts Center, Abu Dhabi, UAE
+2016 \| **December Showcase**, NYU Abu Dhabi Arts Center, Abu Dhabi, UAE
 
 # Press
 

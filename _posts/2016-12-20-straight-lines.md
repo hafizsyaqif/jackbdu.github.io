@@ -6,7 +6,7 @@ description: A photography project that seeks to simplify the structures and lig
 
 ![Straight Lines at NYUAD December Showcase]({{ site.baseurl }}/images/straight-lines/straight-lines.jpg) |
 :----------: |
-2016 \| NYUAD December Showcase, NYUAD Project Space, Abu Dhabi, UAE |
+2016 \| December Showcase, NYU Abu Dhabi Project Space, Abu Dhabi, UAE |
 
 {% for i in (1..3) %}
 ![Straight Lines #{{ i }}]({{ site.baseurl }}/images/straight-lines/straight-lines-{{ i }}.jpg) |
