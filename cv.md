@@ -50,6 +50,8 @@ Aug. 2017 – Present
 
 2017 \| **Shanghai Science Expo**, Shanghai Exhibition Center, Shanghai, China
 
+2016 \| **NYUAD December Showcase**, NYUAD Arts Center, Abu Dhabi, UAE
+
 # Press
 
 2017 \| Chapman, Catherine: "[Robot Artists Compete for Thousands of Dollars at This Painting Competition](https://creators.vice.com/en_au/article/xwqk3n/robot-artists-compete-for-thousands-of-dollars-at-this-painting-competition)", Creators, May 23, 2017
