@@ -70,6 +70,6 @@ Aug. 2017 – Present
 
 2017 \| **Excellence Award** at [Life Geek](http://www.manamana.net/lifegeek/21), Shanghai, China
 
-2017 \| **5th Place** at [Robot Art Competition](https://robotart.org/2017-winners/), U.S.
+2017 \| **5th Place** at [Robot Art Competition](https://robotart.org/2017-winners/), USA
 
 2014 \| **2nd Best Hardware Hack** at [HackShanghai](http://2014.hackshanghai.com), Shanghai, China
