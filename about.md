@@ -9,8 +9,8 @@ I'm a recent graduate from [NYU Shanghai](https://shanghai.nyu.edu), where I stu
 I'm constantly asking myself who I am and the answer is always different.
 
 <div class="clearfix">
-  <div class="filter"><img class="about" src="{{ site.baseurl }}/images/about/wo.jpg" /></div>
-  <div class="filter"><img class="about" src="{{ site.baseurl }}/images/about/wo.jpg" /></div>
+  <div class="filter"><img class="about" src="{{ site.baseurl }}/media/about/wo.jpg" /></div>
+  <div class="filter"><img class="about" src="{{ site.baseurl }}/media/about/wo.jpg" /></div>
 </div>
 
 Learn more about me from my [CV]({{ site.baseurl }}/cv) or reach me at [jackbdu@nyu.edu](mailto:jackbdu@nyu.edu).
