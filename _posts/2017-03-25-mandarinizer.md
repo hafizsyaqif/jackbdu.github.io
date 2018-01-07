@@ -11,3 +11,5 @@ Mandarinizer - Logo | Mandarinizer - Logo Mandarinized
 ![{{ Mandarinizer - Webcam Stream Mandarinized }}]({{ site.baseurl }}/media/projects/mandarinizer/mandarinizer.gif) |
 :----------: |
 Mandarinizer - Webcam Stream Mandarinized |
+
+Source code available on [GitHub](https://github.com/JackBDu/mandarinizer)
