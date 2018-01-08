@@ -14,12 +14,12 @@
 /**************/
 
 html {
-  font-size: 100%;
+  font-size: 16px;
 }
 
 body {
 	background: $bgColor;
-  font: 100 16px $fontStack;
+  font: 100 1em $fontStack;
   color: $bodyColor;
   margin: 2em auto;
   max-width: 1005px;
@@ -260,7 +260,6 @@ table {
 .site-name {
   margin: 0;
   font-weight: 500;
-  font-size: 1.2em;
   text-transform: none;
 }
 
@@ -271,7 +270,6 @@ nav {
 
   @include tablet {
     float: none;
-    font-size: 16px;
   }
 
   ul {
@@ -280,6 +278,7 @@ nav {
   }
 
   li {
+    font-size: 1em;
     padding: 0.3em 0;
     list-style: none;
   }
@@ -319,7 +318,7 @@ nav {
     border-left: 2px solid $lightBodyColor;
     padding: 0.1em 1em;
     color: $lightBodyColor;
-    font-size: 22px;
+    font-size: 1.4em;
     font-style: italic;
   }
 
@@ -329,7 +328,7 @@ nav {
 
   .read-more {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 1em;
   }
 }
 
