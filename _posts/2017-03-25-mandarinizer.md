@@ -12,4 +12,4 @@ Mandarinizer - Logo | Mandarinizer - Logo Mandarinized
 :----------: |
 Mandarinizer - Webcam Stream Mandarinized |
 
-Source code available on [GitHub](https://github.com/JackBDu/mandarinizer)
+Source code available on [GitHub](https://github.com/JackBDu/mandarinizer).
