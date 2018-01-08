@@ -1,6 +1,6 @@
-# Jack B. Du
+# [Jack B. Du](http://jackbdu.com)
 
-[jackbdu.com](http://jackbdu.com)
+[about](http://jackbdu.com/about) \| [projects](http://jackbdu.com/projects)
 
 [![](/media/projects/this-is-where-i-live/thumb.jpg)](http://jackbdu.com/projects/this-is-where-i-live)
 [![](/media/projects/home-series/thumb.jpg)](http://jackbdu.com/projects/home-series)
