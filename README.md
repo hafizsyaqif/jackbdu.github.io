@@ -1,6 +1,8 @@
 # [Jack B. Du](http://jackbdu.com)
 
-[about](http://jackbdu.com/about) \| [projects](http://jackbdu.com/projects)
+[about](http://jackbdu.com/about)
+
+[projects](http://jackbdu.com/projects)
 
 [![](/media/projects/this-is-where-i-live/thumb.jpg)](http://jackbdu.com/projects/this-is-where-i-live)
 [![](/media/projects/home-series/thumb.jpg)](http://jackbdu.com/projects/home-series)
@@ -17,6 +19,12 @@
 [![](/media/projects/frogs/thumb.jpg)](http://jackbdu.com/projects/frogs)
 [![](/media/projects/swallows/thumb.jpg)](http://jackbdu.com/projects/swallows)
 [![](/media/projects/fruits-and-vegetables/thumb.jpg)](http://jackbdu.com/projects/fruits-and-vegetables)
+
+[Email](mailto:jackbdu@nyu.edu)
+[GitHub](https://github.com/jackbdu)
+[Instagram](https://instagram.com/jackbdu)
+[LinkedIn](https://www.linkedin.com/in/jackbdu)
+[Love](http://jackbdu.com/love)
 
 # Credits
 
