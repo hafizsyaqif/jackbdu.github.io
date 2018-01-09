@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Self-Portrait
+categories: drawing
 description: A graphite drawing based on a photograph of myself that I took in Washinton DC.
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dark & Light
+categories: installation
 description: An interative sculpture of dark and light.
 ---
 

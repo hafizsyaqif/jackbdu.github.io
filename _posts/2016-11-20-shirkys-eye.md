@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Shirky's Eye
+categories: painting drawing
 description: A series of works based on Clay Shirky's Twitter profile picture.
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mandarinizer
+categories: application
 description: A computer program that converts image files, video files or live webcam streams to Mandarin Chinese characters and/or any other characters.
 ---
 
