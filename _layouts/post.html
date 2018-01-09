@@ -3,7 +3,11 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+  <h1>{{ page.title }}
+  {% for category in page.categories %}
+    <a style="padding-left: 1em;font-size: 0.7em;" href="{{ baseurl }}/projects/{{ category }}">#{{category}}</a>
+  {% endfor %}
+  </h1>
 
   <div class="date">
     {{ page.date | date: "%Y" }}

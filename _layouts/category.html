@@ -9,7 +9,11 @@ layout: default
   {% for post in site.categories[page.category] %}
     <article class="post">
 
-      <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
+      <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {% for category in post.categories %}
+        <a style="padding-left: 1em;font-size: 0.7em;" href="{{ baseurl }}/projects/{{ category }}">#{{category}}</a>
+      {% endfor %}
+      </h1>
 
       <div class="date">
         {{ post.date | date: "%Y" }}
