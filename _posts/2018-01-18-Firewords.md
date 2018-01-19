@@ -15,4 +15,4 @@ Firewords |
 
 [Launch](http://jackbdu.com/firewords) the application.
 
-Source code available on [GitHub](https://github.com/JackBDu/firewords).
+Source code available on [GitHub](https://github.com/jackbdu/firewords).
