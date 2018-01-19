@@ -180,6 +180,14 @@ table {
   }
 }
 
+.tile:last-child {
+  display: none;
+
+  @include tablet {
+    display: block;
+  }
+}
+
 // about page adjustments
 
 .about {
