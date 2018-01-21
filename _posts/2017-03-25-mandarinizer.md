@@ -13,4 +13,8 @@ Mandarinizer - Logo | Mandarinizer - Logo Mandarinized
 :----------: |
 Mandarinizer - Webcam Stream Mandarinized |
 
+![Mandarinizer - Who Am I]({{ site.baseurl }}/media/projects/mandarinizer/mandarinizer-who-am-i.jpg) |
+:----------: |
+Mandarinizer - Who Am I |
+
 Source code available on [GitHub](https://github.com/JackBDu/mandarinizer).
