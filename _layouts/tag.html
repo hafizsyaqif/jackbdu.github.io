@@ -6,7 +6,7 @@ layout: default
 
 <div class="posts">
 
-  {% for post in site.categories[page.category] %}
+  {% for post in site.tags[page.tag] %}
     <article class="post">
 
       <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a>
