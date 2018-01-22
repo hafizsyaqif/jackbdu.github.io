@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Home Series
-categories: photography
+categories: projects
+tags: photography
 description: A series of photographs of my home.
 ---
 

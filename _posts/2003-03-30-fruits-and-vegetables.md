@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Fruits & Vegetables
-categories: painting
+categories: projects
+tags: painting
 description: A digital painting of fruits and vegetables.
 ---
 

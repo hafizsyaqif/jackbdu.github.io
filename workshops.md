@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Projects
-permalink: /projects/
+title: Workshops
+permalink: /workshops/
 ---
 
 <h1>{{ page.title }}</h1>
 
 <div class="posts">
 
-  {% for post in site.categories["projects"] %}
+  {% for post in site.categories["workshops"] %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -25,7 +25,7 @@ permalink: /projects/
         <p>{{ post.description }}</p>
       </div>
 
-      <a href="{{ site.baseurl }}{{ post. url}}"><img src="{{ site.baseurl }}/media{{ post. url}}preview.jpg"/></a>
+      <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/media{{ post.url }}preview.jpg"/></a>
 
     </article>
   {% endfor %}
