@@ -1,6 +1,6 @@
 ---
 layout: category
 title: "Projects #collage"
-category: collage
+tag: collage
 permalink: "/projects/collage"
 ---

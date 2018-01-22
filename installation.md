@@ -1,6 +1,6 @@
 ---
 layout: category
 title: "Projects #installation"
-category: installation
+tag: installation
 permalink: "/projects/installation"
 ---

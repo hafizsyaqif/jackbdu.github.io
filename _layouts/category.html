@@ -6,12 +6,12 @@ layout: default
 
 <div class="posts">
 
-  {% for post in site.categories[page.category] %}
+  {% for post in site.tags[page.tag] %}
     <article class="post">
 
       <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      {% for category in post.categories %}
-        <a style="margin-left: 1em;font-size: 0.7em;" href="{{ baseurl }}/projects/{{ category }}">#{{category}}</a>
+      {% for tag in post.tags %}
+        <a style="margin-left: 1em;font-size: 0.7em;" href="{{ baseurl }}/projects/{{ tag }}">#{{tag}}</a>
       {% endfor %}
       </h1>
 

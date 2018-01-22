@@ -1,6 +1,6 @@
 ---
 layout: category
 title: "Projects #photography"
-category: photography
+tag: photography
 permalink: "/projects/photography"
 ---

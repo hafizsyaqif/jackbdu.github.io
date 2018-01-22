@@ -1,6 +1,6 @@
 ---
 layout: category
 title: "Projects #application"
-category: application
+tag: application
 permalink: "/projects/application"
 ---

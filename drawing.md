@@ -1,6 +1,6 @@
 ---
 layout: category
 title: "Projects #drawing"
-category: drawing
+tag: drawing
 permalink: "/projects/drawing"
 ---

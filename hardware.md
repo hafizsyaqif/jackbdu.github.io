@@ -1,6 +1,6 @@
 ---
 layout: category
 title: "Projects #hardware"
-category: hardware
+tag: hardware
 permalink: "/projects/hardware"
 ---

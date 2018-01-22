@@ -4,8 +4,8 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}
-  {% for category in page.categories %}
-    <a style="margin-left: 1em;font-size: 0.7em;" href="{{ baseurl }}/projects/{{ category }}">#{{category}}</a>
+  {% for tag in page.tags %}
+    <a style="margin-left: 1em;font-size: 0.7em;" href="{{ baseurl }}/projects/{{ tag }}">#{{tag}}</a>
   {% endfor %}
   </h1>
 

@@ -1,6 +1,6 @@
 ---
 layout: category
 title: "Projects #video"
-category: video
+tag: video
 permalink: /projects/video/
 ---
