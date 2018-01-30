@@ -180,9 +180,15 @@ table {
   }
 }
 
-.tile:last-child {
+.tile {
   display: none;
+}
 
+.tile:nth-child(-n+15) {
+  display: block;
+}
+
+.tile:nth-child(16) {
   @include tablet {
     display: block;
   }
