@@ -47,8 +47,10 @@ Then we have a new tab in our workspace. Let's take this chance to familiarize u
 
   - Both under Color panel and Tools, there is one small square in front of the other small square.
   - The one in front indicates the foreground color and the one on the back indicates the background color.
-- At the bottom right is **Layers**. Layers make it possible for us to seperate different components of a collage and arrange their order.
-- Finally, **Canvas** right at the center and inside the canvas is what the final image will look like.
+
+- **Layers** are at bottom right corner. Layers make it possible for us to seperate different components of a collage and arrange their order.
+
+- **Canvas** is right at the center and inside the canvas is what the final image will look like.
 
 ## Step 3: Import an Image
 
@@ -58,25 +60,33 @@ Then we have a new tab in our workspace. Let's take this chance to familiarize u
 
 ![Kitten]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten.png)
 
-Now that the image is on our canvas, we can move it around, scale it or even rotate it. Press Enter when we feel happy about it. Also, note that the image is on a seperate layer on top of the background layer.
+Now that the image is on our canvas, we can move it around, scale it or even rotate it. Press Enter when we feel happy about it. Also, note that the image is imported as a smart object on a seperate layer, we need to rasterize it before we can manipulate it further.
 
 ![Kitten]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/workspace-kitten.png)
 
-Alternatively, instead of creating a new document and importing an image, we can also open the image with Photoshop directly. However, if we do need to add more images, we still need to go to File > Place Embeded...
+In order to rasterize the layer, we simply right on the name of the layer, and choose Rasterize Layer.
 
-## Step 4: Learn the Tools
+Alternatively, instead of creating a new document and importing an image, we can also open the image with Photoshop directly. However, since we need to have more than one images, we still need to go to File > Place Embeded...
 
-Before we start learning about the tools, choose Window > Info. At the bottom of Info, we can see a short instruction for the tool that we selected. This will serve as a reminder whenever we forget the functionality of a specific tool and it also shows us if additional options are available with Shift, Opt or Cmd.
+Multiple images will stay in different layers, and we can arrange the order by clicking and dragging on the names of the layers.
+
+## Step 4: Learn the Workflow
+
+_Note: the workflow below is by no means a "standard" workflow, it's arranged in such a way that we can learn about everything we need to get started._
+
+Before we start learning about the workflow and the tools, go to Window > Info. At the bottom of Info, we can see a short instruction for the tool that is selected. This will serve as a reminder whenever we forget the functionality of a specific tool and it also shows us if additional options are available with Shift, Opt or Cmd.
+
+In general, Shift means additive or proportional, Opt means substractive or special options, Cmd means to temporarily switch to Move Tool, and Space Bar means temporarily switch to Hand Tool.
 
 ![Info]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/info.png){:width="50%"}
-
-Note that we can right click to expand a tool whenever there's little rectangle at the bottom right corner of the tool icon.
 
 ### Modify the canvas
 
 ![Crop Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/crop-tool.png)
 
 First tool we may want to use is the Crop Tool, which crops and rotates the canvas as we like. We can specify a ratio on the Options Panel, or click Clear if we don't need one.
+
+Note that we can right click (or left click and hold) to view additional tools whenever there's little triangle at the bottom right corner of the tool icon.
 
 ![Canvas Size]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/canvas-size.png)
 
@@ -110,11 +120,11 @@ A few things to note about selection tools:
 - For all the selection tools above, we can specify use Shift key to add to the selection, and Option key to substract.
 - Select > Invert inverts the selection, meaning making a selection of the opposite of what is selected.
 
-### Transformers
+### Transform the selection
 
 Now that we have our selection, in order to make a transformation, we go to Edit > Transform, then choose the desired option.
 
-We can also use Edit > Free Transform, and hit Enter when we are done.
+We can also use Edit > Free Transform to tranform the selection in any way we want, and hit Enter when we are done.
 
 ### Move things around
 
@@ -132,6 +142,12 @@ One other thing we may want to do after selecting is to adjust it. Go to Image >
 
 In particular, if we open Image > Adjustments > Hue/Saturation, we can completely change the colors in an image by dragging the Hue bar; e.g. turning a red shirt to blue.
 
+### The magic of filters
+
+![Filter]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/filter.png){:width="50%"}
+
+Thanks to the popularity of filters on social media, most of us already know what a filter is. In Photoshop, the filters are under the Filter on the menu and Photoshop provides very detailed and powerful options for each of its filers. And the filter will be applied to the selected area or the selected layer.
+
 ### Pick a color
 
 ![Eyedropper Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/eyedropper-tool.png)
@@ -141,10 +157,9 @@ Click anywhere on the canvas, and the Eyedropper Tool will use the color as fore
 ### Color it
 
 ![Gradient Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/gradient-tool.png)
+![Paint Bucket Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/paint-bucket-tool.png)
 
 Gradient Tool fills either the selection or the whole selected layer with a gradient, which we can modify on the Options Panel.
-
-![Paint Bucket Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/paint-bucket-tool.png)
 
 Paint Bucket Tool either fills the selection with the foreground color, or fills an area of consistent color if no selection is made.
 
@@ -184,3 +199,25 @@ If it's just a brush stroke that we want to erase, we are lucky enough to have t
 ![History Brush Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/history-brush-tool.png)
 
 Keep it in mind that everything on a rasterized layer can be erased, be it brush stroke or not. However, if we erase or adjust part of our image by accident, we can use the History Brush Tool to paint the image back to its original stage.
+
+### Zooms
+
+![Zoom Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/zoom-tool.png)
+
+While we are working, we may want to zoom in and zoom out the canvas. That is done with the Zoom Tool.
+
+If the tool is set to zoom in on the Options panel, pressing Opt key will temporarily switch it to zoom out and vice versa.
+
+![Hand Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/hand-tool.png)
+
+When the canvas is really zoomed in, we can use the Hand Tool (or press the space bar) to navigate around the canvas.
+
+### Add texts
+
+![Type Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/horizontal-type-tool.png)
+
+The Type tools allow us to add texts to wherever we click on the canvas. Each text is stored on a separate layer, and remember to rasterize it when you find certain operations can't be done on the layer.
+
+### [Clipping Masks](https://helpx.adobe.com/photoshop-elements/using/clipping-masks.html)
+
+
