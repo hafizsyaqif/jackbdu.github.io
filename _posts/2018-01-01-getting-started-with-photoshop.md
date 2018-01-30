@@ -2,7 +2,7 @@
 layout: post
 title: Getting Started with Photoshop
 categories: workshops
-description: A brief introduction to the basics of Adobe Photoshop.
+description: A workshop on the basics of Adobe Photoshop.
 ---
 
 ## Step 1: Get Ready
@@ -11,7 +11,7 @@ We start off by launching the application either in Launchpad or with Spotlight.
 
 ![Spotlight]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/spotlight.png)
 
-Once it is launched, we may see a different workspace depending on the previous user settings. There are two steps (as illustrated below) we need to do in order to make sure we are on the same workspace. And this is also what we do whenever we are lost (don't know where everything is).
+Once Photoshop is launched, we may see a different workspace depending on the previous user settings. There are two steps (as illustrated below) we need to do in order to make sure we are on the same workspace. And this is also what we do whenever we get lost (don't know where everything is).
 
 ![Menu Bar]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/menu-bar-window.png)
 
@@ -20,7 +20,7 @@ Once it is launched, we may see a different workspace depending on the previous 
 
 ![Essentials]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/workspace-essentials.png) | ![Reset Essentials]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/workspace-reset-essentials.png)
 
-Here's what the workspace should look like now.
+Here's what the workspace should look like after the reset.
 
 ![Workspace]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/workspace.png)
 
@@ -28,27 +28,31 @@ Here's what the workspace should look like now.
 
 Now that we are on the same workspace, let's create a new document.
 
-1. Choose File > New...
+![New Document]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/new-document.png)
+
+1. Open File > New...
 2. Choose Photo tab, because we will be working with photos.
 3. Under Preset Details, name your document. Mine is called myUntitled :)
 4. Leave everything else by default and click Create!
 
-![New Document]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/new-document.png)
-
 Then we have a new tab in our workspace. Let's take this chance to familiarize us with the workspace layout.
 
+![My Untitled]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/my-untitled.png)
+
 - **Tools** are lined up on the left side, and this is where we choose the tool that we use, which we will be learning in just a second.
+
+- **Options** are at the top, which provides addtional options for the tool that is selected.
+
 - **Color** picker can be found at the top right corner.
+
   - Both under Color panel and Tools, there is one small square in front of the other small square.
   - The one in front indicates the foreground color and the one on the back indicates the background color.
 - At the bottom right is **Layers**. Layers make it possible for us to seperate different components of a collage and arrange their order.
 - Finally, **Canvas** right at the center and inside the canvas is what the final image will look like.
 
-![My Untitled]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/my-untitled.png)
-
 ## Step 3: Import an Image
 
-- Choose File > Place Embeded...
+- Open File > Place Embeded...
 - Choose the image file of your choice. I'm using an image of a kitten.
 - Click Place!
 
@@ -58,7 +62,7 @@ Now that the image is on our canvas, we can move it around, scale it or even rot
 
 ![Kitten]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/workspace-kitten.png)
 
-Alternatively, instead of creating a new document and importing an image, we can also open the image with Photoshop directly.
+Alternatively, instead of creating a new document and importing an image, we can also open the image with Photoshop directly. However, if we do need to add more images, we still need to go to File > Place Embeded...
 
 ## Step 4: Learn the Tools
 
