@@ -244,11 +244,11 @@ While we are working, we may want to zoom in and zoom out the canvas. That is do
 
 If the tool is set to zoom in on the Options panel, pressing Opt key will temporarily switch it to zoom out and vice versa.
 
-![Kitten Zoom]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-zoom.png)
-
 ![Hand Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/hand-tool.png)
 
 When the canvas is really zoomed in, we can use the Hand Tool (or press the space bar) to navigate around the canvas.
+
+![Kitten Zoom]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-zoom.png)
 
 ### Add texts
 
