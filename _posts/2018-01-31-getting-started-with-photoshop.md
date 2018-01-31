@@ -24,7 +24,7 @@ description: A workshop on the basics of Adobe Photoshop.
   * [Oops](#oops)
   * [Zooms](#zooms)
   * [Add texts](#add-texts)
-  * [Clipping Masks](#clipping-masks)
+  * [Apply a mask](#apply-a-mask)
 - [Save our documents](#save-our-documents)
 - [Need more help](#need-more-help)
 
@@ -163,13 +163,19 @@ One other thing we may want to do after selecting is to adjust it. Go to Image >
 
 ![Hue/Saturation]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/hue-saturation.png)
 
-In particular, if we open Image > Adjustments > Hue/Saturation, we can completely change the colors in an image by dragging the Hue bar; e.g. turning a red shirt to blue.
+In particular, if we open Image > Adjustments > Hue/Saturation, we can completely change the colors in an image by dragging the Hue bar; e.g. turning a kitten to blue-ish.
+
+![Kitten with Hue]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-with-hue.png)
 
 ### The magic of filters
 
 ![Filter]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/filter.png){:width="50%"}
 
 Thanks to the popularity of filters on social media, most of us already know what a filter is. In Photoshop, the filters are under the Filter on the menu and Photoshop provides very detailed and powerful options for each of its filers. And the filter will be applied to the selected area or the selected layer.
+
+Here, I did Filter > Pixelate > Crytallize...
+
+![Kitten with Crystallize]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-with-crystallize.png)
 
 ### Pick a color
 
@@ -241,8 +247,24 @@ When the canvas is really zoomed in, we can use the Hand Tool (or press the spac
 
 The Type tools allow us to add texts to wherever we click on the canvas. Each text is stored on a separate layer, and remember to rasterize it when you find certain operations can't be done on the layer.
 
-### [Clipping Masks](https://helpx.adobe.com/photoshop-elements/using/clipping-masks.html){:target="_blank"}
+### Add shapes
 
+![Rectangle Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/rectangle-tool.png)
+![Rounded Rectangle Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/rounded-rectangle-tool.png)
+![Ellipse Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/ellipse-tool.png)
+![Polygon Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/polygon-tool.png)
+
+Choose one of the shape tools, then click and drag to draw the shapes on the canvas.
+
+### [Apply a mask](https://helpx.adobe.com/photoshop-elements/using/clipping-masks.html){:target="_blank"}
+
+We've added texts and shapes, which we can actually use to create masks.
+
+- Put the text/shape layer right below the layer that we want to apply a mask to.
+
+- Right click on the name of the layer we want to apply the mask to, and choose Create Clipping Mask.
+
+![Kitten with Mask]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-with-mask.png)
 
 ## Save our documents
 
