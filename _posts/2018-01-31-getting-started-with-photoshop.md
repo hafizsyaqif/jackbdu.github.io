@@ -122,20 +122,20 @@ There are three types of tools we can use for this:
 ![Rectangular Marquee Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/rectangular-marquee-tool.png)
 ![Elliptical Marquee Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/elliptical-marquee-tool.png)
 
-- [Marquee Tools](https://helpx.adobe.com/photoshop/using/selecting-marquee-tools.html): We use these to make a rectangular or elliptical selection. Click and drag to move selection, or click anywhere on canvas to deselect.
+- [Marquee Tools](https://helpx.adobe.com/photoshop/using/selecting-marquee-tools.html){:target="_blank"}: We use these to make a rectangular or elliptical selection. Click and drag to move selection, or click anywhere on canvas to deselect.
 
 ![Lasso Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/lasso-tool.png)
 ![Polygonal Lasso Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/polygonal-lasso-tool.png)
 ![Magnetic Lasso Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/magnetic-lasso-tool.png)
 
-- [Lasso Tools](https://helpx.adobe.com/hk_en/photoshop/using/selecting-lasso-tools.html): These are used for selections of freeform or straight-edged segments, or selections that snap to the edges of defined areas.
+- [Lasso Tools](https://helpx.adobe.com/hk_en/photoshop/using/selecting-lasso-tools.html){:target="_blank"}: These are used for selections of freeform or straight-edged segments, or selections that snap to the edges of defined areas.
 
 For those two types of selection tools above, we can specify a Feather value on the Option panel.
 
 ![Quick Selection Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/quick-selection-tool.png)
 ![Magic Wand Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/magic-wand-tool.png)
 
-- [Quick Selections](https://helpx.adobe.com/photoshop/using/making-quick-selections.html): Quick Selection Tool "paints" a selection and Magic Wand Tool selects an area of consistent color.
+- [Quick Selections](https://helpx.adobe.com/photoshop/using/making-quick-selections.html){:target="_blank"}: Quick Selection Tool "paints" a selection and Magic Wand Tool selects an area of consistent color.
 
 A few things to note about selection tools:
 
@@ -241,7 +241,7 @@ When the canvas is really zoomed in, we can use the Hand Tool (or press the spac
 
 The Type tools allow us to add texts to wherever we click on the canvas. Each text is stored on a separate layer, and remember to rasterize it when you find certain operations can't be done on the layer.
 
-### [Clipping Masks](https://helpx.adobe.com/photoshop-elements/using/clipping-masks.html)
+### [Clipping Masks](https://helpx.adobe.com/photoshop-elements/using/clipping-masks.html){:target="_blank"}
 
 
 ## Save our documents
@@ -268,4 +268,4 @@ Choose the format at the top right corner and we can change the size at the bott
 
 ## Need more help
 
-If there's a specific option or tool we cannot find, we can go to Help in the menu, and search over there. Or we can search on [Adobe Photoshop Learn & Support](https://helpx.adobe.com/support/photoshop.html), which is Adobe's official support site.
+If there's a specific option or tool we cannot find, we can go to Help in the menu, and search over there. Or we can search on [Adobe Photoshop Learn & Support](https://helpx.adobe.com/support/photoshop.html){:target="_blank"}, which is Adobe's official support site.
