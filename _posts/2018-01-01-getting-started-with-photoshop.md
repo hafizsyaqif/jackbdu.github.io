@@ -5,6 +5,29 @@ categories: workshops
 description: A workshop on the basics of Adobe Photoshop.
 ---
 
+## Table of Contents
+
+- [Step 1: Get Ready](#step-1-get-ready)
+- [Step 2: Create a New Document](#step-2-create-a-new-document)
+- [Step 3: Import an Image](#step-3-import-an-image)
+- [Step 4: Learn the Workflow](#step-4-learn-the-workflow)
+  * [Modify the canvas](#modify-the-canvas)
+  * [Select something](#select-something)
+  * [Transform the selection](#transform-the-selection)
+  * [Move things around](#move-things-around)
+  * [The power of adjustments](#the-power-of-adjustments)
+  * [The magic of filters](#the-magic-of-filters)
+  * [Pick a color](#pick-a-color)
+  * [Color something](#color-something)
+  * [Paint something](#paint-something)
+  * [Paint the magic](#paint-the-magic)
+  * [Oops](#oops)
+  * [Zooms](#zooms)
+  * [Add texts](#add-texts)
+  * [Clipping Masks](#clipping-masks)
+- [Save our documents](#save-our-documents)
+- [Need more help](#need-more-help)
+
 ## Step 1: Get Ready
 
 We start off by launching the application either in Launchpad or with Spotlight.
