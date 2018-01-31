@@ -34,7 +34,7 @@ We start off by launching the application either in Launchpad or with Spotlight.
 
 ![Spotlight]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/spotlight.png)
 
-Once Photoshop is launched, we may see a different workspace depending on the previous user settings. There are two steps (as illustrated below) we need to do in order to make sure we are on the same workspace. And this is also what we do whenever we get lost (don't know where everything is).
+Once Photoshop is launched, we may see a different workspace depending on the previous user settings. There are two steps (as illustrated below) we need to do in order to make sure we are on the same workspace. And this is also what we do whenever we get lost (when don't know where everything is).
 
 ![Menu Bar]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/menu-bar-window.png)
 
@@ -63,16 +63,11 @@ Then we have a new tab in our workspace. Let's take this chance to familiarize u
 ![My Untitled]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/my-untitled.png)
 
 - **Tools** are lined up on the left side, and this is where we choose the tool that we use, which we will be learning in just a second.
-
 - **Options** are at the top, which provides addtional options for the tool that is selected.
-
 - **Color** picker can be found at the top right corner.
-
   - Both under Color panel and Tools, there is one small square in front of the other small square.
   - The one in front indicates the foreground color and the one on the back indicates the background color.
-
-- **Layers** are at bottom right corner. Layers make it possible for us to seperate different components of a collage and arrange their order.
-
+- **Layers** are at bottom right corner. Layers make it possible for us to separate different components of a collage and arrange their order.
 - **Canvas** is right at the center and inside the canvas is what the final image will look like.
 
 ## Step 3: Import an Image
@@ -83,7 +78,7 @@ Then we have a new tab in our workspace. Let's take this chance to familiarize u
 
 ![Kitten]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten.png)
 
-Now that the image is on our canvas, we can move it around, scale it or even rotate it. Press Enter when we feel happy about it. Also, note that the image is imported as a smart object on a seperate layer, we need to rasterize it before we can manipulate it further.
+Now that the image is on our canvas, we can move it around, scale it or even rotate it. Press Enter when we feel happy about it. Also, note that the image is imported as a smart object on a separate layer, we need to rasterize it for certain editing procedure.
 
 ![Kitten]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/workspace-kitten.png)
 
@@ -91,7 +86,7 @@ In order to rasterize the layer, we simply right on the name of the layer, and c
 
 Alternatively, instead of creating a new document and importing an image, we can also open the image with Photoshop directly. However, since we need to have more than one images, we still need to go to File > Place Embeded...
 
-Multiple images will stay in different layers, and we can arrange the order by clicking and dragging on the names of the layers.
+Multiple images will stay in different layers, and we can arrange the order by clicking and dragging on the names of the layers. We can also change the names of the layers by double-click on the layer name.
 
 ## Step 4: Learn the Workflow
 
@@ -108,6 +103,10 @@ In general, Shift means additive or proportional, Opt means substractive or spec
 ![Crop Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/crop-tool.png)
 
 First tool we may want to use is the Crop Tool, which crops and rotates the canvas as we like. We can specify a ratio on the Options Panel, or click Clear if we don't need one.
+
+I cropped the canvas into a square.
+
+![Kitten Cropped]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-cropped.png)
 
 Note that we can right click (or left click and hold) to view additional tools whenever there's little triangle at the bottom right corner of the tool icon.
 
@@ -137,6 +136,10 @@ For those two types of selection tools above, we can specify a Feather value on 
 
 - [Quick Selections](https://helpx.adobe.com/photoshop/using/making-quick-selections.html){:target="_blank"}: Quick Selection Tool "paints" a selection and Magic Wand Tool selects an area of consistent color.
 
+I decided to select the background.
+
+![Kitten Selected]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-selected.png)
+
 A few things to note about selection tools:
 
 - In order to deselect, go to Select > Deselect.
@@ -163,9 +166,11 @@ One other thing we may want to do after selecting is to adjust it. Go to Image >
 
 ![Hue/Saturation]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/hue-saturation.png)
 
-In particular, if we open Image > Adjustments > Hue/Saturation, we can completely change the colors in an image by dragging the Hue bar; e.g. turning a kitten to blue-ish.
+In particular, if we open Image > Adjustments > Hue/Saturation, we can completely change the colors in an image by dragging the Hue bar.
 
-![Kitten with Hue]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-with-hue.png)
+I brought up the exposure of the selection and then changed the hue.
+
+![Kitten Exposure]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-exposure.png) | ![Kitten Hue]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-hue.png)
 
 ### The magic of filters
 
@@ -175,7 +180,7 @@ Thanks to the popularity of filters on social media, most of us already know wha
 
 Here, I did Filter > Pixelate > Crytallize...
 
-![Kitten with Crystallize]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-with-crystallize.png)
+![Kitten Crystallized]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-crystallized.png)
 
 ### Pick a color
 
@@ -191,6 +196,8 @@ Click anywhere on the canvas, and the Eyedropper Tool will use the color as fore
 Gradient Tool fills either the selection or the whole selected layer with a gradient, which we can modify on the Options Panel.
 
 Paint Bucket Tool either fills the selection with the foreground color, or fills an area of consistent color if no selection is made.
+
+![Kitten Gradient]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-gradient.png)
 
 ### Paint something
 
@@ -237,6 +244,8 @@ While we are working, we may want to zoom in and zoom out the canvas. That is do
 
 If the tool is set to zoom in on the Options panel, pressing Opt key will temporarily switch it to zoom out and vice versa.
 
+![Kitten Zoom]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-zoom.png)
+
 ![Hand Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/hand-tool.png)
 
 When the canvas is really zoomed in, we can use the Hand Tool (or press the space bar) to navigate around the canvas.
@@ -254,17 +263,22 @@ The Type tools allow us to add texts to wherever we click on the canvas. Each te
 ![Ellipse Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/ellipse-tool.png)
 ![Polygon Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/polygon-tool.png)
 
-Choose one of the shape tools, then click and drag to draw the shapes on the canvas.
+Choose one of the shape tools, then click and drag to draw the shapes on the canvas. We can change both the Fill and Stroke color in Options panel.
+
+I added a black pentagon.
+
+![Kitten Shape]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-shape.png)
 
 ### [Apply a mask](https://helpx.adobe.com/photoshop-elements/using/clipping-masks.html){:target="_blank"}
 
 We've added texts and shapes, which we can actually use to create masks.
 
 - Put the text/shape layer right below the layer that we want to apply a mask to.
-
 - Right click on the name of the layer we want to apply the mask to, and choose Create Clipping Mask.
+- Note that all area that is not colored will be hidden.
 
-![Kitten with Mask]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-with-mask.png)
+
+![Kitten Mask]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-mask.png)
 
 ## Save our documents
 
