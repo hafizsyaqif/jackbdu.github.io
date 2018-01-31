@@ -154,7 +154,7 @@ Thanks to the popularity of filters on social media, most of us already know wha
 
 Click anywhere on the canvas, and the Eyedropper Tool will use the color as foreground color.
 
-### Color it
+### Color something
 
 ![Gradient Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/gradient-tool.png)
 ![Paint Bucket Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/paint-bucket-tool.png)
@@ -221,3 +221,28 @@ The Type tools allow us to add texts to wherever we click on the canvas. Each te
 ### [Clipping Masks](https://helpx.adobe.com/photoshop-elements/using/clipping-masks.html)
 
 
+## Save our documents
+
+To save the document, go to File > Save. At the bottom of the Save window, we can choose the format to save. Below is a list of formats that we need to know the differences of.
+
+![Formats]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/formats.png){:width="50%"}
+
+Typically, as we work on the document, we want to choose Photoshop, which preserves all the editing capabilities. But when we are done, we want to save it as one of the following formats.
+
+- PNG: We use this format if we want to perserve the transparency and if we don't want to lose any details in the image. It may be an illustration, an icon or a character with transparent background.
+
+- JPEG: Whenever transparency isn't a big problem, we use this format due to its high compression a.k.a. small file size. Most photographs are distributed in this format.
+
+- GIF: This format supports animation as well as transparency. It is not suitable for color photographs due to its limited color space.
+
+After choosing the format and the location, click Save, some additional options will be prompted to us so that we can change the quality, compression, etc.
+
+![Save for Web]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/save-for-web.png)
+
+Alternatively, we can go to File > Export > Save for Web (Legacy)...
+
+Choose the format at the top right corner and we can change the size at the bottom right corner. In general, it's a good idea to choose a size slightly larger than you need, but also don't make it too large so that it will take forever to load.
+
+## Need more help
+
+If there's a specific option or tool we cannot find, we can go to Help in the menu, and search over there. Or we can search on [Adobe Photoshop Learn & Support](https://helpx.adobe.com/support/photoshop.html), which is Adobe's official support site.
