@@ -25,8 +25,8 @@ description: A workshop on the basics of Adobe Photoshop.
   * [Zooms](#zooms)
   * [Add texts](#add-texts)
   * [Apply a mask](#apply-a-mask)
-- [Save our documents](#save-our-documents)
-- [Need more help](#need-more-help)
+- [Step 5: Save our documents](#step-5-save-our-documents)
+- [Need more help?](#need-more-help)
 
 ## Step 1: Get Ready
 
@@ -280,7 +280,7 @@ We've added texts and shapes, which we can actually use to create masks.
 
 ![Kitten Mask]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-mask.png)
 
-## Save our documents
+## Step 5: Save our documents
 
 To save the document, go to File > Save. At the bottom of the Save window, we can choose the format to save. Below is a list of formats that we need to know the differences of.
 
@@ -302,6 +302,6 @@ Alternatively, we can go to File > Export > Save for Web (Legacy)...
 
 Choose the format at the top right corner and we can change the size at the bottom right corner. In general, it's a good idea to choose a size slightly larger than you need, but also don't make it too large so that it will take forever to load.
 
-## Need more help
+## Need more help?
 
 If there's a specific option or tool we cannot find, we can go to Help in the menu, and search over there. Or we can search on [Adobe Photoshop Learn & Support](https://helpx.adobe.com/support/photoshop.html){:target="_blank"}, which is Adobe's official support site.
