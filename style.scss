@@ -21,11 +21,12 @@ html {
 
 body {
 	background: $bgColor;
-  font: 100 1em $fontStack;
+  font: 200 1em $fontStack;
   color: $bodyColor;
   margin: 2em auto;
   max-width: 1005px;
   width: 100%;
+  letter-spacing: 0.5px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -140,7 +141,7 @@ table {
 }
 
 .date {
-  font-weight: 100;
+  font-weight: 200;
   font-size: 0.8em;
   color: $lightBodyColor;
 }

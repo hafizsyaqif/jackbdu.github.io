@@ -13,7 +13,8 @@ $selBgColor: #555;
 $borderColor: #eee;
 
 // Font stacks
-$fontStack: Futura, Futura-Medium, "Futura Medium", "Century Gothic", CenturyGothic, "Apple Gothic", AppleGothic, "URW Gothic L", "Avant Garde", Helvetica, Arial, sans-serif;
+//$fontStack: Futura, Futura-Medium, "Futura Medium", "Century Gothic", CenturyGothic, "Apple Gothic", AppleGothic, "URW Gothic L", "Avant Garde", Helvetica, Arial, sans-serif;
+$fontStack: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
