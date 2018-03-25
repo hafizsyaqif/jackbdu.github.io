@@ -42,7 +42,7 @@ Aug. 2017 – Present
 
 2017 \| **The Map as Art**, NYU Shanghai Gallery, Shanghai, China
 
-2017 \| **Life Geek Exhibition**, USC-SJTU Insititue of Cultural and Creative Industry, Shanghai, China
+2017 \| **Life Geek Exhibition**, USC-SJTU Institute of Cultural and Creative Industry, Shanghai, China
 
 2017 \| **Maker Carnival**, Knowledge & Innovation Community, Shanghai, China
 
