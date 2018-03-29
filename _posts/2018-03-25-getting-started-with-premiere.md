@@ -67,7 +67,7 @@ As is just mentioned, media can be previewed by double clicking on the media. In
 
 ![Timeline with Media]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/timeline-with-media.png)
 
-We start by dragging media to the timeline of the sequence we created. Note that there are two different types of tracks in timeline, one for video and one for audio. And the larger the video track number is, the closer the clip is to us. In other words, the clips on a video track with larger track number blocks the clips on a video track with smaller track number. In contrary, all audio plays together.
+After marking, we can drag and drop the clips to the timeline of the sequence we created. Note that there are two different types of tracks in timeline, one for video and one for audio. And the larger the video track number is, the closer the clip is to us. In other words, the clips on a video track with larger track number blocks the clips on a video track with smaller track number. In contrary, all audio plays together.
 
 ![Selection Tool]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/selection-tool.png)
 
@@ -82,11 +82,53 @@ We can move those clips around with the Selection Tool, which is chosen by defau
 
 2. To enable/disable a track, click on the eye icon for the track.
 
+![Timeline - Enable]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/timeline-enable.png)
+
 ### Cutting clips
 
 ![Razor Tool]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/razor-tool.png)
 
 With the Razor Tool, we can split one clip into two, and move edit them separately.
+
+### Slipping
+
+![Slip Tool]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/slip-tool.png)
+
+This tool adjusts the in and out points of a clip without changing its position in the timeline.
+
+![Slip Tool Demo]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/slip-tool-demo.png)
+
+### Sliding
+
+![Slide Tool]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/slide-tool.png)
+
+This tool adjusts the clip’s position in time by changing the ins and outs of adjacent clips.
+
+![Slide Tool Demo]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/slide-tool-demo.png)
+
+### Rolling
+
+![Rolling Edit Tool]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/rolling-edit-tool.png)
+
+This tool adjusts the ins, outs, and durations of two adjacent clips.
+
+![Rolling Edit Tool Demo]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/rolling-edit-tool-demo.png)
+
+### Linking and Unlinking
+
+![Timeline - Unlink]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/timeline-unlink.png)
+
+If we select a video clip that comes with audio, we'll notice that both the video track and audio track will be selected. If we right click on the video track and choose unlink, we'll be able to manipulate the audio and video independently.
+
+![Timeline - After Unlink]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/timeline-after-unlink.png)
+
+Similar, we can link a video clip and a audio clip by selecting both of them, right clicking and choosing link.
+
+### Snapping
+
+![Magnet Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/magnet-icon.png)
+
+If we want ends of clips to snap to the playhead or ends of other clips as we move them, we need to make sure the magnet icon is highlighted. And unhightlight it if we don't want to snap.
 
 ## Step 5: Save the Project
 
