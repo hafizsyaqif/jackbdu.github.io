@@ -53,7 +53,15 @@ Now let's import some media, a.k.a., footage, audios, etc.
 
 Similar to sequences, the imported media can also be managed in the bottom-left panel, and if we double click one of them, we will be seeing a preview in the top-left panel. Alternatively, we can also import media through Media Browser, which is also located at the bottom-left corner.
 
-## Step 4: Learn the Workflow
+## Step 4: Save the Project
+
+![File > Save]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/file-save.png)
+
+It is never too early to save our project. Since we've chosen the location at the beginning, the project is actually already saved at that location. What we need to do now is constantly go to File > Save, or press CMD + S on a Mac or Ctrl + S on a PC.
+
+Similar to Photoshop, if we simply click on save, the project is saved in a format that Premiere can still read and edit, just like the moment we save it.
+
+## Step 5: Learn the Workflow
 
 We have prepared all the ingredients, but now we need to start cooking.
 
@@ -75,12 +83,12 @@ We can move those clips around with the Selection Tool, which is chosen by defau
 
 ### Enabling and disabling clips
 
-1. To enable/disable the selected clips, right click on selected clips and check/uncheck Enable.
+1) To enable/disable the selected clips, right click on selected clips and check/uncheck Enable.
 
 ![Eye - Show]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/eye-show.png)
 ![Eye - Hide]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/eye-hide.png)
 
-2. To enable/disable a track, click on the eye icon for the track.
+2) To enable/disable a track, click on the eye icon for the track.
 
 ![Timeline - Enable]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/timeline-enable.png)
 
@@ -128,13 +136,49 @@ Similar, we can link a video clip and a audio clip by selecting both of them, ri
 
 ![Magnet Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/magnet-icon.png)
 
-If we want ends of clips to snap to the playhead or ends of other clips as we move them, we need to make sure the magnet icon is highlighted. And unhightlight it if we don't want to snap.
+If we want ends of clips to snap to the playhead or ends of other clips as we move them, we need to make sure the magnet icon is highlighted. And unhighlight it if we don't want to snap.
 
-## Step 5: Save the Project
+### Transitions
 
+To apply a video transition between two clips, we need to do the following:
 
+![Workspace - Transitions]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/workspace-transitions.png)
+
+1. In the right-most panel, navigate to Effects > Video Transitions, and then expand any of the sub-category.
+2. Drag and drop any transition onto any clips we want to apply transition to.
+3. We can adjust the duration by double clicking on the transition we just added on timeline.
+
+### Text
+
+![Type Tool]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/type-tool.png)
+
+1) Select Type Tool and click anywhere on the top-middle panel to add text.
+
+![Workspace after Type]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/workspace-after-type.png)
+
+2) In the right-most panel, navigate to Essential Graphics > Edit.
+3) Select the text we just created under Edit so we can style it.
+4) In the timeline, the created text is shown the same as a video clip so we can edit them in a similar fashion.
+
+### Speed & Duration
+
+![Timeline - Speed/Duration]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/timeline-speed-duration.png)
+
+1) Select the clip we want to change speed of, right click and choose Speed/Duration...
+
+![Clip Speed/Duration]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/clip-speed-duration.png){:width="50%"}
+
+2) Enter a desired speed or duration in the new window and click OK to apply.
 
 ## Step 6: Export for Web
+
+Once we are done editing, we can't just share the project file, which only Premiere can read, instead, we need to export it as a video file that our media player and broswer can play.
+
+1) If we have multiple sequences, first double click on the sequence we want to export
+
+2) The same way we mark in and out for individual clips, we can also mark in and out for the whole sequence in the top-middle panel.
+
+3) Go to File > Export > Media...
 
 ## More Resources
 
