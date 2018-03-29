@@ -7,6 +7,27 @@ description: A workshop on the basics of Adobe Premiere Pro.
 
 ## Table of Contents
 
+- [Step 1: Create New Project](#step-1-create-new-project)
+- [Step 2: Create New Sequence](#step-2-create-new-sequence)
+- [Step 3: Import Media](#step-3-import-media)
+- [Step 4: Save the Project](#step-4-save-the-project)
+- [Step 5: Learn the Workflow](#step-5-learn-the-workflow)
+  * [Marking in & out](#marking-in--out)
+  * [Adding & moving clips](#adding--moving-clips)
+  * [Enabling & disabling clips](#enabling--disabling-clips)
+  * [Cutting clips](#cutting-clips)
+  * [Slipping](#slipping)
+  * [Sliding](#sliding)
+  * [Rolling](#rolling)
+  * [Linking & Unlinking](#linking--unlinking)
+  * [Snapping](#snapping)
+  * [Effects](#effects)
+  * [Transitions](#transitions)
+  * [Text](#text)
+  * [Beginner Animation](#beginner-animation)
+  * [Speed & Duration](#speed--duration)
+- [Step 6: Export for Sharing](#step-6-export-for-sharing)
+
 ## Step 1: Create New Project
 
 We start off by launching the application either in Launchpad or with Spotlight.
@@ -65,13 +86,13 @@ Similar to Photoshop, if we simply click on save, the project is saved in a form
 
 We have prepared all the ingredients, but now we need to start cooking.
 
-### Marking in and out
+### Marking in & out
 
 ![Viewer with Mark]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/viewer-with-mark.png)
 
 As is just mentioned, media can be previewed by double clicking on the media. In the top-left viewer, we can click “{” to mark in, which means to mark the beginning of the clip to be used in timeline. And we click “}” to mark out, which means to mark the end of the clip to be used in timeline.
 
-### Adding and moving clips
+### Adding & moving clips
 
 ![Timeline with Media]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/timeline-with-media.png)
 
@@ -81,7 +102,7 @@ After marking, we can drag and drop the clips to the timeline of the sequence we
 
 We can move those clips around with the Selection Tool, which is chosen by default.
 
-### Enabling and disabling clips
+### Enabling & disabling clips
 
 1) To enable/disable the selected clips, right click on selected clips and check/uncheck Enable.
 
@@ -122,7 +143,7 @@ This tool adjusts the ins, outs, and durations of two adjacent clips.
 
 ![Rolling Edit Tool Demo]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/rolling-edit-tool-demo.png)
 
-### Linking and Unlinking
+### Linking & Unlinking
 
 ![Timeline - Unlink]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/timeline-unlink.png)
 
