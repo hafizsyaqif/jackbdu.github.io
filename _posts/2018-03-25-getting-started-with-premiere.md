@@ -53,9 +53,44 @@ Now let's import some media, a.k.a., footage, audios, etc.
 
 Similar to sequences, the imported media can also be managed in the bottom-left panel, and if we double click one of them, we will be seeing a preview in the top-left panel. Alternatively, we can also import media through Media Browser, which is also located at the bottom-left corner.
 
-## Step 4: Learn the Tools
+## Step 4: Learn the Workflow
+
+We have prepared all the ingredients, but now we need to start cooking.
+
+### Marking in and out
+
+![Viewer with Mark]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/viewer-with-mark.png)
+
+As is just mentioned, media can be previewed by double clicking on the media. In the top-left viewer, we can click “{” to mark in, which means to mark the beginning of the clip to be used in timeline. And we click “}” to mark out, which means to mark the end of the clip to be used in timeline.
+
+### Adding and moving clips
+
+![Timeline with Media]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/timeline-with-media.png)
+
+We start by dragging media to the timeline of the sequence we created. Note that there are two different types of tracks in timeline, one for video and one for audio. And the larger the video track number is, the closer the clip is to us. In other words, the clips on a video track with larger track number blocks the clips on a video track with smaller track number. In contrary, all audio plays together.
+
+![Selection Tool]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/selection-tool.png)
+
+We can move those clips around with the Selection Tool, which is chosen by default.
+
+### Enabling and disabling clips
+
+1. To enable/disable the selected clips, right click on selected clips and check/uncheck Enable.
+
+![Eye - Show]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/eye-show.png)
+![Eye - Hide]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/eye-hide.png)
+
+2. To enable/disable a track, click on the eye icon for the track.
+
+### Cutting clips
+
+![Razor Tool]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/razor-tool.png)
+
+With the Razor Tool, we can split one clip into two, and move edit them separately.
 
 ## Step 5: Save the Project
+
+
 
 ## Step 6: Export for Web
 
@@ -68,3 +103,7 @@ Premium Beat: [15 Premiere Tutorials Every Editor Should Watch](https://www.prem
 Lynda.com [Premiere Tutorials](https://www.lynda.com/Premiere-Pro-training-tutorials/287-0.html)
 
 Media College [Premiere Pro Tutorials](https://www.mediacollege.com/adobe/premiere/pro/)
+
+## Acknowledgement
+
+Big thanks to [Jiwon Shin](http://jiwonshin.com), who kindly provided the video footage. Here's [a link to her workshops](https://js6450.github.io).
