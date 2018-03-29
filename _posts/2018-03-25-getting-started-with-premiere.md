@@ -138,6 +138,32 @@ Similar, we can link a video clip and a audio clip by selecting both of them, ri
 
 If we want ends of clips to snap to the playhead or ends of other clips as we move them, we need to make sure the magnet icon is highlighted. And unhighlight it if we don't want to snap.
 
+### Effects
+
+To apply a video effect, we need to do the following:
+
+![Workspace - Effects]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/workspace-effects.png)
+
+1) In the right-most panel, navigate to Effects > Video Effects, and then expand any of the sub-category.
+
+2) Drag and drop any effect onto any clip we want to apply effect to.
+
+3) We can adjust the effect by going to Effect Controls tab in the top-left panel.
+
+We can see that in Effects Control, we can also change the position, scale, rotation, etc. of the video clip.
+
+In particular, to correct the white balance, we can do the following:
+
+![Workspace after Correction]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/workspace-after-correction.png)
+
+1) Apply Effects > Obsolete > Fast Color Corrector to the video clip we want to correct white balance of.
+
+2) In Effects Controls, click on the eyedropper next to White Balance
+
+3) Click at any area that is supposed to be white or gray in the top-middle viewer.
+
+Similarly, we can also apply audio effects to audio clips.
+
 ### Transitions
 
 To apply a video transition between two clips, we need to do the following:
@@ -147,6 +173,8 @@ To apply a video transition between two clips, we need to do the following:
 1. In the right-most panel, navigate to Effects > Video Transitions, and then expand any of the sub-category.
 2. Drag and drop any transition onto any clips we want to apply transition to.
 3. We can adjust the duration by double clicking on the transition we just added on timeline.
+
+Similarly, we can also apply audio transitions to audio clips.
 
 ### Text
 
