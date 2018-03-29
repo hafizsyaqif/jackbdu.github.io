@@ -185,8 +185,24 @@ Similarly, we can also apply audio transitions to audio clips.
 ![Workspace after Type]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/workspace-after-type.png)
 
 2) In the right-most panel, navigate to Essential Graphics > Edit.
+
 3) Select the text we just created under Edit so we can style it.
+
 4) In the timeline, the created text is shown the same as a video clip so we can edit them in a similar fashion.
+
+### Beginner Animation
+
+Now that we have the text, but how do we animate it?
+
+We animate the text by adding keyframes, which marks what the text should be like at specific frames, and the computer will automatically add transition between two keyframes.
+
+![Workspace - Animation]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/workspace-animation.png)
+
+1) Move the playhead to 00:00 and click the clock next to Scale in Effect Controls to set a keyframe (now scale is 100.0)
+
+2) Move playhead to 04:00 and adjust Scale to 200.0, and we'll see a new keyframe created in Effect Controls
+
+3) Now play from 00:00 to preview the animation
 
 ### Speed & Duration
 
@@ -198,7 +214,7 @@ Similarly, we can also apply audio transitions to audio clips.
 
 2) Enter a desired speed or duration in the new window and click OK to apply.
 
-## Step 6: Export for Web
+## Step 6: Export for Sharing
 
 Once we are done editing, we can't just share the project file, which only Premiere can read, instead, we need to export it as a video file that our media player and broswer can play.
 
