@@ -180,6 +180,24 @@ Once we are done editing, we can't just share the project file, which only Premi
 
 3) Go to File > Export > Media...
 
+![Export Settings]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/export-settings.png)
+
+4) There are a few things we need to note in Export Settings:
+
+- Set Format to H.264
+- Click Output Name and specify the name and location
+- Under Video > Basic Video Settings, we can change the resolution by uncheck the first checkbox and specify the width and height.
+
+5) We have two options for the final step:
+
+![Encoding]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/encoding.png){:width="50%"}
+
+- We can click Export to export the video, but we won't be able to do anything in Premiere while it's encoding.
+
+![Media Encoder]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/media-encoder.png)
+
+- Or we can click Queue, which opens up Adobe Media Encoder. Click the green start button at the top-right corner to start encoding the video.
+
 ## More Resources
 
 [Premiere tutorials](https://helpx.adobe.com/premiere-pro/tutorials.html) on the Adobe site
