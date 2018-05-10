@@ -40,6 +40,8 @@ Aug. 2017 – Present
 
 # Exhibitions
 
+2018 \| **Shanghai Education Expo**, Shanghai Exhibition Center, Shanghai, China
+
 2017 \| **The Map as Art**, NYU Shanghai Gallery, Shanghai, China
 
 2017 \| **Life Geek Exhibition**, USC-SJTU Institute of Cultural and Creative Industry, Shanghai, China
