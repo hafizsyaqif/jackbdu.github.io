@@ -18,6 +18,6 @@ Mandarinizer - Webcam Stream Mandarinized |
 :----------: |
 Mandarinizer - Who Am I |
 
-[Launch](https://jackbdu.bitbucket.io/mandarinizer/) the application.
+[Launch](https://jackbdu.com/mandarinizer/) the application.
 
-Source code available on [GitHub](https://github.com/JackBDu/mandarinizer).
+Source code available on [GitHub](https://github.com/jackbdu/mandarinizer).
