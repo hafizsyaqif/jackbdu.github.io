@@ -32,11 +32,17 @@ June 2014 – July 2014
 
 # Experience
 
+**New York University Abu Dhabi**, Abu Dhabi, UAE
+
+Assistant Instructor of Interactive Media
+
+Aug. 2018 – Present
+
 **New York University Shanghai**, Shanghai, China
 
-Associate Fellow in Interactive Media Arts
+Associate Fellow of Interactive Media Arts
 
-Aug. 2017 – Present
+Aug. 2017 – Aug. 2018
 
 # Exhibitions
 
