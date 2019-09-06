@@ -3,7 +3,7 @@ layout: post
 title: Home Series
 categories: projects
 tags: photography
-description: A series of photographs of my home.
+description: A series of photographs of objects at my home that I lived throughout childhood and adolescence.
 ---
 
 ![Home Series #1]({{ site.baseurl }}/media/projects/home-series/home-series-01.jpg) |
