@@ -21,7 +21,7 @@ html {
 
 body {
 	background: $bgColor;
-  font: 200 1em $fontStack;
+  font: 300 1em $fontStack;
   color: $bodyColor;
   margin: 2em auto;
   max-width: 1005px;
@@ -146,7 +146,7 @@ table {
 }
 
 .date {
-  font-weight: 200;
+  font-weight: 300;
   font-size: 0.8em;
   color: $lightBodyColor;
 }
