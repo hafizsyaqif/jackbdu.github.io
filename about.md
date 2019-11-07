@@ -3,13 +3,19 @@ layout: page
 title: About
 permalink: /about/
 ---
-I currently work as an Assistant Instructor of Interactive Media at [New York University Abu Dhabi](https://nyuad.nyu.edu). I graduated from [New York University Shanghai](https://shanghai.nyu.edu) with a Bachelor of Science degree in [Computer Science](https://shanghai.nyu.edu/academics/majors/cs) and [Interactive Media Arts](https://ima.nyu.sh). I rediscovered my passion for drawing while studying in New York, and later, I studied [Visual Arts](https://nyuadvis.art) in Abu Dhabi.
+
+I am a non-robotic being grew up in [Yan’an](https://en.wikipedia.org/wiki/Yan%27an), a small city in [northern Shaanxi](https://en.wikipedia.org/wiki/Northern_Shaanxi). I love drawing and doing all sorts of stuff on a computer since I was a kid, so I studied computer science in college, and also learned some art skills.
 
 <div class="clearfix">
   <div class="filter"><img class="about" src="{{ site.baseurl }}/media/about/wo.jpg" /></div>
   <div class="filter"><img class="about" src="{{ site.baseurl }}/media/about/wo.jpg" /></div>
 </div>
 
-I built [Minus E](http://minusetheartbot.me), a robot that creates large-scale drawings, whose work won the 5th place in the [2017 Robot Art Competition](https://robotart.org/2017-winners/). The development of Minus E made me realize my deep interest in the creation of traditional visual art with aid of modern technology like computer vision and robotics, which often explores the human visual perception of pixelated visual art.
+I built [Minus E](http://minusetheartbot.me), a robotic system that I collaborate with to create
+large-scale drawings. Our work won the 5th place in the [2017 Robot Art Competition](https://robotart.org/2017-winners/).
 
-Learn more about me from my [CV]({{ site.baseurl }}/cv) or reach me at [jackbdu@nyu.edu](mailto:jackbdu@nyu.edu).
+At the moment, I work as an arts instructor of [Interactive Media](https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/academic-programs/interactive-media.html) at [New York University Abu Dhabi](https://nyuad.nyu.edu/en/). And I always seek the opporunity to create art with all sorts of technologies.
+
+Learn more about me from my [CV]({{ site.baseurl }}/cv) or hit me up at [jackbdu@nyu.edu](mailto:jackbdu@nyu.edu).
+
+
