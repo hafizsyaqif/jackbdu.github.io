@@ -62,7 +62,7 @@ Aug. 2017 – Aug. 2018
 
 # Press
 
-2017 \| Chapman, Catherine: "[Robot Artists Compete for Thousands of Dollars at This Painting Competition](https://creators.vice.com/en_au/article/xwqk3n/robot-artists-compete-for-thousands-of-dollars-at-this-painting-competition)", Creators, May 23, 2017.
+2017 \| Chapman, Catherine: "[Robot Artists Compete for Thousands of Dollars at This Painting Competition](https://creators.vice.com/en_au/article/xwqk3n/robot-artists-compete-for-thousands-of-dollars-at-this-painting-competition)", Vice, May 23, 2017.
 
 2017 \| Robitzski, Dan: "[These 14 Stunning Works of Art Were Made by Robots](https://www.inverse.com/article/31847-2017-robot-art-competition-winners)", Inverse, May 19, 2017.
 
