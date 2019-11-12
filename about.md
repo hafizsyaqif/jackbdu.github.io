@@ -13,6 +13,6 @@ I built [Minus E](http://minusetheartbot.me), a robotic system that I collaborat
   <div class="filter"><img class="about" src="{{ site.baseurl }}/media/about/wo.jpg" /></div>
 </div>
 
-At the moment, I work as an arts instructor of [Interactive Media](https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/academic-programs/interactive-media.html) at [New York University Abu Dhabi](https://nyuad.nyu.edu/en/). And I always seek the opporunity to create art with all sorts of technologies.
+At the moment, I work as an arts instructor of [Interactive Media](https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/academic-programs/interactive-media.html) at [New York University Abu Dhabi](https://nyuad.nyu.edu/en/). And I always seek the opportunities to create art with all sorts of technologies.
 
 Learn more about me from my [CV]({{ site.baseurl }}/cv) or hit me up at [jackbdu@nyu.edu](mailto:jackbdu@nyu.edu).
