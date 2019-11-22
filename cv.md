@@ -60,6 +60,20 @@ Aug. 2017 – Aug. 2018
 
 2016 \| **December Showcase**, NYU Abu Dhabi Arts Center, Abu Dhabi, UAE
 
+# Talks
+
+2018 \| “[Making Art with a Robot](https://www.zaojiu.com/talks/2152)”, Zaojiu, Shanghai, China
+
+2017 \| “Ordered Randomness”, Life Geek, Shanghai, China
+
+# Awards
+
+2017 \| **Excellence Award** at [Life Geek](http://www.manamana.net/lifegeek/21), Shanghai, China
+
+2017 \| **5th Place** at [Robot Art Competition](https://robotart.org/2017-winners/), USA
+
+2014 \| **2nd Best Hardware Hack** at [HackShanghai](http://2014.hackshanghai.com), Shanghai, China
+
 # Press
 
 2017 \| Chapman, Catherine: "[Robot Artists Compete for Thousands of Dollars at This Painting Competition](https://creators.vice.com/en_au/article/xwqk3n/robot-artists-compete-for-thousands-of-dollars-at-this-painting-competition)", Vice, May 23, 2017.
@@ -72,14 +86,6 @@ Aug. 2017 – Aug. 2018
 
 2016 \| Richardson, Catherine Walter: “[Superstars – Jack B. Du](https://www.nyu.edu/admissions/undergraduate-admissions/life-at-nyu/spring2016/superstars.html)”, NYU Quarterly, Feb. 2016.
 
-2015 \| Bekink, Martha J: “[NYU Shanghai student Jack B. Du develops mouse for kids with cerebral palsy](https://www.nyu.edu/admissions/undergraduate-admissions/life-at-nyu/spring2016/superstars.html)”, NYU Global Dimensions, Oct. 21, 2015.
+2015 \| Bekink, Martha J: “[NYU Shanghai student Jack B. Du develops mouse for kids with cerebral palsy](https://wp.nyu.edu/global_dimensions/2015/10/21/nyu-shanghai-student-jack-b-du-develops-mouse-for-kids-with-cerebral-palsy/)”, NYU Global Dimensions, Oct. 21, 2015.
 
 2014 \| Juan, Charlotte San: “[A Thoughtful Invention: NYU Shanghai Student Creates Versatile Computer Mouse](https://shanghai.nyu.edu/news/joy-mouse)”, NYU Shanghai, Dec. 12, 2014.
-
-# Awards
-
-2017 \| **Excellence Award** at [Life Geek](http://www.manamana.net/lifegeek/21), Shanghai, China
-
-2017 \| **5th Place** at [Robot Art Competition](https://robotart.org/2017-winners/), USA
-
-2014 \| **2nd Best Hardware Hack** at [HackShanghai](http://2014.hackshanghai.com), Shanghai, China
