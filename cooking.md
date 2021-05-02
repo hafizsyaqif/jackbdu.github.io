@@ -32,9 +32,9 @@ Butter Chicken |
 :----------: |
 Chicken Stew with Mushrooms |
 
-![Clay Pot Braised Chicken with Cornbread]({{ site.baseurl }}/media/cooking/clay-pot-braised-chicken-with-cornbread.jpg) |
+![Clay Pot Chicken with Cornbread]({{ site.baseurl }}/media/cooking/clay-pot-chicken-with-cornbread.jpg) |
 :----------: |
-Clay Pot Braised Chicken with Cornbread |
+Clay Pot Chicken with Cornbread |
 
 ![Egg Drop Soup]({{ site.baseurl }}/media/cooking/egg-drop-soup.jpg) |
 :----------: |
