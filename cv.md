@@ -62,13 +62,13 @@ Aug. 2017 – Aug. 2018
 
 # Talks
 
-2018 \| “[Making Art with a Robot](https://www.zaojiu.com/talks/2152)”, Zaojiu, Shanghai, China
+2018 \| “[Making Art with a Robot](https://www.bilibili.com/video/av27211915/)”, Zaojiu, Shanghai, China
 
 2017 \| “Ordered Randomness”, Life Geek, Shanghai, China
 
 # Awards
 
-2017 \| **Excellence Award** at [Life Geek](http://www.manamana.net/lifegeek/21), Shanghai, China
+2017 \| **Excellence Award** at [Life Geek](https://v.qq.com/x/page/a0620ky9lbx.html), Shanghai, China
 
 2017 \| **5th Place** at [Robot Art Competition](https://robotart.org/2017-winners/), USA
 
@@ -76,16 +76,18 @@ Aug. 2017 – Aug. 2018
 
 # Press
 
-2017 \| Chapman, Catherine: "[Robot Artists Compete for Thousands of Dollars at This Painting Competition](https://creators.vice.com/en_au/article/xwqk3n/robot-artists-compete-for-thousands-of-dollars-at-this-painting-competition)", Vice, May 23, 2017.
+2018 \| Turner, Juliet: "[Creative Machines](https://cdn.shanghai.nyu.edu/sites/default/files/nyush_spring2018_english.pdf)", _NYUSH Magzine_, Spring 2018
 
-2017 \| Robitzski, Dan: "[These 14 Stunning Works of Art Were Made by Robots](https://www.inverse.com/article/31847-2017-robot-art-competition-winners)", Inverse, May 19, 2017.
+2017 \| Chapman, Catherine: "[Robot Artists Compete for Thousands of Dollars at This Painting Competition](https://creators.vice.com/en_au/article/xwqk3n/robot-artists-compete-for-thousands-of-dollars-at-this-painting-competition)", _Vice_, May 23, 2017.
 
-2017 \| Haridy, Rich: "[Art in the age of ones and zeros: Robot art](https://newatlas.com/art-ones-and-zeros-robotart-painting/49538/)", New Atlas, May 16, 2017.
+2017 \| Robitzski, Dan: "[These 14 Stunning Works of Art Were Made by Robots](https://www.inverse.com/article/31847-2017-robot-art-competition-winners)", _Inverse_, May 19, 2017.
 
-2017 \| Daley, Jason: "[Check Out This Year’s Entries to the RobotArt Competition](https://www.smithsonianmag.com/smart-news/check-out-entries-years-robotart-competition-180963071/#PibviKXRXsyu1Sq7.99)", Smithsonian, Apr. 28, 2017.
+2017 \| Haridy, Rich: "[Art in the age of ones and zeros: Robot art](https://newatlas.com/art-ones-and-zeros-robotart-painting/49538/)", _New Atlas_, May 16, 2017.
+
+2017 \| Daley, Jason: "[Check Out This Year’s Entries to the RobotArt Competition](https://www.smithsonianmag.com/smart-news/check-out-entries-years-robotart-competition-180963071/#PibviKXRXsyu1Sq7.99)", _Smithsonian_, Apr. 28, 2017.
 
 2016 \| Richardson, Catherine Walter: “[Superstars – Jack B. Du](https://www.nyu.edu/admissions/undergraduate-admissions/life-at-nyu/spring2016/superstars.html)”, NYU Quarterly, Feb. 2016.
 
-2015 \| Bekink, Martha J: “[NYU Shanghai student Jack B. Du develops mouse for kids with cerebral palsy](https://wp.nyu.edu/global_dimensions/2015/10/21/nyu-shanghai-student-jack-b-du-develops-mouse-for-kids-with-cerebral-palsy/)”, NYU Global Dimensions, Oct. 21, 2015.
+2015 \| Bekink, Martha J: “[NYU Shanghai student Jack B. Du develops mouse for kids with cerebral palsy](https://wp.nyu.edu/global_dimensions/2015/10/21/nyu-shanghai-student-jack-b-du-develops-mouse-for-kids-with-cerebral-palsy/)”, _NYU Global Dimensions_, Oct. 21, 2015.
 
 2014 \| Juan, Charlotte San: “[A Thoughtful Invention: NYU Shanghai Student Creates Versatile Computer Mouse](https://shanghai.nyu.edu/news/joy-mouse)”, NYU Shanghai, Dec. 12, 2014.
