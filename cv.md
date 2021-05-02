@@ -86,7 +86,7 @@ Aug. 2017 – Aug. 2018
 
 2017 \| Daley, Jason: "[Check Out This Year’s Entries to the RobotArt Competition](https://www.smithsonianmag.com/smart-news/check-out-entries-years-robotart-competition-180963071/#PibviKXRXsyu1Sq7.99)", _Smithsonian_, Apr. 28, 2017.
 
-2016 \| Richardson, Catherine Walter: “[Superstars – Jack B. Du](https://www.nyu.edu/admissions/undergraduate-admissions/life-at-nyu/spring2016/superstars.html)”, NYU Quarterly, Feb. 2016.
+2016 \| Richardson, Catherine Walter: “[Superstars – Jack B. Du](https://www.nyu.edu/admissions/undergraduate-admissions/life-at-nyu/spring2016/superstars.html)”, _NYU Quarterly_, Feb. 2016.
 
 2015 \| Bekink, Martha J: “[NYU Shanghai student Jack B. Du develops mouse for kids with cerebral palsy](https://wp.nyu.edu/global_dimensions/2015/10/21/nyu-shanghai-student-jack-b-du-develops-mouse-for-kids-with-cerebral-palsy/)”, _NYU Global Dimensions_, Oct. 21, 2015.
 
