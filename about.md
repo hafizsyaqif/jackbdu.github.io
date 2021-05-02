@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I am a non-robotic being grew up in [Yan’an](https://en.wikipedia.org/wiki/Yan%27an), a small city in [northern Shaanxi](https://en.wikipedia.org/wiki/Northern_Shaanxi). I love drawing and doing all sorts of stuff on a computer since I was a kid, so I studied computer science in college, and also learned some art skills.
+I'm Jack. I love art and all things tech. That's why I built [a robot that does art]({{ site.baseurl }}/projects/minus-e/). At the moment, I work as an arts instructor of [Interactive Media](https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/academic-programs/interactive-media.html) at [NYU Abu Dhabi](https://nyuad.nyu.edu/en/). What that means is that I help students figure their things out while I'm still trying to figure things out in my own life.
 
-I built [Minus E](http://minusetheartbot.me), a robotic system that I collaborate with to create large-scale drawings. Our work won the 5th place in the [2017 Robot Art Competition](https://robotart.org/2017-winners/).
+Oh, by the way, I cook in my spare time. You can find photos of some of my cooking [here]().
 
-<div class="clearfix">
-  <div class="filter"><img class="about" src="{{ site.baseurl }}/media/about/wo.jpg" /></div>
-  <div class="filter"><img class="about" src="{{ site.baseurl }}/media/about/wo.jpg" /></div>
-</div>
-
-At the moment, I work as an arts instructor of [Interactive Media](https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/academic-programs/interactive-media.html) at [New York University Abu Dhabi](https://nyuad.nyu.edu/en/). And I always seek the opportunities to create art with all sorts of technologies.
-
-Learn more about me from my [CV]({{ site.baseurl }}/cv) or hit me up at [jackbdu@nyu.edu](mailto:jackbdu@nyu.edu).
+[Here]({{ site.baseurl }}/cv)'s my CV, or drop me a line at [hi@jackbdu.com](mailto:hi@jackbdu.com). I'm always happy to talk to new people and be inspired :)
