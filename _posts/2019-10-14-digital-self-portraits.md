@@ -20,7 +20,7 @@ Self-Portrait of Little Jack (2019) - Cyan | Self-Portrait of Little Jack (2019)
 
 ![Self-Portrait of Little Jack - Yellow]({{ site.baseurl }}/media/projects/digital-self-portraits/self-portrait-of-little-jack-yellow.jpg) | ![Self-Portrait of Little Jack - Black]({{ site.baseurl }}/media/projects/digital-self-portraits/self-portrait-of-little-jack-black.jpg)
 :----------: | :----------:
-Self-Portrait of Little Jack (2019) | Self-Portrait of Little Jack (2019)
+Self-Portrait of Little Jack (2019) - Yellow | Self-Portrait of Little Jack (2019) - Black
 
 ![Self-Portrait]({{ site.baseurl }}/media/projects/digital-self-portraits/self-portrait.jpg) |
 :----------: |
