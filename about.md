@@ -10,4 +10,4 @@ At the moment, I work as an arts instructor of [Interactive Media](https://nyuad
 
 Oh, by the way, I cook in my spare time. You can find photos of some of my cooking [here]({{ site.baseurl }}/cooking/).
 
-Check out my CV [here]({{ site.baseurl }}/cv/), or drop me a line at [hi@jackbdu.com](mailto:hi@jackbdu.com). I'm always happy to talk to new people and be inspired :)
+If you'd like to know more about me, check out my [CV]({{ site.baseurl }}/cv/), or drop me a line at [hi@jackbdu.com](mailto:hi@jackbdu.com). I'm always happy to talk to new people and be inspired :)
