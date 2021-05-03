@@ -6,7 +6,7 @@ tags: painting drawing
 description: A series of works based on Clay Shirky's Twitter profile picture.
 ---
 
-[Clay Shirky](https://en.wikipedia.org/wiki/Clay_Shirky) is a professor of mine, and I did this series because [Shirky's Twitter](https://twitter.com/cshirky) profile picture is his very intense eye.
+[Clay Shirky](https://en.wikipedia.org/wiki/Clay_Shirky) is a former professor of mine, and I did this series because [Shirky's Twitter](https://twitter.com/cshirky) profile picture is his very intense eye.
 
 ![Shirky's Twitter Profile Picture]({{ site.baseurl }}/media/projects/shirkys-eye/shirkys-profile-picture.jpg) |
 :----------: |
