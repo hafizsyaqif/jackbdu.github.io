@@ -2,7 +2,7 @@
 layout: post
 title: Shirky's Eye
 categories: projects
-tags: painting drawing
+tags: painting drawing featured
 description: A series of works based on Clay Shirky's Twitter profile picture.
 ---
 

@@ -3,10 +3,10 @@ layout: default
 ---
 
 <div class="posts clearfix">
-  {% for post in site.categories["projects"] %}
+  {% for post in site.tags["featured"] %}
   <div class="filter tile">
     <a href="{{ site.baseurl }}{{ post.url }}">
-      <img class="thumb" src="{{ site.baseurl }}/media{{ post. url }}thumb.jpg" />
+      <img class="thumb" src="{{ site.baseurl }}/media{{ post.url }}thumb.jpg" />
     </a>
   </div>
   {% endfor %}

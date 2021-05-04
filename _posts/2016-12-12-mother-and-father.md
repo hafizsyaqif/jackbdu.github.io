@@ -2,7 +2,7 @@
 layout: post
 title: Mother & Father
 categories: projects
-tags: painting
+tags: painting featured
 description: Two acrylic paintings, of my mother's right eye and my father's left eye.
 ---
 

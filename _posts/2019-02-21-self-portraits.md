@@ -2,7 +2,7 @@
 layout: post
 title: Self-Portraits
 categories: projects
-tags: photography
+tags: photography featured
 description: A series of photographs of myself.
 ---
 

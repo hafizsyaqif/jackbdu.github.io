@@ -2,7 +2,7 @@
 layout: post
 title: Self-Portrait
 categories: projects
-tags: drawing
+tags: drawing featured
 description: A graphite drawing based on a photograph of myself that I took in Washinton DC.
 ---
 

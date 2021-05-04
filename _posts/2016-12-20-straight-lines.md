@@ -2,7 +2,7 @@
 layout: post
 title: Straight Lines
 categories: projects
-tags: photography
+tags: photography featured
 description: A photography project that seeks to simplify the structures and lights at NYU Abu Dhabi.
 ---
 

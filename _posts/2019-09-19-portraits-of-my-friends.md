@@ -2,7 +2,7 @@
 layout: post
 title: Portraits of My Friends
 categories: projects
-tags: painting
+tags: painting featured
 description: A collection of digital paintings of my friends.
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Dark & Light
 categories: projects
-tags: installation video
+tags: installation video featured
 description: An interative sculpture of dark and light.
 ---
 

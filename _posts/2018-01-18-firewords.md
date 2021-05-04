@@ -2,7 +2,7 @@
 layout: post
 title: Firewords
 categories: projects
-tags: application
+tags: application featured
 description: A web application that turns words into fireworks.
 ---
 

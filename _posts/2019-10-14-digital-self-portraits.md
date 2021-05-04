@@ -2,7 +2,7 @@
 layout: post
 title: Digital Self-Portraits
 categories: projects
-tags: painting
+tags: painting featured
 description: A collection of digital paintings of myself.
 ---
 
