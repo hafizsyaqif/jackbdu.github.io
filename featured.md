@@ -1,6 +1,6 @@
 ---
 layout: tag
 title: "Projects #featured"
-tag: hardware
+tag: featured
 permalink: "/projects/featured"
 ---
