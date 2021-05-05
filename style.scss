@@ -33,7 +33,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $fontStack;
   color: $bodyColor;
   font-weight: 500;
-
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -84,27 +83,6 @@ a {
           transition: filter 0.3s ease, color 0.3s ease;
 }
 
-ul, ol {
-  margin: 15px 0;
-  padding-left: 30px;
-}
-
-ul {
-  list-style-type: disc;
-}
-
-ol {
-  list-style-type: decimal;
-}
-
-ol ul, ul ol, ul ul, ol ol {
-  margin: 0;
-}
-
-ul ul, ol ul {
-  list-style-type: circle;
-}
-
 em, i {
   font-style: italic;
 }
@@ -139,6 +117,16 @@ table {
 
 .entry {
   margin: 0.5em 0;
+
+  ul, ol {
+    margin: 15px 0;
+    padding-left: 30px;
+    line-height: 1.5;
+  }
+
+  li+li {
+    margin-top: .25em;
+  }
 }
 
 .entry p {
