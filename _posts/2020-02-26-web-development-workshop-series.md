@@ -10,10 +10,9 @@ The Web has become an integral part of everyday lives and it plays a crucial rol
 
 ## Schedule
 
-| Section   | Topic         |
-| --------- | ------------- |
-| Part I    | [HTML & CSS: Designing Layouts, Content & Styles](https://github.com/jackbdu/web-dev-workshop/tree/master/01-html-and-css) |
-| Part II   | [JavaScript: Adding Interactive Features](https://github.com/jackbdu/web-dev-workshop/tree/master/02-javascript) |
+Part I: [HTML & CSS: Designing Layouts, Content & Styles](https://github.com/jackbdu/web-dev-workshop/tree/master/01-html-and-css)
+
+Part II: [JavaScript: Adding Interactive Features](https://github.com/jackbdu/web-dev-workshop/tree/master/02-javascript)
 
 ## Learning Outcomes
 By the end of the workshop series, participants will
