@@ -4,13 +4,25 @@ title: Cooking
 permalink: /cooking/
 ---
 
+![Liangpi]({{ site.baseurl }}/media/cooking/liangpi.jpg) |
+:----------: |
+[Liangpi](https://en.wikipedia.org/wiki/Liangpi) |
+
+![Shredded Chicken Stir-Fry with Mixed Paocai]({{ site.baseurl }}/media/cooking/shredded-chicken-stir-fry-with-mixed-paocai.jpg) |
+:----------: |
+Shredded Chicken Stir-Fry with Mixed [Paocai](https://en.wikipedia.org/wiki/Pao_cai) |
+
+![Spaghetti Bolognese with Mixed Vegetables]({{ site.baseurl }}/media/cooking/spaghetti-bolognese-with-mixed-vegetables.jpg) |
+:----------: |
+Spaghetti [Bolognese](https://en.wikipedia.org/wiki/Bolognese_sauce) with Mixed Vegetables |
+
 ![Egg Drop Soup]({{ site.baseurl }}/media/cooking/egg-drop-soup.jpg) |
 :----------: |
-Egg Drop Soup |
+[Egg Drop Soup](https://en.wikipedia.org/wiki/Egg_drop_soup) |
 
-![Shousi Cabbages]({{ site.baseurl }}/media/cooking/shousi-cabbages.jpg) |
+![Shousi Cabbage]({{ site.baseurl }}/media/cooking/shousi-cabbage.jpg) |
 :----------: |
-Shousi Cabbages |
+Shousi Cabbage |
 
 ![Salmon Steak over Mashed Potatoes]({{ site.baseurl }}/media/cooking/salmon-steak-over-mashed-potatoes.jpg) |
 :----------: |
@@ -34,11 +46,11 @@ Chicken Stew with Mushrooms |
 
 ![Tenshindon]({{ site.baseurl }}/media/cooking/tenshindon.jpg) |
 :----------: |
-Tenshindon |
+[Tenshindon](https://en.wikipedia.org/wiki/Tenshindon) |
 
 ![Butter Chicken]({{ site.baseurl }}/media/cooking/butter-chicken.jpg) |
 :----------: |
-Butter Chicken |
+[Butter Chicken](https://en.wikipedia.org/wiki/Butter_chicken) |
 
 ![Sliced Beef in Golden Soup]({{ site.baseurl }}/media/cooking/sliced-beef-in-golden-soup.jpg) |
 :----------: |
@@ -46,7 +58,7 @@ Sliced Beef in Golden Soup |
 
 ![Quesadilla]({{ site.baseurl }}/media/cooking/quesadilla.jpg) |
 :----------: |
-Quesadilla |
+[Quesadilla](https://en.wikipedia.org/wiki/Quesadilla) |
 
 ![Banana Pancakes]({{ site.baseurl }}/media/cooking/banana-pancakes.jpg) |
 :----------: |
@@ -66,7 +78,7 @@ Garlic Mushrooms |
 
 ![Japanese Fried Chicken Curry]({{ site.baseurl }}/media/cooking/japanese-fried-chicken-curry.jpg) |
 :----------: |
-Japanese Fried Chicken Curry |
+Japanese Fried Chicken [Curry](https://en.wikipedia.org/wiki/Japanese_curry) |
 
 ![Braised Tofu]({{ site.baseurl }}/media/cooking/braised-tofu.jpg) |
 :----------: |
@@ -74,7 +86,7 @@ Braised Tofu |
 
 ![Lamb Spine Hot Pot]({{ site.baseurl }}/media/cooking/lamb-spine-hot-pot.jpg) |
 :----------: |
-Lamb Spine Hot Pot |
+Lamb Spine [Hot Pot](https://en.wikipedia.org/wiki/Hot_pot) |
 
 ![Lamb Skewers]({{ site.baseurl }}/media/cooking/lamb-skewers.jpg) |
 :----------: |
@@ -82,4 +94,4 @@ Lamb Skewers |
 
 ![Spaghetti Carbonara]({{ site.baseurl }}/media/cooking/spaghetti-carbonara.jpg) |
 :----------: |
-Spaghetti Carbonara |
+Spaghetti [Carbonara](https://en.wikipedia.org/wiki/Carbonara) |
