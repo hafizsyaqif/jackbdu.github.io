@@ -3,7 +3,7 @@ layout: post
 title: Gaozhong Series
 categories: projects
 tags: photography
-description: A series of photographs of workbooks that I used in Gaozhong (9th to 12th grade).
+description: A series of photographs of workbooks that I used in Gaozhong (10th to 12th grade).
 ---
 
 ![Gaozhong Series #1 - Yuwen]({{ site.baseurl }}/media/projects/gaozhong-series/gaozhong-series-01.jpg) |
