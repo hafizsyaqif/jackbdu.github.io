@@ -6,6 +6,10 @@ tags: photography featured
 description: A series of photographs of myself.
 ---
 
+![Self-Portraits on My Laptop]({{ site.baseurl }}/media/projects/self-portraits/self-portraits-on-my-laptop.jpg) |
+:----------: |
+Self-Portraits on My Laptop |
+
 ![Self-Portraits #1]({{ site.baseurl }}/media/projects/self-portraits/self-portraits-01.jpg) |
 :----------: |
 Self-Portraits #1, dimensions variable. |

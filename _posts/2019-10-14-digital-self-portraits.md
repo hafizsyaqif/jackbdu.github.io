@@ -8,7 +8,7 @@ description: A collection of digital paintings of myself.
 
 ![Self-Portraits]({{ site.baseurl }}/media/projects/digital-self-portraits/self-portraits.jpg) |
 :----------: |
-Self-Portraits (2020), created with Procreate, 2048 x 3072 px. |
+Self-Portraits (2020), created with Procreate, 2048 x 3072 px, based on [Self-Portraits]({{ site.baseurl }}/projects/self-portraits/) (2019). |
 
 ![Self-Portrait of Little Jack]({{ site.baseurl }}/media/projects/digital-self-portraits/self-portrait-of-little-jack.jpg) |
 :----------: |
