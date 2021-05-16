@@ -4,6 +4,10 @@
 
 [Projects](https://jackbdu.com/projects)
 
+[![](/media/projects/digital-self-portraits/thumb.jpg)](https://jackbdu.com/projects/digital-self-portraits)
+[![](/media/projects/portraits-of-my-friends/thumb.jpg)](https://jackbdu.com/projects/portraits-of-my-friends)
+[![](/media/projects/self-portraits/thumb.jpg)](https://jackbdu.com/projects/self-portraits)
+[![](/media/projects/firewords/thumb.jpg)](https://jackbdu.com/projects/firewords)
 [![](/media/projects/this-is-where-i-live/thumb.jpg)](https://jackbdu.com/projects/this-is-where-i-live)
 [![](/media/projects/home-series/thumb.jpg)](https://jackbdu.com/projects/home-series)
 [![](/media/projects/minus-e/thumb.jpg)](https://jackbdu.com/projects/minus-e)
@@ -15,12 +19,8 @@
 [![](/media/projects/shirkys-eye/thumb.jpg)](https://jackbdu.com/projects/shirkys-eye)
 [![](/media/projects/self-portrait/thumb.jpg)](https://jackbdu.com/projects/self-portrait)
 [![](/media/projects/redrawer/thumb.jpg)](https://jackbdu.com/projects/redrawer)
-[![](/media/projects/joy-mouse/thumb.jpg)](https://jackbdu.com/projects/joy-mouse)
-[![](/media/projects/frogs/thumb.jpg)](https://jackbdu.com/projects/frogs)
-[![](/media/projects/swallows/thumb.jpg)](https://jackbdu.com/projects/swallows)
-[![](/media/projects/fruits-and-vegetables/thumb.jpg)](https://jackbdu.com/projects/fruits-and-vegetables)
 
-[Email](mailto:jackbdu@nyu.edu) \| [GitHub](https://github.com/jackbdu) \| [Instagram](https://instagram.com/jackbdu) \| [LinkedIn](https://www.linkedin.com/in/jackbdu)
+[Email](mailto:hi@jackbdu.com) \| [GitHub](https://github.com/jackbdu) \| [Instagram](https://instagram.com/jackbdu) \| [LinkedIn](https://www.linkedin.com/in/jackbdu)
 
 # Credits
 
