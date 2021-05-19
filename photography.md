@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Projects #photography"
+title: "Works #photography"
 tag: photography
-permalink: "/projects/photography"
+permalink: "/works/tag/photography"
 ---

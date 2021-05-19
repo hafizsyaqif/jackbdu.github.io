@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Projects #installation"
+title: "Works #installation"
 tag: installation
-permalink: "/projects/installation"
+permalink: "/works/tag/installation"
 ---

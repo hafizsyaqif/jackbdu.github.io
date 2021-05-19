@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Projects #featured"
+title: "Works #featured"
 tag: featured
-permalink: "/projects/featured"
+permalink: "/works/tag/featured"
 ---
