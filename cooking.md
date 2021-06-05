@@ -4,6 +4,30 @@ title: Cooking
 permalink: /cooking/
 ---
 
+![Roujiamo]({{ site.baseurl }}/media/cooking/roujiamo.jpg) |
+:----------: |
+[Roujiamo](https://en.wikipedia.org/wiki/Roujiamo) |
+
+![Baozi]({{ site.baseurl }}/media/cooking/baozi.jpg) |
+:----------: |
+[Baozi](https://en.wikipedia.org/wiki/Baozi) |
+
+![Spicy & Sour Shredded Potatoes]({{ site.baseurl }}/media/cooking/spicy-and-sour-shredded-potatoes.jpg) |
+:----------: |
+Spicy & Sour Shredded Potatoes |
+
+![Baked Lamb Stuffed Buns]({{ site.baseurl }}/media/cooking/baked-lamb-stuffed-buns.jpg) |
+:----------: |
+Baked Lamb Stuffed Buns |
+
+![Potstickers]({{ site.baseurl }}/media/cooking/potstickers.jpg) |
+:----------: |
+[Potstickers](https://en.wikipedia.org/wiki/Jiaozi) |
+
+![Braised Prawns]({{ site.baseurl }}/media/cooking/braised-prawns.jpg) |
+:----------: |
+Braised Prawns |
+
 ![Liangpi]({{ site.baseurl }}/media/cooking/liangpi.jpg) |
 :----------: |
 [Liangpi](https://en.wikipedia.org/wiki/Liangpi) |
