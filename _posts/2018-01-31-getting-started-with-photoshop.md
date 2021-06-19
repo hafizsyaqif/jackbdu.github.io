@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Started with Photoshop
-categories: workshops
+categories: teaching
 description: A workshop on the basics of Adobe Photoshop.
 ---
 

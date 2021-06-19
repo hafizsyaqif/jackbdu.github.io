@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web Development Workshop Series
-categories: workshops
+categories: teaching
 description: Making a website from scratch for absolute beginners.
 ---
 
