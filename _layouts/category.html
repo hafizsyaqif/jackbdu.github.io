@@ -11,7 +11,7 @@ layout: default
 
       <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       {% for tag in post.tags %}
-        <a style="margin-left: 1em;font-size: 0.7em;" href="{{ baseurl }}/{{ page.category }}/tag/{{ tag }}">#{{tag}}</a>
+        <a style="margin-left: 1em;font-size: 0.7em;" href="/{{ page.category }}/tag/{{ tag }}">#{{tag}}</a>
       {% endfor %}
       </h1>
 
@@ -23,7 +23,7 @@ layout: default
         <p>{{ post.description }}</p>
       </div>
 
-      <a href="{{ post. url | relative_url}}"><img src="{{ site.baseurl }}/media{{ post. url}}preview.jpg"/></a>
+      <a href="{{ post. url | relative_url}}"><img src="/media{{ post.url }}preview.jpg"/></a>
 
     </article>
   {% endfor %}

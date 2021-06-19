@@ -5,7 +5,7 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}
   {% for tag in page.tags %}
-    <a style="margin-left: 1em;font-size: 0.7em;" href="{{ baseurl }}/{{ page.categories[0] }}/tag/{{ tag }}">#{{tag}}</a>
+    <a style="margin-left: 1em;font-size: 0.7em;" href="/{{ page.categories[0] }}/tag/{{ tag }}">#{{tag}}</a>
   {% endfor %}
   </h1>
 
