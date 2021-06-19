@@ -4,6 +4,22 @@ title: Cooking
 permalink: /cooking/
 ---
 
+![Yakitori]({{ site.baseurl }}/media/cooking/yakitori.jpg) |
+:----------: |
+[Yakitori](https://en.wikipedia.org/wiki/Yakitori) |
+
+![Zongzi]({{ site.baseurl }}/media/cooking/zongzi.jpg) |
+:----------: |
+[Zongzi](https://en.wikipedia.org/wiki/Zongzi) |
+
+![Beef Enchiladas]({{ site.baseurl }}/media/cooking/beef-enchiladas.jpg) |
+:----------: |
+Beef [Enchiladas](https://en.wikipedia.org/wiki/Enchilada) |
+
+![Big Mac]({{ site.baseurl }}/media/cooking/big-mac.jpg) |
+:----------: |
+[Big Mac](https://en.wikipedia.org/wiki/Big_Mac) |
+
 ![Roujiamo]({{ site.baseurl }}/media/cooking/roujiamo.jpg) |
 :----------: |
 [Roujiamo](https://en.wikipedia.org/wiki/Roujiamo) |
@@ -62,7 +78,7 @@ Clay Pot Chicken with Cornbread |
 
 ![Bubble Tea]({{ site.baseurl }}/media/cooking/bubble-tea.jpg) |
 :----------: |
-Bubble Tea |
+[Bubble Tea](https://en.wikipedia.org/wiki/Bubble_tea) |
 
 ![Chicken Stew with Mushrooms]({{ site.baseurl }}/media/cooking/chicken-stew-with-mushrooms.jpg) |
 :----------: |
@@ -112,9 +128,9 @@ Braised Tofu |
 :----------: |
 Lamb Spine [Hot Pot](https://en.wikipedia.org/wiki/Hot_pot) |
 
-![Lamb Skewers]({{ site.baseurl }}/media/cooking/lamb-skewers.jpg) |
+![Lamb Chuan]({{ site.baseurl }}/media/cooking/lamb-chuan.jpg) |
 :----------: |
-Lamb Skewers |
+Lamb [Chuan](https://en.wikipedia.org/wiki/Chuan_(food)) |
 
 ![Spaghetti Carbonara]({{ site.baseurl }}/media/cooking/spaghetti-carbonara.jpg) |
 :----------: |
