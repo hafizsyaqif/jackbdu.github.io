@@ -32,34 +32,34 @@ description: A workshop on the basics of Adobe Premiere Pro.
 
 We start off by launching the application either in Launchpad or with Spotlight.
 
-![Spotlight]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/spotlight.png)
+![Spotlight](/media{{ page.url }}spotlight.png)
 
 Once Premiere is launched, the first thing we see is the Start window, where we can create a new project by clicking New Project... and we will see the window below. Name and Location are the two fields we need to change based on our needs, and we can leave everything else default for the purpose of this tutorial.
 
-![New Project]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/new-project.png)
+![New Project](/media{{ page.url }}new-project.png)
 
 Once our project is created, we may see a different workspace depending on the previous user settings. There are two steps (as illustrated below) we need to do in order to make sure we are on the same workspace. And this is also what we do whenever we get lost (when don't know where everything is).
 
-![Menu Bar]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/menu-bar-window.png)
+![Menu Bar](/media{{ page.url }}menu-bar-window.png)
 
 1. Choose Window > Workspaces > All Panels. This sets the workspace to All Panels.
 2. Choose Window > Workspaces > Reset to Saved Layout. This resets All Panels to default.
 
-![Essentials]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/workspaces-all-panels.png) | ![Reset Essentials]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/workspaces-reset-all-panels.png)
+![Essentials](/media{{ page.url }}workspaces-all-panels.png) | ![Reset Essentials](/media{{ page.url }}workspaces-reset-all-panels.png)
 
 Here's what the workspace should look like after the reset.
 
-![Workspace]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/workspace.png)
+![Workspace](/media{{ page.url }}workspace.png)
 
 ## Step 2: Create New Sequence
 
 Now that we have created our project and we are on the same workspace, let's [create a new squence](https://helpx.adobe.com/premiere-pro/using/creating-changing-sequences.html).
 
-![New Sequence]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/new-sequence.png)
+![New Sequence](/media{{ page.url }}new-sequence.png)
 
 As we can see in the above image, we need to choose a Seqence Preset, which should be based on the footage we will be using. Here, I will be using Digital SLR > 1080p > DSLR 1080p30. We can also name the sequence at the bottom of the window, and then we click OK to create the sequence.
 
-![Workspace with Sequence]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/workspace-with-sequence.png)
+![Workspace with Sequence](/media{{ page.url }}workspace-with-sequence.png)
 
 We can manage our sequences in the bottom-left panel, and we can see that the sequence is automatically opened in the bottom-middle panel and a preview of the sequence can be seen on the top-middle panel.
 
@@ -70,13 +70,13 @@ Now let's import some media, a.k.a., footage, audios, etc.
 1. Go to File > Import...
 2. Choose the files we want to import and click import.
 
-![Workspace after Import]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/workspace-after-import.png)
+![Workspace after Import](/media{{ page.url }}workspace-after-import.png)
 
 Similar to sequences, the imported media can also be managed in the bottom-left panel, and if we double click one of them, we will be seeing a preview in the top-left panel. Alternatively, we can also import media through Media Browser, which is also located at the bottom-left corner.
 
 ## Step 4: Save the Project
 
-![File > Save]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/file-save.png)
+![File > Save](/media{{ page.url }}file-save.png)
 
 It is never too early to save our project. Since we've chosen the location at the beginning, the project is actually already saved at that location. What we need to do now is constantly go to File > Save, or press CMD + S on a Mac or Ctrl + S on a PC.
 
@@ -88,17 +88,17 @@ We have prepared all the ingredients, but now we need to start cooking.
 
 ### Marking in & out
 
-![Viewer with Mark]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/viewer-with-mark.png)
+![Viewer with Mark](/media{{ page.url }}viewer-with-mark.png)
 
 As is just mentioned, media can be previewed by double clicking on the media. In the top-left viewer, we can click “{” to mark in, which means to mark the beginning of the clip to be used in timeline. And we click “}” to mark out, which means to mark the end of the clip to be used in timeline.
 
 ### Adding & moving clips
 
-![Timeline with Media]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/timeline-with-media.png)
+![Timeline with Media](/media{{ page.url }}timeline-with-media.png)
 
 After marking, we can drag and drop the clips to the timeline of the sequence we created. Note that there are two different types of tracks in timeline, one for video and one for audio. And the larger the video track number is, the closer the clip is to us. In other words, the clips on a video track with larger track number blocks the clips on a video track with smaller track number. In contrary, all audio plays together.
 
-![Selection Tool]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/selection-tool.png)
+![Selection Tool](/media{{ page.url }}selection-tool.png)
 
 We can move those clips around with the Selection Tool, which is chosen by default.
 
@@ -106,56 +106,56 @@ We can move those clips around with the Selection Tool, which is chosen by defau
 
 1) To enable/disable the selected clips, right click on selected clips and check/uncheck Enable.
 
-![Eye - Show]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/eye-show.png)
-![Eye - Hide]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/eye-hide.png)
+![Eye - Show](/media{{ page.url }}eye-show.png)
+![Eye - Hide](/media{{ page.url }}eye-hide.png)
 
 2) To enable/disable a track, click on the eye icon for the track.
 
-![Timeline - Enable]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/timeline-enable.png)
+![Timeline - Enable](/media{{ page.url }}timeline-enable.png)
 
 ### Cutting clips
 
-![Razor Tool]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/razor-tool.png)
+![Razor Tool](/media{{ page.url }}razor-tool.png)
 
 With the Razor Tool, we can split one clip into two, and move edit them separately.
 
 ### Slipping
 
-![Slip Tool]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/slip-tool.png)
+![Slip Tool](/media{{ page.url }}slip-tool.png)
 
 This tool adjusts the in and out points of a clip without changing its position in the timeline.
 
-![Slip Tool Demo]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/slip-tool-demo.png)
+![Slip Tool Demo](/media{{ page.url }}slip-tool-demo.png)
 
 ### Sliding
 
-![Slide Tool]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/slide-tool.png)
+![Slide Tool](/media{{ page.url }}slide-tool.png)
 
 This tool adjusts the clip’s position in time by changing the ins and outs of adjacent clips.
 
-![Slide Tool Demo]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/slide-tool-demo.png)
+![Slide Tool Demo](/media{{ page.url }}slide-tool-demo.png)
 
 ### Rolling
 
-![Rolling Edit Tool]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/rolling-edit-tool.png)
+![Rolling Edit Tool](/media{{ page.url }}rolling-edit-tool.png)
 
 This tool adjusts the ins, outs, and durations of two adjacent clips.
 
-![Rolling Edit Tool Demo]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/rolling-edit-tool-demo.png)
+![Rolling Edit Tool Demo](/media{{ page.url }}rolling-edit-tool-demo.png)
 
 ### Linking & Unlinking
 
-![Timeline - Unlink]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/timeline-unlink.png)
+![Timeline - Unlink](/media{{ page.url }}timeline-unlink.png)
 
 If we select a video clip that comes with audio, we'll notice that both the video track and audio track will be selected. If we right click on the video track and choose unlink, we'll be able to manipulate the audio and video independently.
 
-![Timeline - After Unlink]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/timeline-after-unlink.png)
+![Timeline - After Unlink](/media{{ page.url }}timeline-after-unlink.png)
 
 Similar, we can link a video clip and a audio clip by selecting both of them, right clicking and choosing link.
 
 ### Snapping
 
-![Magnet Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/magnet-icon.png)
+![Magnet Icon](/media{{ page.url }}magnet-icon.png)
 
 If we want ends of clips to snap to the playhead or ends of other clips as we move them, we need to make sure the magnet icon is highlighted. And unhighlight it if we don't want to snap.
 
@@ -163,7 +163,7 @@ If we want ends of clips to snap to the playhead or ends of other clips as we mo
 
 To apply a video effect, we need to do the following:
 
-![Workspace - Effects]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/workspace-effects.png)
+![Workspace - Effects](/media{{ page.url }}workspace-effects.png)
 
 1) In the right-most panel, navigate to Effects > Video Effects, and then expand any of the sub-category.
 
@@ -175,7 +175,7 @@ We can see that in Effects Control, we can also change the position, scale, rota
 
 In particular, to correct the white balance, we can do the following:
 
-![Workspace after Correction]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/workspace-after-correction.png)
+![Workspace after Correction](/media{{ page.url }}workspace-after-correction.png)
 
 1) Apply Effects > Obsolete > Fast Color Corrector to the video clip we want to correct white balance of.
 
@@ -189,7 +189,7 @@ Similarly, we can also apply audio effects to audio clips.
 
 To apply a video transition between two clips, we need to do the following:
 
-![Workspace - Transitions]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/workspace-transitions.png)
+![Workspace - Transitions](/media{{ page.url }}workspace-transitions.png)
 
 1. In the right-most panel, navigate to Effects > Video Transitions, and then expand any of the sub-category.
 2. Drag and drop any transition onto any clips we want to apply transition to.
@@ -199,11 +199,11 @@ Similarly, we can also apply audio transitions to audio clips.
 
 ### Text
 
-![Type Tool]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/type-tool.png)
+![Type Tool](/media{{ page.url }}type-tool.png)
 
 1) Select Type Tool and click anywhere on the top-middle panel to add text.
 
-![Workspace after Type]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/workspace-after-type.png)
+![Workspace after Type](/media{{ page.url }}workspace-after-type.png)
 
 2) In the right-most panel, navigate to Essential Graphics > Edit.
 
@@ -217,7 +217,7 @@ Now that we have the text, but how do we animate it?
 
 We animate the text by adding keyframes, which marks what the text should be like at specific frames, and the computer will automatically add transition between two keyframes.
 
-![Workspace - Animation]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/workspace-animation.png)
+![Workspace - Animation](/media{{ page.url }}workspace-animation.png)
 
 1) Move the playhead to 00:00 and click the clock next to Scale in Effect Controls to set a keyframe (now scale is 100.0)
 
@@ -227,11 +227,11 @@ We animate the text by adding keyframes, which marks what the text should be lik
 
 ### Speed & Duration
 
-![Timeline - Speed/Duration]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/timeline-speed-duration.png)
+![Timeline - Speed/Duration](/media{{ page.url }}timeline-speed-duration.png)
 
 1) Select the clip we want to change speed of, right click and choose Speed/Duration...
 
-![Clip Speed/Duration]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/clip-speed-duration.png){:width="50%"}
+![Clip Speed/Duration](/media{{ page.url }}clip-speed-duration.png){:width="50%"}
 
 2) Enter a desired speed or duration in the new window and click OK to apply.
 
@@ -245,7 +245,7 @@ Once we are done editing, we can't just share the project file, which only Premi
 
 3) Go to File > Export > Media...
 
-![Export Settings]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/export-settings.png)
+![Export Settings](/media{{ page.url }}export-settings.png)
 
 4) There are a few things we need to note in Export Settings:
 
@@ -255,11 +255,11 @@ Once we are done editing, we can't just share the project file, which only Premi
 
 5) We have two options for the final step:
 
-![Encoding]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/encoding.png){:width="50%"}
+![Encoding](/media{{ page.url }}encoding.png){:width="50%"}
 
 - We can click Export to export the video, but we won't be able to do anything in Premiere while it's encoding.
 
-![Media Encoder]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-premiere/media-encoder.png)
+![Media Encoder](/media{{ page.url }}media-encoder.png)
 
 - Or we can click Queue, which opens up Adobe Media Encoder. Click the green start button at the top-right corner to start encoding the video.
 

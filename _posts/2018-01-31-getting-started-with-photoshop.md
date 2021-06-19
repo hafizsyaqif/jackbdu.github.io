@@ -32,26 +32,26 @@ description: A workshop on the basics of Adobe Photoshop.
 
 We start off by launching the application either in Launchpad or with Spotlight.
 
-![Spotlight]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/spotlight.png)
+![Spotlight](/media{{ page.url }}spotlight.png)
 
 Once Photoshop is launched, we may see a different workspace depending on the previous user settings. There are two steps (as illustrated below) we need to do in order to make sure we are on the same workspace. And this is also what we do whenever we get lost (when don't know where everything is).
 
-![Menu Bar]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/menu-bar-window.png)
+![Menu Bar](/media{{ page.url }}menu-bar-window.png)
 
 1. Choose Window > Workspace > Essentials (Default). This sets the workspace to Essentials.
 2. Choose Window > Workspace > Reset Essentials. This resets Essentials to default.
 
-![Essentials]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/workspace-essentials.png) | ![Reset Essentials]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/workspace-reset-essentials.png)
+![Essentials](/media{{ page.url }}workspace-essentials.png) | ![Reset Essentials](/media{{ page.url }}workspace-reset-essentials.png)
 
 Here's what the workspace should look like after the reset.
 
-![Workspace]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/workspace.png)
+![Workspace](/media{{ page.url }}workspace.png)
 
 ## Step 2: Create a New Document
 
 Now that we are on the same workspace, let's create a new document.
 
-![New Document]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/new-document.png)
+![New Document](/media{{ page.url }}new-document.png)
 
 1. Open File > New...
 2. Choose Photo tab, because we will be working with photos.
@@ -60,7 +60,7 @@ Now that we are on the same workspace, let's create a new document.
 
 Then we have a new tab in our workspace. Let's take this chance to familiarize us with the workspace layout.
 
-![My Untitled]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/my-untitled.png)
+![My Untitled](/media{{ page.url }}my-untitled.png)
 
 - **Tools** are lined up on the left side, and this is where we choose the tool that we use, which we will be learning in just a second.
 - **Options** are at the top, which provides addtional options for the tool that is selected.
@@ -76,11 +76,11 @@ Then we have a new tab in our workspace. Let's take this chance to familiarize u
 - Choose the image file of your choice. I'm using an image of a kitten.
 - Click Place!
 
-![Kitten]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten.png)
+![Kitten](/media{{ page.url }}kitten.png)
 
 Now that the image is on our canvas, we can move it around, scale it or even rotate it. Press Enter when we feel happy about it. Also, note that the image is imported as a smart object on a separate layer, we need to rasterize it for certain editing procedure.
 
-![Kitten]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/workspace-kitten.png)
+![Kitten](/media{{ page.url }}workspace-kitten.png)
 
 In order to rasterize the layer, we simply right on the name of the layer, and choose Rasterize Layer.
 
@@ -96,21 +96,21 @@ Before we start learning about the workflow and the tools, go to Window > Info. 
 
 In general, Shift means additive or proportional, Opt means substractive or special options, Cmd means to temporarily switch to Move Tool, and Space Bar means temporarily switch to Hand Tool.
 
-![Info]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/info.png){:width="50%"}
+![Info](/media{{ page.url }}info.png){:width="50%"}
 
 ### Modify the canvas
 
-![Crop Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/crop-tool.png)
+![Crop Tool Icon](/media{{ page.url }}crop-tool.png)
 
 First tool we may want to use is the Crop Tool, which crops and rotates the canvas as we like. We can specify a ratio on the Options Panel, or click Clear if we don't need one.
 
 I cropped the canvas into a square.
 
-![Kitten Cropped]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-cropped.png)
+![Kitten Cropped](/media{{ page.url }}kitten-cropped.png)
 
 Note that we can right click (or left click and hold) to view additional tools whenever there's little triangle at the bottom right corner of the tool icon.
 
-![Canvas Size]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/canvas-size.png)
+![Canvas Size](/media{{ page.url }}canvas-size.png)
 
 Alternatively, we can go to Image > Canvas Size if the cropping needs to be precise, and go to Image > Image Rotation for rotating the canvas.
 
@@ -118,27 +118,27 @@ Alternatively, we can go to Image > Canvas Size if the cropping needs to be prec
 
 There are three types of tools we can use for this:
 
-![Rectangular Marquee Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/rectangular-marquee-tool.png)
-![Elliptical Marquee Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/elliptical-marquee-tool.png)
+![Rectangular Marquee Tool Icon](/media{{ page.url }}rectangular-marquee-tool.png)
+![Elliptical Marquee Tool Icon](/media{{ page.url }}elliptical-marquee-tool.png)
 
 - [Marquee Tools](https://helpx.adobe.com/photoshop/using/selecting-marquee-tools.html){:target="_blank"}: We use these to make a rectangular or elliptical selection. Click and drag to move selection, or click anywhere on canvas to deselect.
 
-![Lasso Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/lasso-tool.png)
-![Polygonal Lasso Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/polygonal-lasso-tool.png)
-![Magnetic Lasso Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/magnetic-lasso-tool.png)
+![Lasso Tool Icon](/media{{ page.url }}lasso-tool.png)
+![Polygonal Lasso Tool Icon](/media{{ page.url }}polygonal-lasso-tool.png)
+![Magnetic Lasso Tool Icon](/media{{ page.url }}magnetic-lasso-tool.png)
 
 - [Lasso Tools](https://helpx.adobe.com/hk_en/photoshop/using/selecting-lasso-tools.html){:target="_blank"}: These are used for selections of freeform or straight-edged segments, or selections that snap to the edges of defined areas.
 
 For those two types of selection tools above, we can specify a Feather value on the Option panel.
 
-![Quick Selection Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/quick-selection-tool.png)
-![Magic Wand Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/magic-wand-tool.png)
+![Quick Selection Tool Icon](/media{{ page.url }}quick-selection-tool.png)
+![Magic Wand Tool Icon](/media{{ page.url }}magic-wand-tool.png)
 
 - [Quick Selections](https://helpx.adobe.com/photoshop/using/making-quick-selections.html){:target="_blank"}: Quick Selection Tool "paints" a selection and Magic Wand Tool selects an area of consistent color.
 
 I decided to select the background.
 
-![Kitten Selected]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-selected.png)
+![Kitten Selected](/media{{ page.url }}kitten-selected.png)
 
 A few things to note about selection tools:
 
@@ -154,54 +154,54 @@ We can also use Edit > Free Transform to tranform the selection in any way we wa
 
 ### Move things around
 
-![Move Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/move-tool.png)
+![Move Tool Icon](/media{{ page.url }}move-tool.png)
 
 This tool moves the selected area on the selected layer, or the whole layer(s) if nothing is selected on the canvas.
 
 ### The power of adjustments
 
-![Adjustments]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/image-adjustments.png){:width="50%"}
+![Adjustments](/media{{ page.url }}image-adjustments.png){:width="50%"}
 
 One other thing we may want to do after selecting is to adjust it. Go to Image > Adjustments, we can find all sorts of adjustments we can make to our selection.
 
-![Hue/Saturation]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/hue-saturation.png)
+![Hue/Saturation](/media{{ page.url }}hue-saturation.png)
 
 In particular, if we open Image > Adjustments > Hue/Saturation, we can completely change the colors in an image by dragging the Hue bar.
 
 I brought up the exposure of the selection and then changed the hue.
 
-![Kitten Exposure]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-exposure.png) | ![Kitten Hue]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-hue.png)
+![Kitten Exposure](/media{{ page.url }}kitten-exposure.png) | ![Kitten Hue](/media{{ page.url }}kitten-hue.png)
 
 ### The magic of filters
 
-![Filter]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/filter.png){:width="50%"}
+![Filter](/media{{ page.url }}filter.png){:width="50%"}
 
 Thanks to the popularity of filters on social media, most of us already know what a filter is. In Photoshop, the filters are under the Filter on the menu and Photoshop provides very detailed and powerful options for each of its filers. And the filter will be applied to the selected area or the selected layer.
 
 Here, I did Filter > Pixelate > Crytallize...
 
-![Kitten Crystallized]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-crystallized.png)
+![Kitten Crystallized](/media{{ page.url }}kitten-crystallized.png)
 
 ### Pick a color
 
-![Eyedropper Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/eyedropper-tool.png)
+![Eyedropper Tool Icon](/media{{ page.url }}eyedropper-tool.png)
 
 Click anywhere on the canvas, and the Eyedropper Tool will use the color as foreground color.
 
 ### Color something
 
-![Gradient Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/gradient-tool.png)
-![Paint Bucket Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/paint-bucket-tool.png)
+![Gradient Tool Icon](/media{{ page.url }}gradient-tool.png)
+![Paint Bucket Tool Icon](/media{{ page.url }}paint-bucket-tool.png)
 
 Gradient Tool fills either the selection or the whole selected layer with a gradient, which we can modify on the Options Panel.
 
 Paint Bucket Tool either fills the selection with the foreground color, or fills an area of consistent color if no selection is made.
 
-![Kitten Gradient]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-gradient.png)
+![Kitten Gradient](/media{{ page.url }}kitten-gradient.png)
 
 ### Paint something
 
-![Brush Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/brush-tool.png)
+![Brush Tool Icon](/media{{ page.url }}brush-tool.png)
 
 The Brush Tool is basically our painting brush, choose a size, a hardness and even a pattern on the Options panel and start painting on the canvas. Note that we will be either painting on within a selection on canvas or on a selected layer.
 
@@ -209,18 +209,18 @@ The Brush Tool is basically our painting brush, choose a size, a hardness and ev
 
 There are also tools that works just like Brush Tool, but instead of painting the color, they paint the adjustments.
 
-![Dodge Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/dodge-tool.png)
-![Burn Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/burn-tool.png)
+![Dodge Tool Icon](/media{{ page.url }}dodge-tool.png)
+![Burn Tool Icon](/media{{ page.url }}burn-tool.png)
 
 Dodge Tool lightens the painted area and Burn Tool darkens it.
 
-![Blur Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/blur-tool.png)
-![Sharpen Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/sharpen-tool.png)
-![Smudge Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/smudge-tool.png)
+![Blur Tool Icon](/media{{ page.url }}blur-tool.png)
+![Sharpen Tool Icon](/media{{ page.url }}sharpen-tool.png)
+![Smudge Tool Icon](/media{{ page.url }}smudge-tool.png)
 
 Likewise, Blur Tool blurs, Sharpen Tool sharpens, and Smudge Tool smudges.
 
-![Clone Stamp Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/clone-stamp-tool.png)
+![Clone Stamp Tool Icon](/media{{ page.url }}clone-stamp-tool.png)
 
 For the Clone Stamp Tool, we first hold the Option key until the pointer turns into a target icon. While holding the Option key, we click on the canvas to pick the reference that we want to clone from. Finally, release the Option key, and now, we can paint from the selected reference to anywhere we want.
 
@@ -228,46 +228,46 @@ For the Clone Stamp Tool, we first hold the Option key until the pointer turns i
 
 If you are as clumsy as I am, you may be making mistakes. If a mistake just happens, we can use either Edit > Undo or Edit > Step Backward. Undo only goes backward by one step, and Step Backward can be used to keep going backwards in history.
 
-![Eraser Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/eraser-tool.png)
+![Eraser Tool Icon](/media{{ page.url }}eraser-tool.png)
 
 If it's just a brush stroke that we want to erase, we are lucky enough to have the Eraser Tool. Just like Brush Tool, we can also change the size and pattern of the eraser on Options panel.
 
-![History Brush Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/history-brush-tool.png)
+![History Brush Tool Icon](/media{{ page.url }}history-brush-tool.png)
 
 Keep it in mind that everything on a rasterized layer can be erased, be it brush stroke or not. However, if we erase or adjust part of our image by accident, we can use the History Brush Tool to paint the image back to its original stage.
 
 ### Zooms
 
-![Zoom Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/zoom-tool.png)
+![Zoom Tool Icon](/media{{ page.url }}zoom-tool.png)
 
 While we are working, we may want to zoom in and zoom out the canvas. That is done with the Zoom Tool.
 
 If the tool is set to zoom in on the Options panel, pressing Opt key will temporarily switch it to zoom out and vice versa.
 
-![Hand Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/hand-tool.png)
+![Hand Tool Icon](/media{{ page.url }}hand-tool.png)
 
 When the canvas is really zoomed in, we can use the Hand Tool (or press the space bar) to navigate around the canvas.
 
-![Kitten Zoom]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-zoom.png)
+![Kitten Zoom](/media{{ page.url }}kitten-zoom.png)
 
 ### Add texts
 
-![Type Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/horizontal-type-tool.png)
+![Type Tool Icon](/media{{ page.url }}horizontal-type-tool.png)
 
 The Type tools allow us to add texts to wherever we click on the canvas. Each text is stored on a separate layer, and remember to rasterize it when you find certain operations can't be done on the layer.
 
 ### Add shapes
 
-![Rectangle Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/rectangle-tool.png)
-![Rounded Rectangle Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/rounded-rectangle-tool.png)
-![Ellipse Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/ellipse-tool.png)
-![Polygon Tool Icon]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/polygon-tool.png)
+![Rectangle Tool Icon](/media{{ page.url }}rectangle-tool.png)
+![Rounded Rectangle Tool Icon](/media{{ page.url }}rounded-rectangle-tool.png)
+![Ellipse Tool Icon](/media{{ page.url }}ellipse-tool.png)
+![Polygon Tool Icon](/media{{ page.url }}polygon-tool.png)
 
 Choose one of the shape tools, then click and drag to draw the shapes on the canvas. We can change both the Fill and Stroke color in Options panel.
 
 I added a black pentagon.
 
-![Kitten Shape]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-shape.png)
+![Kitten Shape](/media{{ page.url }}kitten-shape.png)
 
 ### [Apply a mask](https://helpx.adobe.com/photoshop-elements/using/clipping-masks.html){:target="_blank"}
 
@@ -278,13 +278,13 @@ We've added texts and shapes, which we can actually use to create masks.
 - Note that all area that is not colored will be hidden.
 
 
-![Kitten Mask]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/kitten-mask.png)
+![Kitten Mask](/media{{ page.url }}kitten-mask.png)
 
 ## Step 5: Save our documents
 
 To save the document, go to File > Save. At the bottom of the Save window, we can choose the format to save. Below is a list of formats that we need to know the differences of.
 
-![Formats]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/formats.png){:width="50%"}
+![Formats](/media{{ page.url }}formats.png){:width="50%"}
 
 Typically, as we work on the document, we want to choose Photoshop, which preserves all the editing capabilities. But when we are done, we want to save it as one of the following formats.
 
@@ -296,7 +296,7 @@ Typically, as we work on the document, we want to choose Photoshop, which preser
 
 After choosing the format and the location, click Save, some additional options will be prompted to us so that we can change the quality, compression, etc.
 
-![Save for Web]({{ site.baseurl }}/media/{{ page.categories[0] }}/getting-started-with-photoshop/save-for-web.png)
+![Save for Web](/media{{ page.url }}save-for-web.png)
 
 Alternatively, we can go to File > Export > Save for Web (Legacy)...
 
