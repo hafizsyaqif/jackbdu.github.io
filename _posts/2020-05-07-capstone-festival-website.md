@@ -22,7 +22,7 @@ Capstone Festival Website - Projects & Capstone Archival Book |
 :----------: |
 Capstone Festival Website - Real-time Searching & Filtering |
 
-![Capstone Festival Website - Live Events & Projects on Mobile](/media{{ page.url }}live-events-and-{{ page.categories[0] }}-on-mobile.jpg) | ![Capstone Festival Website - Capstone Archival Book on Mobile](/media{{ page.url }}book-on-mobile.jpg)
+![Capstone Festival Website - Live Events & Projects on Mobile](/media{{ page.url }}live-events-and-projects-on-mobile.jpg) | ![Capstone Festival Website - Capstone Archival Book on Mobile](/media{{ page.url }}book-on-mobile.jpg)
 :----------: | :----------:
 Capstone Festival Website - Live Events & Projects on Mobile | Capstone Festival Website - Capstone Archival Book on Mobile
 
