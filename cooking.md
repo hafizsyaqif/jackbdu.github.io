@@ -4,6 +4,42 @@ title: Cooking
 permalink: /cooking/
 ---
 
+![Beef Noodles]({{ site.baseurl }}/media/cooking/beef-noodles.jpg) |
+:----------: |
+Beef Noodles |
+
+![Braised Beef with Potatoes and Carrots]({{ site.baseurl }}/media/cooking/braised-beef-with-potatoes-and-carrots.jpg) |
+:----------: |
+Braised Beef with Potatoes and Carrots |
+
+![Clay Pot Eggplants with Tofu]({{ site.baseurl }}/media/cooking/clay-pot-eggplants-with-tofu.jpg) |
+:----------: |
+Clay Pot Eggplants with Tofu |
+
+![Beef Chow Fun]({{ site.baseurl }}/media/cooking/beef-chow-fun.jpg) |
+:----------: |
+[Beef Chow Fun](https://en.wikipedia.org/wiki/Beef_chow_fun) |
+
+![Jiucai Hezi]({{ site.baseurl }}/media/cooking/jiucai-hezi.jpg) |
+:----------: |
+[Jiucai Hezi](https://en.wikipedia.org/wiki/Jiucai_hezi) |
+
+![Soy Sauce Egg Fried Rice]({{ site.baseurl }}/media/cooking/soy-sauce-egg-fried-rice.jpg) |
+:----------: |
+Soy Sauce Egg [Fried Rice](https://en.wikipedia.org/wiki/Fried_rice) |
+
+![Yangyu Caca]({{ site.baseurl }}/media/cooking/yangyu-caca.jpg) |
+:----------: |
+Yangyu Caca |
+
+![Halal-Cart-Style Chicken Over Rice]({{ site.baseurl }}/media/cooking/halal-cart-style-chicken-over-rice.jpg) |
+:----------: |
+[Halal-Cart](https://en.wikipedia.org/wiki/Halal_cart)-Style Chicken Over Rice |
+
+![Mapo Tofu]({{ site.baseurl }}/media/cooking/mapo-tofu.jpg) |
+:----------: |
+[Mapo Tofu](https://en.wikipedia.org/wiki/Mapo_tofu) |
+
 ![Yakitori]({{ site.baseurl }}/media/cooking/yakitori.jpg) |
 :----------: |
 [Yakitori](https://en.wikipedia.org/wiki/Yakitori) |
