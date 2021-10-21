@@ -4,6 +4,22 @@ title: Cooking
 permalink: /cooking/
 ---
 
+![Braised Lamb]({{ site.baseurl }}/media/cooking/braised-lamb.jpg) |
+:----------: |
+Braised Lamb |
+
+![Snow Skin Mooncakes]({{ site.baseurl }}/media/cooking/snow-skin-mooncakes.jpg) |
+:----------: |
+[Snow Skin Mooncakes](https://en.wikipedia.org/wiki/Snow_skin_mooncake) |
+
+![Traditional Mooncakes]({{ site.baseurl }}/media/cooking/traditional-mooncakes.jpg) |
+:----------: |
+Traditional [Mooncakes](https://en.wikipedia.org/wiki/Mooncake) |
+
+![Beef Tripe with Sesame Dressing]({{ site.baseurl }}/media/cooking/beef-tripe-with-sesame-dressing.jpg) |
+:----------: |
+Beef Tripe with Sesame Dressing |
+
 ![Beef Noodles]({{ site.baseurl }}/media/cooking/beef-noodles.jpg) |
 :----------: |
 Beef Noodles |
