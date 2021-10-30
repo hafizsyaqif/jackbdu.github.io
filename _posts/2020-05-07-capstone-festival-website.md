@@ -14,7 +14,7 @@ Capstone Festival Website - Banner |
 :----------: |
 Capstone Festival Website - Videos & Live Events |
 
-![Capstone Festival Website - Projects & Capstone Archival Book](/media{{ page.url }}{{ page.categories[0] }}-and-book.jpg) |
+![Capstone Festival Website - Projects & Capstone Archival Book](/media{{ page.url }}projects-and-book.jpg) |
 :----------: |
 Capstone Festival Website - Projects & Capstone Archival Book |
 
