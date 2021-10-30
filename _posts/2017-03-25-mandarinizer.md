@@ -3,7 +3,7 @@ layout: post
 title: Mandarinizer
 categories: works
 tags: application featured
-description: A computer program that converts image files, video files or live webcam streams to Mandarin Chinese characters and/or any other characters.
+description: A command-line program and a web application that create pixel art consisting of Mandarin Chinese characters.
 ---
 
 ![Mandarinizer - Logo](/media{{ page.url }}mandarinizer-01.jpg) | ![Mandarinizer - Logo Mandarinized](/media{{ page.url }}mandarinizer-02.jpg) |
