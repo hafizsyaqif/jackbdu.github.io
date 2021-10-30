@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This Is Where I Live
-description: A mixed media project that explores the identity of the neighborhood I live in.
+description: A mixed media project that attempts to encapsulate the neighborhood I was living in.
 categories: works
 tags: collage painting video featured
 ---
