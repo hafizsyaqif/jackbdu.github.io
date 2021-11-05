@@ -80,9 +80,9 @@ Aug. 2017 – Aug. 2018
 
 2017 \| **Best Technology/Visual Demonstration** at Undergraduate Research Symposium, NYU Shanghai, Shanghai, China
 
-2015 \| **[Dean’s Undergraduate Research Fund](https://shanghai.nyu.edu/academics/undergraduate-research)** from NYU Shanghai, Shanghai, China
-
 2017 \| **5th Place** at [Robot Art Competition](https://robotart.org/2017-winners/), USA
+
+2015 \| **[Dean’s Undergraduate Research Fund](https://shanghai.nyu.edu/academics/undergraduate-research)** from NYU Shanghai, Shanghai, China
 
 2014 \| **2nd Best Hardware Hack** at [HackShanghai](http://2014.hackshanghai.com), Shanghai, China
 
