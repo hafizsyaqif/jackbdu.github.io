@@ -62,17 +62,17 @@ Aug. 2017 – Aug. 2018
 
 # Talks
 
-2018 \| “[Making Art with a Robot](https://www.bilibili.com/video/av27211915/)”, *Zaojiu*, Shanghai, China
+2018 \| “[Making Art with a Robot](https://www.bilibili.com/video/av27211915/)”, _Zaojiu_, Shanghai, China
 
-2018 \| Panel Discussion, *Shanghai Education Expo*, Shanghai, China
+2018 \| Panel Discussion, _Shanghai Education Expo_, Shanghai, China
 
-2018 \| Artist Talk, *Intro to Generative System*, NYU Shanghai, Shanghai, China
+2018 \| Artist Talk, _Intro to Generative System_, NYU Shanghai, Shanghai, China
 
-2017 \| Ordered Randomness, *New Media Art and Cultural & Creative Industry Conference*, Shanghai, China
+2017 \| Ordered Randomness, _New Media Art and Cultural & Creative Industry Conference_, Shanghai, China
 
-2017 \| Artist Talk, *R/GA Shanghai*, Shanghai, China
+2017 \| Artist Talk, _R/GA Shanghai_, Shanghai, China
 
-2017 \| Artist Talk, *Innovation Space*, Shanghai Library, Shanghai, China
+2017 \| Artist Talk, _Innovation Space_, Shanghai Library, Shanghai, China
 
 # Awards
 
@@ -88,11 +88,11 @@ Aug. 2017 – Aug. 2018
 
 # Press
 
-2018 \| “[我为什么要费尽心思造出一个不完美的绘画机器人？](https://mp.weixin.qq.com/s/ZiTIpNLR9Vm13mw_fxWhGQ)” [Why Did I Painstakingly Build an Imperfect Drawing Robot?], Zaojiu, July 19, 2018
+2018 \| “[我为什么要费尽心思造出一个不完美的绘画机器人？](https://mp.weixin.qq.com/s/ZiTIpNLR9Vm13mw_fxWhGQ)” [Why Did I Painstakingly Build an Imperfect Drawing Robot?], _Zaojiu_, July 19, 2018
 
-2018 \| “[机器时代即将到来｜新锐艺术家专访](https://mp.weixin.qq.com/s/4yy7EwKfEpMtOzV7RD5VsA)” [Emerging Artist Interview: the Age of Robots is Around the Corner], MANA, July 16, 2018
+2018 \| “[机器时代即将到来｜新锐艺术家专访](https://mp.weixin.qq.com/s/4yy7EwKfEpMtOzV7RD5VsA)” [Emerging Artist Interview: the Age of Robots is Around the Corner], _MANA_, July 16, 2018
 
-2018 \| Qiu, Wenhan: “[谁说‘码农’不能搞艺术？上海纽约大学这门专业让学生大胆‘跨界’](https://www.shobserver.com/ydzx/html/86265.html)” [Why Can’t Coders Create Art? This Major at NYU Shanghai Allows Students to Bravely Cross Disciplines], Shanghai Observer, Apr. 16, 2018
+2018 \| Qiu, Wenhan: “[谁说‘码农’不能搞艺术？上海纽约大学这门专业让学生大胆‘跨界’](https://www.shobserver.com/ydzx/html/86265.html)” [Why Can’t Coders Create Art? This Major at NYU Shanghai Allows Students to Bravely Cross Disciplines], _Shanghai Observer_, Apr. 16, 2018
 
 2018 \| Turner, Juliet: "[Creative Machines](https://cdn.shanghai.nyu.edu/sites/default/files/nyush_spring2018_english.pdf)", _NYU Shanghai Magzine_, Spring 2018
 
@@ -108,4 +108,4 @@ Aug. 2017 – Aug. 2018
 
 2015 \| Bekink, Martha J: “[NYU Shanghai student Jack B. Du develops mouse for kids with cerebral palsy](https://wp.nyu.edu/global_dimensions/2015/10/21/nyu-shanghai-student-jack-b-du-develops-mouse-for-kids-with-cerebral-palsy/)”, _NYU Global Dimensions_, Oct. 21, 2015.
 
-2014 \| Juan, Charlotte San: “[A Thoughtful Invention: NYU Shanghai Student Creates Versatile Computer Mouse](https://shanghai.nyu.edu/news/joy-mouse)”, *NYU Shanghai News*, Dec. 12, 2014.
+2014 \| Juan, Charlotte San: “[A Thoughtful Invention: NYU Shanghai Student Creates Versatile Computer Mouse](https://shanghai.nyu.edu/news/joy-mouse)”, _NYU Shanghai News_, Dec. 12, 2014.
