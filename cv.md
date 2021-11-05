@@ -62,7 +62,7 @@ Aug. 2017 – Aug. 2018
 
 # Talks
 
-2018 \| “[Making Art with a Robot](https://www.bilibili.com/video/av27211915/)”, _Zaojiu_, Shanghai, China
+2018 \| [Making Art with a Robot](https://www.bilibili.com/video/av27211915/), _Zaojiu_, Shanghai, China
 
 2018 \| Panel Discussion, _Shanghai Education Expo_, Shanghai, China
 
