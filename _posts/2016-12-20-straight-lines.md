@@ -3,12 +3,12 @@ layout: post
 title: Straight Lines
 categories: works
 tags: photography featured
-description: A photography project that seeks to simplify the structures and lights at NYU Abu Dhabi.
+description: A series of photographs of abstract straight lines formed by lights and shadows.
 ---
 
 ![Straight Lines at NYUAD December Showcase](/media{{ page.url }}straight-lines.jpg) |
 :----------: |
-2016 \| December Showcase, NYU Abu Dhabi Project Space, Abu Dhabi, UAE |
+2016 \| December Showcase, New York University Abu Dhabi Project Space, Abu Dhabi, UAE |
 
 {% for i in (1..3) %}
 ![Straight Lines #{{ i }}](/media{{ page.url }}straight-lines-{{ i }}.jpg) |

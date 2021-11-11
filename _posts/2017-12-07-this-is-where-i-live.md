@@ -1,14 +1,14 @@
 ---
 layout: post
 title: This Is Where I Live
-description: A mixed media project that attempts to encapsulate the neighborhood I was living in.
+description: A series of works that attempt to encapsulate the neighborhood I was living in in a mixed-media format.
 categories: works
 tags: collage painting video featured
 ---
 
 ![This Is Where I Live](/media{{ page.url }}this-is-where-i-live.jpg) |
 :----------: |
-2017 \| The Map as Art, NYU Shanghai Gallery, Shanghai, China |
+2017 \| The Map as Art, New York University Shanghai Gallery, Shanghai, China |
 
 ![This Is Where I Live - Collage](/media{{ page.url }}this-is-where-i-live-collage.jpg) |
 :----------: |
