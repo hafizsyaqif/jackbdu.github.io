@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-# Education 
+## Education 
 
 **New York University Shanghai**, Shanghai, China
 
@@ -18,7 +18,7 @@ permalink: /cv/
 
 2015 \| New York University Global Program in Integrated Digital Media and Computer Science
 
-# Experience
+## Experience
 
 **New York University Abu Dhabi**, Abu Dhabi, UAE
 
@@ -30,7 +30,7 @@ permalink: /cv/
 
 2017 – 2018 \| Associate Fellow of Interactive Media Arts
 
-# Teaching & Workshops
+## Teaching & Workshops
 
 **New York University Abu Dhabi**, Abu Dhabi, UAE
 
@@ -62,7 +62,7 @@ permalink: /cv/
 
 2017 \| Command Line Basics
 
-# Exhibitions
+## Exhibitions
 
 2018 \| **Shanghai Education Expo**, Shanghai Exhibition Center, Shanghai, China
 
@@ -80,7 +80,7 @@ permalink: /cv/
 
 2016 \| **December Showcase**, NYU Abu Dhabi Arts Center, Abu Dhabi, UAE
 
-# Talks
+## Talks
 
 2018 \| [Making Art with a Robot](https://www.bilibili.com/video/av27211915/), _Zaojiu_, Shanghai, China
 
@@ -94,7 +94,7 @@ permalink: /cv/
 
 2017 \| Artist Talk, _Innovation Space_, Shanghai Library, Shanghai, China
 
-# Awards
+## Awards
 
 2017 \| **Excellence Award** at [Shanghai International Digital Creation, Innovation & Entrepreneurship Competition](https://v.qq.com/x/page/a0620ky9lbx.html), Shanghai, China
 
@@ -106,7 +106,7 @@ permalink: /cv/
 
 2014 \| **2nd Best Hardware Hack** at [HackShanghai](http://2014.hackshanghai.com), Shanghai, China
 
-# Press
+## Press
 
 2018 \| “[我为什么要费尽心思造出一个不完美的绘画机器人？](https://mp.weixin.qq.com/s/ZiTIpNLR9Vm13mw_fxWhGQ)” [Why Did I Painstakingly Build an Imperfect Drawing Robot?], _Zaojiu_, July 19, 2018
 
