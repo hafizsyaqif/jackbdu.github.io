@@ -8,39 +8,27 @@ permalink: /cv/
 
 **New York University Shanghai**, Shanghai, China
 
-Bachelor of Science in Computer Science, Interactive Media Arts and Studio Art
-
-Aug. 2013 – May 2017
+2013 – 2017 \| Bachelor of Science in Computer Science, Interactive Media Arts, and Studio Art
 
 **New York University Abu Dhabi**, Abu Dhabi, UAE
 
-NYU Global Program in Visual Arts
-
-Aug. 2016 – Dec. 2016
+2016 \| New York University Global Program in Visual Arts
 
 **New York University**, New York, NY, USA
 
-NYU Global Program in Integrated Digital Media and Computer Science
-
-Aug. 2015 – May 2016
+2015 \| New York University Global Program in Integrated Digital Media and Computer Science
 
 # Experience
 
 **New York University Abu Dhabi**, Abu Dhabi, UAE
 
-Associate Arts Instructor of Interactive Media
+2021 – Present \| Associate Arts Instructor of Interactive Media
 
-Aug. 2021 – Present
-
-Assistant Arts Instructor of Interactive Media
-
-Aug. 2018 – Aug. 2021
+2018 – 2021 \| Assistant Arts Instructor of Interactive Media
 
 **New York University Shanghai**, Shanghai, China
 
-Associate Fellow of Interactive Media Arts
-
-Aug. 2017 – Aug. 2018
+2017 – 2018 \| Associate Fellow of Interactive Media Arts
 
 # Teaching & Workshops
 
