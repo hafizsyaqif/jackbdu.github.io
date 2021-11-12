@@ -16,7 +16,7 @@ permalink: /cv/
 
 **New York University**, New York, NY, USA
 
-2015 \| New York University Global Program in Integrated Digital Media and Computer Science
+2015 – 2016 \| New York University Global Program in Integrated Digital Media and Computer Science
 
 ## Experience
 
@@ -46,9 +46,9 @@ permalink: /cv/
 
 **New York University Shanghai**, Shanghai, China
 
-2018 \| Getting Started with Adobe Premiere Pro
+2018 \| [Getting Started with Adobe Premiere Pro](/teaching/getting-started-with-premiere/)
 
-2018 \| Getting Started with Adobe Photoshop
+2018 \| [Getting Started with Adobe Photoshop](/teaching/getting-started-with-photoshop/)
 
 2018 \| Getting Started with Sound Recording & Editing
 
@@ -72,7 +72,7 @@ permalink: /cv/
 
 2017 \| **Maker Carnival**, Knowledge & Innovation Community, Shanghai, China
 
-2017 \| **Maker Exhibition**, Innovation Space, Shanghai Library, Shanghai, China
+2017 \| **Maker Exhibition**, Shanghai Library, Shanghai, China
 
 2017 \| **Shanghai Science Expo**, Shanghai Exhibition Center, Shanghai, China
 
