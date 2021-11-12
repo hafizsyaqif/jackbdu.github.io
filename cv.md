@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 permalink: /cv/
 ---
 
@@ -41,6 +41,38 @@ Aug. 2018 – Aug. 2021
 Associate Fellow of Interactive Media Arts
 
 Aug. 2017 – Aug. 2018
+
+# Teaching & Workshops
+
+**New York University Abu Dhabi**, Abu Dhabi, UAE
+
+2020, 2021 \| [Web Development Workshop Series: Making a Website from Scratch for Absolute Beginners](https://github.com/jackbdu/web-dev-workshop)
+
+2019, 2020, 2021 \| Web Development Fundamentals for Interactive Media
+
+2018, 2019, 2020 \| Introduction to Laser Cutter for Interactive Media
+
+2019 \| Machines that See: Computer Vision in Processing, Processing Community Day
+
+2019 \| Hosting Your Portfolio on GitHub
+
+**New York University Shanghai**, Shanghai, China
+
+2018 \| Getting Started with Adobe Premiere Pro
+
+2018 \| Getting Started with Adobe Photoshop
+
+2018 \| Getting Started with Sound Recording & Editing
+
+2018 \| Web Development Fundamentals for Communications Lab
+
+2018 \| Object-Oriented Programming for Interaction Lab
+
+2017 \| Computer Vision: Face Tracking in Processing
+
+2017 \| The Philosophy and Art of Documentation
+
+2017 \| Command Line Basics
 
 # Exhibitions
 
