@@ -2,7 +2,7 @@
 layout: post
 title: Mandarinizer
 categories: works
-tags: application featured
+tags: web application featured
 description: A command-line program and a web application that create pixel art consisting of Mandarin Chinese characters.
 ---
 
