@@ -38,7 +38,7 @@ permalink: /cv/
 
 2019, 2020, 2021 \| Web Development Fundamentals for Interactive Media
 
-2018, 2019, 2020 \| Introduction to Laser Cutter for Interactive Media
+2018, 2019, 2020 \| Introduction to Laser Cutting & Engraving for Interactive Media
 
 2019 \| Machines that See: Computer Vision in Processing, Processing Community Day
 
@@ -64,9 +64,11 @@ permalink: /cv/
 
 ## Exhibitions
 
+2018 \| **Shenzhen Design Week**, Shenzhen, China
+
 2018 \| **Shanghai Education Expo**, Shanghai Exhibition Center, Shanghai, China
 
-2017 \| **Life Geek Exhibition**, USC-SJTU Institute of Cultural and Creative Industry, Shanghai, China
+2017 \| **Life Geek Exhibition**, [USC-SJTU Institute of Cultural and Creative Industry](https://icci.sjtu.edu.cn/en), Shanghai, China
 
 2017 \| **The Map as Art**, NYU Shanghai Gallery, Shanghai, China
 
@@ -96,15 +98,15 @@ permalink: /cv/
 
 ## Awards
 
-2017 \| **Excellence Award** at [Shanghai International Digital Creation, Innovation & Entrepreneurship Competition](https://v.qq.com/x/page/a0620ky9lbx.html), Shanghai, China
+2017 \| **Excellence Award** at [Shanghai International Digital Creation, Innovation & Entrepreneurship Competition](https://v.qq.com/x/page/a0620ky9lbx.html), China
 
-2017 \| **Best Technology/Visual Demonstration** at Undergraduate Research Symposium, NYU Shanghai, Shanghai, China
+2017 \| **Best Technology/Visual Demonstration** at Undergraduate Research Symposium, NYU Shanghai, China
 
 2017 \| **5th Place** at [Robot Art Competition](https://robotart.org/2017-winners/), USA
 
-2015 \| **[Dean’s Undergraduate Research Fund](https://shanghai.nyu.edu/academics/undergraduate-research)** from NYU Shanghai, Shanghai, China
+2015 \| **[Dean’s Undergraduate Research Fund](https://shanghai.nyu.edu/academics/undergraduate-research)** from NYU Shanghai, China
 
-2014 \| **2nd Best Hardware Hack** at [HackShanghai](http://2014.hackshanghai.com), Shanghai, China
+2014 \| **2nd Best Hardware Hack** at [HackShanghai](http://2014.hackshanghai.com), China
 
 ## Press
 
