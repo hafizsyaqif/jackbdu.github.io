@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm Jack. I love art and all things tech. That's why I built [a robot that does art]({{ site.baseurl }}/works/minus-e/).
+I am an artist and educator interested in making art with new media technologies. I develop software and hardware tools to aid my own creative process, and I hope some of them will benefit other people as well. For instance, I built [Minus E]({{ site.baseurl }}/works/minus-e/) and [Mandarinizer]({{ site.baseurl }}/works/mandarinizer/).
 
-I also enjoy teaching what I do, so I am currently working as an arts instructor of [Interactive Media](https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/academic-programs/interactive-media.html) at [NYU Abu Dhabi](https://nyuad.nyu.edu/en/).
+Currently, I am working as an arts instructor at the [Interactive Media](https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/academic-programs/interactive-media.html) program at [New York University Abu Dhabi](https://nyuad.nyu.edu/en/).
 
 Oh, by the way, I cook in my spare time. You can find photos of some of my cooking [here]({{ site.baseurl }}/cooking/).
 
