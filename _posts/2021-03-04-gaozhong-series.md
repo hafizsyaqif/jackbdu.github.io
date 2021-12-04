@@ -4,6 +4,7 @@ title: Gaozhong Series
 categories: works
 tags: photography
 description: A series of photographs of workbooks that I used in Gaozhong (10th to 12th grade).
+published: false
 ---
 
 ![Gaozhong Series #1 - Yuwen](/media{{ page.url }}gaozhong-series-01.jpg) |
