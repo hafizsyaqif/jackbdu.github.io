@@ -6,17 +6,13 @@ tags: web application featured
 description: A command-line program and a web application that create pixel art consisting of Mandarin Chinese characters.
 ---
 
-![Mandarinizer - Logo](/media{{ page.url }}mandarinizer-01.jpg) | ![Mandarinizer - Logo Mandarinized](/media{{ page.url }}mandarinizer-02.jpg) |
-:----------: | :----------:
-Mandarinizer - Logo | Mandarinizer - Logo Mandarinized
-
 ![Mandarinizer - Webcam Stream Mandarinized](/media{{ page.url }}mandarinizer.gif) |
 :----------: |
-Mandarinizer - Webcam Stream Mandarinized |
+Mandarinizer - Webcam Demo |
 
-![Mandarinizer - Who Am I](/media{{ page.url }}mandarinizer-who-am-i.jpg) |
+![Mandarinizer at Shanghai Education Expo](/media{{ page.url }}mandarinizer-at-shanghai-educatino-expo.jpg) |
 :----------: |
-Mandarinizer - Who Am I |
+2018 \| Shanghai Education Expo, Shanghai Exhibition Center, Shanghai, China |
 
 [Launch](https://jackbdu.com/mandarinizer/) the application.
 
