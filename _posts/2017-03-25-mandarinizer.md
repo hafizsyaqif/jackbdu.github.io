@@ -10,7 +10,7 @@ description: A command-line program and a web application that create pixel art 
 :----------: |
 Mandarinizer - Webcam Demo |
 
-![Mandarinizer at Shanghai Education Expo](/media{{ page.url }}mandarinizer-at-shanghai-educatino-expo.jpg) |
+![Mandarinizer at Shanghai Education Expo](/media{{ page.url }}mandarinizer-at-shanghai-education-expo.jpg) |
 :----------: |
 2018 \| Shanghai Education Expo, Shanghai Exhibition Center, Shanghai, China |
 
