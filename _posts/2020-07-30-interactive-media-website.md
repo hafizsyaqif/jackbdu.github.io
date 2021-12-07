@@ -24,7 +24,7 @@ Interactive Media Website - Gallery Page |
 
 ![Interactive Media Website - Gallery Page](/media{{ page.url }}interative-media-website-home-page-events-section-mobile.jpg) | ![Interactive Media Website - Gallery Page](/media{{ page.url }}interative-media-website-home-page-footer-mobile.jpg)
 :----------: | :----------:
-Interactive Media Website - Gallery Page | Interactive Media Website - Gallery Page
+Interactive Media Website - Events - Mobile | Interactive Media Website - Footer - Mobile
 
 ## About Interactive Media
 
