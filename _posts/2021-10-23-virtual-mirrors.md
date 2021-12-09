@@ -2,7 +2,7 @@
 layout: post
 title: Virtual Mirrors
 categories: works
-tags: web
+tags: web featured
 description: A collection of p5.js sketches that reflect a person or object in front of the webcam.
 ---
 
