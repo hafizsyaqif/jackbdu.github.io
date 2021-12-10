@@ -4,10 +4,8 @@ layout: default
 
 <div class="posts home">
   {% for post in site.tags["featured"] %}
-  <div class="filter tile">
-    <a href="{{ site.baseurl }}{{ post.url }}">
-      <img class="thumb" src="{{ site.baseurl }}/media{{ post.url }}thumb.jpg" />
-    </a>
-  </div>
+  <a class="filter tile" href="{{ site.baseurl }}{{ post.url }}">
+    <img class="thumb" src="{{ site.baseurl }}/media{{ post.url }}thumb.jpg" />
+  </a>
   {% endfor %}
 </div>

@@ -186,6 +186,8 @@ table {
 
 .tile {
   display: none;
+  height: 0;
+  padding-bottom: 100%;
 }
 
 .tile:nth-child(-n+15) {
