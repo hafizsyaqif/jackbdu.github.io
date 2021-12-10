@@ -165,6 +165,7 @@ table {
 // home page adjustments
 
 .filter {
+  will-change: filter;
   -webkit-transition: filter 0.3s ease;
      -moz-transition: filter 0.3s ease;
       -ms-transition: filter 0.3s ease;
