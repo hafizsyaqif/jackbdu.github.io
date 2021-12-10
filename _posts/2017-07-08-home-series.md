@@ -2,7 +2,7 @@
 layout: post
 title: Home Series
 categories: works
-tags: photography featured
+tags: digital photography featured
 description: A series of photographs of objects at my home that I lived throughout childhood and adolescence.
 ---
 

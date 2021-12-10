@@ -2,7 +2,7 @@
 layout: post
 title: Firewords
 categories: works
-tags: web application featured
+tags: p5js web application featured
 description: A web application that turns words into fireworks.
 ---
 

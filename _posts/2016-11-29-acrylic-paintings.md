@@ -2,7 +2,7 @@
 layout: post
 title: Acrylic Paintings
 categories: works
-tags: painting featured
+tags: analog painting featured
 description: A collection of my acrylic paintings.
 ---
 

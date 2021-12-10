@@ -2,7 +2,7 @@
 layout: post
 title: Capstone Festival Website
 categories: works
-tags: web
+tags: vuejs google-api web
 description: A responsive single-page website that housed New York University Abu Dhabi's Arts & Humanities Capstone Festivals in 2020 and 2021.
 ---
 

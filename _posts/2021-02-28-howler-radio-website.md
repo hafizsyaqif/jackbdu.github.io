@@ -2,7 +2,7 @@
 layout: post
 title: Howler Radio Website
 categories: works
-tags: web
+tags: handlebarsjs nodejs google-api web
 description: A responsive single-page website for Howler Radio, a student-run Internet radio station from New York University Abu Dhabi.
 ---
 

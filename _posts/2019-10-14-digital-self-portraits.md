@@ -2,7 +2,7 @@
 layout: post
 title: Digital Self-Portraits
 categories: works
-tags: painting featured
+tags: procreate digital painting featured
 description: A collection of digital paintings of myself.
 ---
 

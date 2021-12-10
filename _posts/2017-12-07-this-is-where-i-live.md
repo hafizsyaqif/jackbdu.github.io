@@ -3,7 +3,7 @@ layout: post
 title: This Is Where I Live
 description: A series of works that attempt to encapsulate the neighborhood I was living in in a mixed-media format.
 categories: works
-tags: collage painting video featured
+tags: mixed-media collage painting video featured
 ---
 
 ![This Is Where I Live](/media{{ page.url }}this-is-where-i-live.jpg) |

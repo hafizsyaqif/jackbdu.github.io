@@ -2,7 +2,7 @@
 layout: post
 title: Straight Lines
 categories: works
-tags: photography featured
+tags: analog photography featured
 description: A series of photographs of abstract straight lines formed by lights and shadows.
 ---
 

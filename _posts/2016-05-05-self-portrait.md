@@ -2,7 +2,7 @@
 layout: post
 title: Self-Portrait
 categories: works
-tags: drawing featured
+tags: analog drawing featured
 description: A graphite drawing based on a photograph of myself that I took in Washinton DC.
 ---
 

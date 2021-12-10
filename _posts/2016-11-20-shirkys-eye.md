@@ -2,7 +2,7 @@
 layout: post
 title: Shirky's Eye
 categories: works
-tags: painting drawing featured
+tags: mixed-media painting drawing featured
 description: A series of works based on Clay Shirky's Twitter profile picture.
 ---
 

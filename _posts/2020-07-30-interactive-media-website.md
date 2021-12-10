@@ -2,7 +2,7 @@
 layout: post
 title: Interactive Media Website
 categories: works
-tags: web
+tags: handlebarsjs nodejs google-api web
 description: A responsive multi-page website for the Interactive Media program at New York University Abu Dhabi.
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Childhood Digital Paintings
 categories: works
-tags: painting
+tags: digital painting
 description: A collection of my childhood digital paintings.
 ---
 
