@@ -20,7 +20,7 @@ html {
 }
 
 body {
-	background: $bgColor;
+  background: $bgColor;
   font: 300 1em $fontStack;
   color: $bodyColor;
   margin: 2em auto;
@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 1.2em;
-  margin-bottom: 1.3em;
+  margin-bottom: 1.1em;
   text-transform: uppercase;
 
   a:not(:last-of-type) {
@@ -80,7 +80,7 @@ p {
 a {
   color: $aColor;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $bodyColor;
     text-decoration: underline;
@@ -164,6 +164,21 @@ table {
 
 // home page adjustments
 
+.posts.home {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 0.4em;
+
+  @include tablet {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  @include mobile {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+}
+
 .filter {
   will-change: filter;
   -webkit-transition: filter 0.3s ease;
@@ -200,34 +215,6 @@ table {
     display: block;
   }
 }
-
-// about page adjustments
-
-.about {
-  width: 50%;
-  float: left;
-  display: block;
-
-  @include mobile {
-    width: 100%;
-  }
-}
-
-.filter:last-child .about {
-  -webkit-transform: scale(-1, 1);
-     -moz-transform: scale(-1, 1);
-       -o-transform: scale(-1, 1);
-          transform: scale(-1, 1);
-
-  @include mobile {
-  -webkit-transform: scale(1, -1);
-     -moz-transform: scale(1, -1);
-       -o-transform: scale(1, -1);
-          transform: scale(1, -1);
-  }
-}
-
-
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
@@ -298,21 +285,6 @@ nav {
 //
 // .main
 //
-
-.posts.home {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-gap: 0.4em;
-
-  @include tablet {
-    grid-template-columns: repeat(4, 1fr);
-  }
-
-  @include mobile {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-}
 
 .posts > .post {
   padding-bottom: 1em;
