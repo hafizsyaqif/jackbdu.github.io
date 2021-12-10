@@ -50,6 +50,14 @@ h1 {
   font-size: 1.2em;
   margin-bottom: 1.3em;
   text-transform: uppercase;
+
+  a:not(:last-of-type) {
+    margin-right: 1em;
+  }
+
+  a.tag {
+    font-size: 0.7em;
+  }
 }
 
 h2 {
@@ -75,6 +83,7 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $bodyColor;
+    text-decoration: underline;
   }
   -webkit-transition: filter 0.3s ease, color 0.3s ease;
      -moz-transition: filter 0.3s ease, color 0.3s ease;
@@ -93,15 +102,29 @@ strong, b {
 
 img, video {
   max-width: 100%;
+  border: 1px $borderColor solid;
   border-radius: 0.7em;
-  padding: 0.2em;
 }
 
 table {
   margin-bottom: 1.5em;
+  table-layout: fixed;
+  width: 100%;
 
   td {
     padding: 0.2em 0.2em;
+  }
+
+  th {
+    padding: 0.4em;
+  }
+
+  th:first-child {
+    padding-left: 0;
+  }
+
+  th:last-child {
+    padding-right: 0;
   }
 }
 
@@ -161,19 +184,6 @@ table {
           filter: grayscale(0%) blur(0px);
 }
 
-.thumb {
-  width: 20%;
-  float: left;
-
-  @include tablet {
-    width: 25%;
-  }
-
-  @include mobile {
-    width: 50%;
-  }
-}
-
 .tile {
   display: none;
 }
@@ -231,18 +241,6 @@ table {
   background: $selBgColor;
 }
 
-// Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
-}
-
-.clearfix:after {
-    clear: both;
-}
-
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
@@ -297,6 +295,21 @@ nav {
 //
 // .main
 //
+
+.posts.home {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 0.4em;
+
+  @include tablet {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  @include mobile {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+}
 
 .posts > .post {
   padding-bottom: 1em;
