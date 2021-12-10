@@ -8,13 +8,9 @@ description: A series of works based on Clay Shirky's Twitter profile picture.
 
 [Clay Shirky](https://en.wikipedia.org/wiki/Clay_Shirky) is a former professor of mine, and this series is based on [Shirky's Twitter](https://twitter.com/cshirky) profile picture, a closeup of his eye.
 
-![Shirky's Twitter Profile Picture](/media{{ page.url }}shirkys-profile-picture.jpg) |
-:----------: |
-Shirky's Twitter Profile Picture |
-
-![Shirky's Eye - Painting](/media{{ page.url }}shirkys-eye-painting.jpg) |
-:----------: |
-Shirky's Eye (2016), acrylic on wood panel, 30 x 30 cm (11.8 x 11.8 in). |
+![Shirky's Twitter Profile Picture](/media{{ page.url }}shirkys-profile-picture.jpg) | ![Shirky's Eye - Painting](/media{{ page.url }}shirkys-eye-painting.jpg) |
+:----------: | :----------: |
+Shirky's Twitter Profile Picture | Shirky's Eye (2016), acrylic on wood panel, 30 x 30 cm (11.8 x 11.8 in). |
 
 ![Shirky's Eye - Whiteboard](/media{{ page.url }}shirkys-eye.jpg) |
 :----------: |
