@@ -3,8 +3,12 @@ layout: post
 title: Virtual Mirrors
 categories: works
 tags: p5js web featured
-description: A collection of p5.js sketches that reflect a person or object in front of the webcam.
+description: A collection of code sketches that reflect a person or object in front of the webcam.
 ---
+
+[ [GitHub](https://github.com/jackbdu/virtual-mirrors) ]
+
+<!--more-->
 
 ![Virtual Mirrors - Cuboids](/media{{ page.url }}virtual-mirrors-cuboids.jpg) |
 :----------: |

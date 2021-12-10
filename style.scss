@@ -150,16 +150,26 @@ table {
   li+li {
     margin-top: .25em;
   }
-}
 
-.entry p {
-  margin: 0.5em 0;
+  p {
+    margin: 0.5em 0;
+  }
 }
 
 .date {
   font-weight: 300;
   font-size: 0.8em;
   color: $lightBodyColor;
+}
+
+// category/tag page adjustments
+
+.posts {
+  .entry {
+    p {
+      margin: 0;
+    }
+  }
 }
 
 // home page adjustments

@@ -6,6 +6,8 @@ tags: procreate digital painting featured
 description: A collection of digital paintings of myself.
 ---
 
+<!--more-->
+
 ![Self-Portraits](/media{{ page.url }}self-portraits.jpg) |
 :----------: |
 Self-Portraits (2020), created with Procreate, 2048 x 3072 px, based on [Self-Portraits](/works/self-portraits) (2019). |

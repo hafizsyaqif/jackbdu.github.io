@@ -6,6 +6,8 @@ tags: analog drawing featured
 description: A graphite drawing based on a photograph of myself that I took in Washinton DC.
 ---
 
+<!--more-->
+
 ![Self-Portrait](/media{{ page.url }}self-portrait.jpg) |
 :----------: |
 Graphite on paper, 61.0 x 45.7 cm (24 x 18 in). |

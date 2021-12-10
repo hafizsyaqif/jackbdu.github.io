@@ -5,6 +5,8 @@ categories: teaching
 description: A workshop on the basics of Adobe Premiere Pro.
 ---
 
+<!--more-->
+
 ## Table of Contents
 
 - [Step 1: Create New Project](#step-1-create-new-project)

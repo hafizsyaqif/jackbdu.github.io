@@ -5,6 +5,9 @@ categories: works
 tags: handlebarsjs nodejs google-api web
 description: A responsive multi-page website for the Interactive Media program at New York University Abu Dhabi.
 ---
+[ [Website](https://nyuadim.com/) \| [GitHub](https://github.com/nyuad-im/im-website/) ]
+
+<!--more-->
 
 ![Interactive Media Website - Home Page](/media{{ page.url }}interative-media-website-home-page.jpg) |
 :----------: |
@@ -37,12 +40,6 @@ IM’s mission aims to make sense of technological developments by demystifying 
 As a program that attempts to keep pace with the latest transformative technologies, IM needs an update-to-date and user-friendly website that reflects this attempt while etablishing a professional and attractive public image.
 
 The website is primiarily targeted at NYUAD students, faculty, and staff, for accessing IM-specific information and resources. Additionally, the website also provides information of the program for the public, such as prospective students and potential partners.
-
-## Links
-
-[Visit the Interactive Media Website](https://nyuadim.com/).
-
-Source code available on [GitHub](https://github.com/nyuad-im/im-website/).
 
 ## Acknowledgement
 

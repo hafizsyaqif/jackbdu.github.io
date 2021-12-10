@@ -7,6 +7,8 @@ description: A series of photographs of workbooks that I used in Gaozhong (10th 
 published: false
 ---
 
+<!--more-->
+
 ![Gaozhong Series #1 - Yuwen](/media{{ page.url }}gaozhong-series-01.jpg) |
 :----------: |
 Gaozhong Series #1 - Yuwen, dimensions variable. |

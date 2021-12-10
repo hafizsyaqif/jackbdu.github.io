@@ -6,6 +6,8 @@ tags: digital painting
 description: A collection of my childhood digital paintings.
 ---
 
+<!--more-->
+
 ![Frogs](/media{{ page.url }}frogs.jpg) |
 :----------: |
 Frogs (2006), created with [Kingsoft Huawang](http://cp.iciba.com/huawang.html), 432 x 561 px. |

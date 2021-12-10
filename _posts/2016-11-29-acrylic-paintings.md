@@ -6,6 +6,8 @@ tags: analog painting featured
 description: A collection of my acrylic paintings.
 ---
 
+<!--more-->
+
 ![Mother & Father - Mother](/media{{ page.url }}mother-and-father-mother.jpg) | ![Mother & Father - Father](/media{{ page.url }}mother-and-father-father.jpg)
 :----------: | :----------:
 Mother (2016), acrylic on canvas, 76.2 x 63.5 cm (30 x 25 in). | Father (2016), acrylic on canvas, 76.2 x 63.5 cm (30 x 25 in).

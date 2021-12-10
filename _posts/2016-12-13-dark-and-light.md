@@ -6,6 +6,8 @@ tags: arduino installation featured
 description: An interative sculpture of dark and light.
 ---
 
+<!--more-->
+
 ![](/media{{ page.url }}dark-and-light.jpg) |
 :----------: |
 Plywood, fabric, micro controller, buttons, LEDs, etc. 200 x 100 x 200 cm |

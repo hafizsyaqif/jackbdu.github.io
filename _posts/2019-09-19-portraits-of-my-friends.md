@@ -6,6 +6,8 @@ tags: procreate digital painting featured
 description: A collection of digital paintings of my friends.
 ---
 
+<!--more-->
+
 ![Iryna](/media{{ page.url }}iryna.jpg) |
 :----------: |
 Iryna (2020), created with Procreate, 4096 x 4096 px. |

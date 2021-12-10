@@ -6,6 +6,8 @@ tags: digital photography featured
 description: A series of photographs of myself.
 ---
 
+<!--more-->
+
 ![Self-Portraits on My Laptop](/media{{ page.url }}self-portraits-on-my-laptop.jpg) |
 :----------: |
 Self-Portraits on My Laptop |

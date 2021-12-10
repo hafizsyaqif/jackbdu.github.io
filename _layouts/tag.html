@@ -20,7 +20,8 @@ layout: default
       </div>
 
       <div class="entry">
-        <p>{{ post.description }}</p>
+        <p><i>{{ post.description }}</i></p>
+        {{ post.excerpt }} 
       </div>
 
       <a href="{{ post. url | relative_url}}"><img src="/media{{ post.url }}preview.jpg"/></a>

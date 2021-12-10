@@ -6,6 +6,8 @@ tags: digital photography featured
 description: A series of photographs of objects at my home that I lived throughout childhood and adolescence.
 ---
 
+<!--more-->
+
 ![Home Series #1](/media{{ page.url }}home-series-01.jpg) |
 :----------: |
 Home Series #1, dimensions variable. |

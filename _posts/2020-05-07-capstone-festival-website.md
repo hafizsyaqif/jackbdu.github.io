@@ -6,6 +6,10 @@ tags: vuejs google-api web
 description: A responsive single-page website that housed New York University Abu Dhabi's Arts & Humanities Capstone Festivals in 2020 and 2021.
 ---
 
+[ [Demo](https://jackbdu.com/capstone-fest/) \| [GitHub](https://github.com/jackbdu/capstone-fest/) ]
+
+<!--more-->
+
 ![Capstone Festival Website - Banner](/media{{ page.url }}banner.jpg) |
 :----------: |
 Capstone Festival Website - Banner |
@@ -33,12 +37,6 @@ Capstone Festival Website - Large Screen Layout |
 ![Capstone Festival Website - Real-time Google Sheets Database](/media{{ page.url }}google-sheets-database.jpg) |
 :----------: |
 Capstone Festival Website - Real-time Google Sheets Database |
-
-## Links
-
-[Launch](https://jackbdu.com/capstone-fest/) the capstone festival demo site.
-
-Source code available on [GitHub](https://github.com/jackbdu/capstone-fest/).
 
 ## Acknowledgement
 

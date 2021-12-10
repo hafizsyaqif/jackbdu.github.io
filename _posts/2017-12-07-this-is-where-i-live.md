@@ -6,6 +6,8 @@ categories: works
 tags: mixed-media collage painting video featured
 ---
 
+<!--more-->
+
 ![This Is Where I Live](/media{{ page.url }}this-is-where-i-live.jpg) |
 :----------: |
 2017 \| The Map as Art, New York University Shanghai Gallery, Shanghai, China |

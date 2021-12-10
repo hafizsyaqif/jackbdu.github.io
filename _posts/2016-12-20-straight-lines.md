@@ -6,6 +6,8 @@ tags: analog photography featured
 description: A series of photographs of abstract straight lines formed by lights and shadows.
 ---
 
+<!--more-->
+
 ![Straight Lines at NYUAD December Showcase](/media{{ page.url }}straight-lines.jpg) |
 :----------: |
 2016 \| December Showcase, New York University Abu Dhabi Project Space, Abu Dhabi, UAE |

@@ -5,6 +5,8 @@ categories: teaching
 description: A workshop on the basics of Adobe Photoshop.
 ---
 
+<!--more-->
+
 ## Table of Contents
 
 - [Step 1: Get Ready](#step-1-get-ready)
