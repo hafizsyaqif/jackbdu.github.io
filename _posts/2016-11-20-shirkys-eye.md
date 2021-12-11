@@ -6,6 +6,8 @@ tags: mixed-media painting drawing featured
 description: A series of works based on Clay Shirky's Twitter profile picture.
 ---
 
+[ [Documentation](https://jackbdu.wordpress.com/2016/11/21/shirkys-eye/) ]
+
 <!--more-->
 
 [Clay Shirky](https://en.wikipedia.org/wiki/Clay_Shirky) is a former professor of mine, and this series is based on [Shirky's Twitter](https://twitter.com/cshirky) profile picture, a closeup of his eye.

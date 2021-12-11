@@ -6,6 +6,8 @@ tags: arduino installation featured
 description: An interative sculpture of dark and light.
 ---
 
+[ [Documentation](https://jackbdu.wordpress.com/2017/01/02/dark-and-light/) ]
+
 <!--more-->
 
 ![](/media{{ page.url }}dark-and-light.jpg) |
