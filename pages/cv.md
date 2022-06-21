@@ -32,13 +32,21 @@ permalink: /cv/
 
 ## Teaching & Workshops
 
+**Sikka Art and Design Festival**, Dubai, UAE
+
+2022 \| [Sketching with Code: Introduction to Creative Coding](https://sikkartandesign.com/Creative-Coding-Workshop)
+
+**Ontario College of Art & Design University**, Toronto, Canada
+
+2022 \| Creative Coding with Perlin Noise at Interaction Experience Design
+
 **New York University Abu Dhabi**, Abu Dhabi, UAE
 
-2020, 2021 \| [Web Development Workshop Series: Making a Website from Scratch for Absolute Beginners](https://github.com/jackbdu/web-dev-workshop)
+2020 – 2022 \| [Web Development Workshop Series: Making a Website from Scratch for Absolute Beginners](https://github.com/jackbdu/web-dev-workshop)
 
-2019, 2020, 2021 \| Web Development Fundamentals for Interactive Media
+2019 – 2021 \| Web Development Fundamentals for Interactive Media
 
-2018, 2019, 2020 \| Introduction to Laser Cutting & Engraving for Interactive Media
+2018 – 2020 \| Introduction to Laser Cutting & Engraving for Interactive Media
 
 2019 \| Machines that See: Computer Vision in Processing, Processing Community Day
 
@@ -64,6 +72,8 @@ permalink: /cv/
 
 ## Exhibitions
 
+2022 \| Sikka Art and Design Festival, Dubai, UAE
+
 2018 \| **Shenzhen Design Week**, Shenzhen, China
 
 2018 \| **Shanghai Education Expo**, Shanghai Exhibition Center, Shanghai, China
@@ -84,6 +94,8 @@ permalink: /cv/
 
 ## Talks
 
+2022 \| Guest Speaker, Interaction Experience Design, Ontario College of Art & Design University, Toronto, Canada
+
 2018 \| [Making Art with a Robot](https://www.bilibili.com/video/av27211915/), _Zaojiu_, Shanghai, China
 
 2018 \| Panel Discussion, _Shanghai Education Expo_, Shanghai, China
@@ -98,6 +110,8 @@ permalink: /cv/
 
 ## Awards
 
+2022 \| **Professional Development Fund** from Arts and Humanities Division, NYU Abu Dhabi, UAE
+
 2017 \| **Excellence Award** at [Shanghai International Digital Creation, Innovation & Entrepreneurship Competition](https://v.qq.com/x/page/a0620ky9lbx.html), China
 
 2017 \| **Best Technology/Visual Demonstration** at Undergraduate Research Symposium, NYU Shanghai, China
@@ -109,6 +123,8 @@ permalink: /cv/
 2014 \| **2nd Best Hardware Hack** at [HackShanghai](http://2014.hackshanghai.com), China
 
 ## Press
+
+2022 \| Chaves, Alexandra: “[Sikka turns 10: Dubai art and design festival returns after two-year hiatus](https://www.thenationalnews.com/arts-culture/art/2022/03/16/sikka-turns-10-dubai-art-and-design-festival-returns-after-two-year-hiatus/)”, _The National_, Mar. 16, 2022
 
 2018 \| “[我为什么要费尽心思造出一个不完美的绘画机器人？](https://mp.weixin.qq.com/s/ZiTIpNLR9Vm13mw_fxWhGQ)” [Why Did I Painstakingly Build an Imperfect Drawing Robot?], _Zaojiu_, July 19, 2018
 
