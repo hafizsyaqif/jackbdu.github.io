@@ -32,23 +32,39 @@ permalink: /cv/
 
 ## Teaching & Workshops
 
+**Dubai Design Week**, Dubai, UAE
+
+2022 \| [Creative Coding Workshop for Professionals](https://www.dubaidesignweek.ae/programme/2022/creative-coding-2/)
+
+2022 \| [Creative Coding Workshop for Children](https://www.dubaidesignweek.ae/programme/2022/creative-coding/)
+
 **Sikka Art and Design Festival**, Dubai, UAE
 
 2022 \| [Sketching with Code: Introduction to Creative Coding](https://sikkartandesign.com/Creative-Coding-Workshop)
 
 **Ontario College of Art & Design University**, Toronto, Canada
 
-2022 \| Creative Coding with Perlin Noise at Interaction Experience Design
+2022 \| Creative Coding with Perlin Noise for Interaction Experience Design
 
 **New York University Abu Dhabi**, Abu Dhabi, UAE
 
+2022 \| [Creative Coding Workshop Series for Absolute Beginners](https://youtube.com/playlist?list=PLUbmjnHkwarjjZ7qHHyZlrhnVije58S_L)
+
+2022 \| Introduction to p5.js for Communications Lab
+
+2022 \| Introduction to Digital Fabrication for Desert Media Art
+
+2022 \| Arduino Serial Communication Basics for Introduction to Interactive Media
+
 2020 – 2022 \| [Web Development Workshop Series: Making a Website from Scratch for Absolute Beginners](https://github.com/jackbdu/web-dev-workshop)
+
+2019 – 2022 \| Hand & Power Tool Safety for Interactive Media
 
 2019 – 2021 \| Web Development Fundamentals for Interactive Media
 
 2018 – 2020 \| Introduction to Laser Cutting & Engraving for Interactive Media
 
-2019 \| Machines that See: Computer Vision in Processing, Processing Community Day
+2019 \| Computer Vision Workshop at Processing Community Day
 
 2019 \| Hosting Your Portfolio on GitHub
 
@@ -64,25 +80,25 @@ permalink: /cv/
 
 2018 \| Object-Oriented Programming for Interaction Lab
 
-2017 \| Computer Vision: Face Tracking in Processing
+2017 \| Face Tracking in Processing for Interaction Lab
 
-2017 \| The Philosophy and Art of Documentation
+2017 \| Interactive Media Arts Project Documentation Workshop
 
 2017 \| Command Line Basics
 
 ## Exhibitions
 
-2022 \| Sikka Art and Design Festival, Dubai, UAE
+2022 \| **Sikka Art and Design Festival**, Dubai, UAE
 
 2018 \| **Shenzhen Design Week**, Shenzhen, China
 
-2018 \| **Shanghai Education Expo**, Shanghai Exhibition Center, Shanghai, China
+2018 \| **[Shanghai Education Expo](https://shanghai.nyu.edu/cn/news/yi-zhu-jiao-yu)**, Shanghai Exhibition Center, Shanghai, China
 
 2017 \| **Life Geek Exhibition**, [USC-SJTU Institute of Cultural and Creative Industry](https://icci.sjtu.edu.cn/en), Shanghai, China
 
 2017 \| **The Map as Art**, NYU Shanghai Gallery, Shanghai, China
 
-2017 \| **Maker Carnival**, Knowledge & Innovation Community, Shanghai, China
+2017 \| **[Maker Carnival](http://www.makercarnival.org)**, Knowledge & Innovation Community, Shanghai, China
 
 2017 \| **Maker Exhibition**, Shanghai Library, Shanghai, China
 
@@ -94,7 +110,7 @@ permalink: /cv/
 
 ## Talks
 
-2022 \| Guest Speaker, Interaction Experience Design, Ontario College of Art & Design University, Toronto, Canada
+2022 \| Guest Speaker, _Interaction Experience Design_, Ontario College of Art & Design University, Toronto, Canada
 
 2018 \| [Making Art with a Robot](https://www.bilibili.com/video/av27211915/), _Zaojiu_, Shanghai, China
 
