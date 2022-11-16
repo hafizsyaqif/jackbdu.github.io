@@ -40,7 +40,7 @@ permalink: /cv/
 
 **Sikka Art and Design Festival**, Dubai, UAE
 
-2022 \| [Sketching with Code: Introduction to Creative Coding](https://sikkartandesign.com/Creative-Coding-Workshop)
+2022 \| [Getting Started with Creative Coding](https://sikkartandesign.com/Creative-Coding-Workshop)
 
 **Ontario College of Art & Design University**, Toronto, Canada
 
