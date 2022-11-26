@@ -3,7 +3,7 @@ layout: post
 title: Creative Coding for Absolute Beginners
 categories: works
 tags: p5js workshop featured
-description: A collection of sample sketches created for my Creative Coding for Absolute Beginner workshop series.
+description: A collection of sample p5.js sketches created for my Creative Coding for Absolute Beginner workshop series.
 ---
 
 [ [Recordings](https://www.youtube.com/playlist?list=PLUbmjnHkwarjjZ7qHHyZlrhnVije58S_L) \| [Source Code](https://editor.p5js.org/jackbdu/collections/BUeR59x4g) ]
