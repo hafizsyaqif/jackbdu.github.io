@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creative Coding for Absolute Beginners
-categories: works
+categories: teaching
 tags: p5js workshop featured
 description: A collection of sample p5.js sketches created for my Creative Coding for Absolute Beginner workshop series.
 ---
