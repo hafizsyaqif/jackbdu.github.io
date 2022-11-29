@@ -48,7 +48,7 @@ permalink: /cv/
 
 **New York University Abu Dhabi**, Abu Dhabi, UAE
 
-2022 \| [Creative Coding Workshop Series for Absolute Beginners](https://youtube.com/playlist?list=PLUbmjnHkwarjjZ7qHHyZlrhnVije58S_L)
+2022 \| [Creative Coding Workshop Series for Absolute Beginners](/teaching/creative-coding-for-absolute-beginners/)
 
 2022 \| Introduction to p5.js for Communications Lab
 
@@ -94,11 +94,11 @@ permalink: /cv/
 
 2018 \| **[Shanghai Education Expo](https://shanghai.nyu.edu/cn/news/yi-zhu-jiao-yu)**, Shanghai Exhibition Center, Shanghai, China
 
-2017 \| **Life Geek Exhibition**, [USC-SJTU Institute of Cultural and Creative Industry](https://icci.sjtu.edu.cn/en), Shanghai, China
+2017 \| **Life Geek Exhibition**, USC-SJTU Institute of Cultural and Creative Industry, Shanghai, China
 
 2017 \| **The Map as Art**, NYU Shanghai Gallery, Shanghai, China
 
-2017 \| **[Maker Carnival](http://www.makercarnival.org)**, Knowledge & Innovation Community, Shanghai, China
+2017 \| **Maker Carnival**, Knowledge & Innovation Community, Shanghai, China
 
 2017 \| **Maker Exhibition**, Shanghai Library, Shanghai, China
 
@@ -136,7 +136,7 @@ permalink: /cv/
 
 2015 \| **[Dean’s Undergraduate Research Fund](https://shanghai.nyu.edu/academics/undergraduate-research)** from NYU Shanghai, China
 
-2014 \| **2nd Best Hardware Hack** at [HackShanghai](http://2014.hackshanghai.com), China
+2014 \| **2nd Best Hardware Hack** at HackShanghai, China
 
 ## Press
 
