@@ -3,7 +3,6 @@ layout: post
 title: Daily Sketches
 categories: works
 tags: p5js web featured
-published: false
 description: A select collection of my daily sketches in 2022.
 ---
 
@@ -11,8 +10,4 @@ description: A select collection of my daily sketches in 2022.
 
 <!--more-->
 
-## Pixels
-
-## Repetitions
-
-## Fluids
+This post is to be updated. For now, you can find all my daily sketches posted on [Instagram](http://instagram.com/jackbdu/).
