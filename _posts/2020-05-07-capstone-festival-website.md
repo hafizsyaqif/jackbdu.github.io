@@ -40,4 +40,6 @@ Capstone Festival Website - Real-time Google Sheets Database |
 
 ## Acknowledgement
 
-This website is a collaboration with my wonderful colleague and amazing designer, [Erin Collins](https://www.erinmeekhof.com/).
+Designer: [Erin Collins](https://www.erinmeekhof.com/)
+
+Developer: [Jack B. Du](https://jackbdu.com/)
