@@ -10,9 +10,9 @@ description: A select collection of my daily sketches in 2022.
 
 <!--more-->
 
-You can find all my daily sketches on [Instagram](http://instagram.com/jackbdu/). Below is a selection of them divided into a few different categories.
+My daily sketches in 2022 are all posted on [Instagram](http://instagram.com/jackbdu/). Below is a selection of them divided into different categories based on the techniques I used. Within each category, you can see the incremental changes I made over time.
 
-## Spiral Repetitions
+## Spiral repetitions
 
 <table style="width: 100%;">
   <thead><tr>
@@ -35,6 +35,8 @@ You can find all my daily sketches on [Instagram](http://instagram.com/jackbdu/)
       <a href="https://www.instagram.com/p/CcLxyWzrDvc/" target="_blank">Daily Sketch 04/10/2022</a>
     </th>
   </tr></tbody>
+</table>
+<table style="width: 100%;">
   <thead><tr>
     <th>
       <video loop autoplay width="100%" preload="auto">
@@ -55,6 +57,8 @@ You can find all my daily sketches on [Instagram](http://instagram.com/jackbdu/)
       <a href="https://www.instagram.com/p/CcgbIiTL70i/" target="_blank">Daily Sketch 04/18/2022</a>
     </th>
   </tr></tbody>
+</table>
+<table style="width: 100%;">
   <thead><tr>
     <th>
       <video loop autoplay width="100%" preload="auto">
@@ -77,7 +81,7 @@ You can find all my daily sketches on [Instagram](http://instagram.com/jackbdu/)
   </tr></tbody>
 </table>
 
-## Circular Repetitions
+## Circular repetitions
 
 <table style="width: 100%;">
   <thead><tr>
@@ -100,6 +104,8 @@ You can find all my daily sketches on [Instagram](http://instagram.com/jackbdu/)
       <a href="https://www.instagram.com/p/Cc6GhnhrkIQ/" target="_blank">Daily Sketch 04/28/2022</a>
     </th>
   </tr></tbody>
+</table>
+<table style="width: 100%;">
   <thead><tr>
     <th>
       <video loop autoplay width="100%" preload="auto">
@@ -118,6 +124,49 @@ You can find all my daily sketches on [Instagram](http://instagram.com/jackbdu/)
     </th>
     <th>
       <a href="https://www.instagram.com/p/CdJmDnTLdqH/" target="_blank">Daily Sketch 05/04/2022</a>
+    </th>
+  </tr></tbody>
+</table>
+
+# Pixels formed by random scribbles
+
+<table style="width: 100%;">
+  <thead><tr>
+    <th>
+      <img src="/media{{ page.url }}20220102-linear-gradient.png" alt='Linear gradient in the style of pixels formed by different intensities of scribbles'>
+    </th>
+    <th>
+      <img src="/media{{ page.url }}20220103-at-sign.png" alt='At sign in the style of pixels formed by different intensities of scribbles'>
+    </th>
+  </tr></thead>
+  <tbody><tr style="text-align: center;">
+    <th>
+      <a href="" target="_blank">Daily Sketch 01/02/2022</a>
+    </th>
+    <th>
+      <a href="" target="_blank">Daily Sketch 01/03/2022</a>
+    </th>
+  </tr></tbody>
+</table>
+<table style="width: 100%;">
+  <thead><tr>
+    <th>
+      <video loop autoplay width="100%" preload="auto">
+        <source src="/media{{ page.url }}20220104-jackbdu-instagram.mp4" type='video/mp4'>
+      </video>
+    </th>
+    <th>
+      <video loop autoplay width="100%" preload="auto">
+        <source src="/media{{ page.url }}20220108-monochrome-green-curve-countdown-short-infinite-loop.mp4" type='video/mp4'>
+      </video>
+    </th>
+  </tr></thead>
+  <tbody><tr style="text-align: center;">
+    <th>
+      <a href="" target="_blank">Daily Sketch 01/04/2022</a>
+    </th>
+    <th>
+      <a href="" target="_blank">Daily Sketch 01/08/2022</a>
     </th>
   </tr></tbody>
 </table>
