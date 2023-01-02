@@ -43,7 +43,7 @@ WiFi (2017), ink on canvas, 176 x 176 cm (5.8 x 5.8 ft). [ [YouTube](https://www
 
 ![Steve Jobs](/media{{ page.url }}steve-jobs.jpg) |
 :----------: |
-Steve Jobs (2017), ink on canvas, 176 x 176 cm (5.8 x 5.8 ft). [ [YouTube](https://www.youtube.com/watch?v=31gOCmoB-K0&list=PLUbmjnHkwari3NY0RF9b3pnPEspcN8Fa3&index=17) \| [Instagram](https://www.instagram.com/p/BS1RfuMB0th) ] |
+Steve Jobs (2017), ink on canvas, 250 x 176 cm (8.2 x 5.8 ft). [ [YouTube](https://www.youtube.com/watch?v=31gOCmoB-K0&list=PLUbmjnHkwari3NY0RF9b3pnPEspcN8Fa3&index=17) \| [Instagram](https://www.instagram.com/p/BS1RfuMB0th) ] |
 
 ![Self-Portrait](/media{{ page.url }}self-portrait.jpg) |
 :----------: |
