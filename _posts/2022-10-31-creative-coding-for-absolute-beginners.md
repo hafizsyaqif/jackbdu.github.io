@@ -2,42 +2,32 @@
 layout: post
 title: Creative Coding for Absolute Beginners
 categories: teaching
-description: A creative coding workshop series for people with absolutely zero coding experience.
+description: A series of beginner-friendly creative coding workshops for people without any coding experience.
 ---
 
-[ [Recordings](https://www.youtube.com/playlist?list=PLUbmjnHkwarjjZ7qHHyZlrhnVije58S_L) \| [Code](https://editor.p5js.org/jackbdu/collections/BUeR59x4g) ]
+[ [Watch recordings on YouTube](https://www.youtube.com/playlist?list=PLUbmjnHkwarjjZ7qHHyZlrhnVije58S_L) \| [View source code in p5.js Web Editor](https://editor.p5js.org/jackbdu/collections/BUeR59x4g) ]
 
 <!--more-->
 
-## Workshop Description
+![](/media{{ page.url }}20220318-sikka-art-and-design-festival-creative-coding-workshop.jpg) | ![](/media{{ page.url }}20220319-sikka-art-and-design-festival-creative-coding-workshop.jpg)
+:----------: | :----------:
+2022 \| [Creativing Coding Workshop](https://sikkartandesign.com/Creative-Coding-Workshop) at Sikka Art and Design Festival, Dubai, UAE | 2022 \| [Creativing Coding Workshop](https://sikkartandesign.com/Creative-Coding-Workshop) at Sikka Art and Design Festival, Dubai, UAE
 
-Creative coding is a practice where programming is used to create something expressive. Sketching is traditionally done with pencil and paper. Now, with the help of software tools such as Processing, p5.js, and openFrameworks, sketching with code has become more accessible than ever. Whether you are an artist, designer, educator, or just someone who is curious, creative coding will be a handy tool to add to your arsenal. In this workshop series, participants will learn how to write code to create digital sketches, from simple shapes to detailed visuals. By the end of this workshop series, participants will gain the basic knowledge and resources to further explore creative coding on their own. No prior coding experience required.
+![](/media{{ page.url }}20221112-dubai-design-week-creative-coding-workshop.jpg) |
+:----------: |
+2022 \| [Creativing Coding Workshop](https://www.dubaidesignweek.ae/programme/2022/creative-coding/) at at Dubai Design Week, Dubai, UAE |
 
-## Schedule
+In early 2022, I was invited by organizers of [Sikka Art and Design Festival](https://sikkartandesign.com), an annual event housed in Al Fahidi Historical Neighborhood in Dubai, to teach workshops at the event. I decided to offer [two introductory creative coding workshops](https://sikkartandesign.com/Creative-Coding-Workshop) that teach participants how to use [p5.js](http://p5js.org), a creative coding framework that focuses on making code accessible and inclusive. These workshops were very successful, with participants ranging from professionals to elementary school students and stay-at-home moms. I was very touched by the enthusiasm of the participants, which inspired me to offer two [similar workshops](https://www.dubaidesignweek.ae/programme/2022/creative-coding/) at [Dubai Design Week](https://www.dubaidesignweek.ae) in late 2022.
 
-Workshop #1: Let’s Start Sketching: This workshop provides an overview of creative coding and gets you started with sketching using p5.js.
 
-Workshop #2: Repeat, Repeat, and Repeat: This workshop shows you how repetition can be used to create mesmerizing patterns and seamless transitions.
+![](/media{{ page.url }}20221101-creative-coding-for-absolute-beginners-part-1.jpg) |
+:----------: |
+2022 \| Creativing Coding Workshop Series at New York University Abu Dhabi |
+[ [Watch recordings on YouTube](https://www.youtube.com/playlist?list=PLUbmjnHkwarjjZ7qHHyZlrhnVije58S_L) ] |
 
-Workshop #3: Beauty of Noises: This workshop introduces you to Perlin noise, an algorithm that helps to make sketches appear more organic and natural.
+In addition, I also developed and taught a series of beginner-friendly creative coding workshops to community members at New York University Abu Dhabi. This series consists of three workshops: the first workshop provides an overview of creative coding and gets participants started with sketching using p5.js, the second workshop demonstrates how repetition can be used to create mesmerizing patterns and seamless transitions, and the third workshop introduces Perlin noise, an algorithm that helps to make sketches appear more organic and natural. In all these workshops, I try to encourage participants to experiment freely, because I believe that is best way to get surprising results.
 
-## Learning Outcomes
-By the end of the workshop series, participants will
-
-- Be able to create both still and animated sketches using p5.js
-
-- Have a clear understanding of the differences between different creative coding platforms
-
-- Be able to identify the technologies required for more specialized/advanced projects
-
-- Have a creative mindset that leads to happy accidents
-
-- Gain essential knowledge of creative coding to further develop skills beyond this workshop series
-
-## Teaching Methodology
-This workshop series encourages participants to experiment with unconventional approaches to achieve surprising results. After each topic, the participants will be given an opportunity to practice and share. The workshop aims to intrigue and inspire participants with various topics in creative coding, and expects participants to spend time outside the workshop to branch out to other more advanced topics and further hone their skills.
-
-## Sample Sketches
+Here are some sample sketches I made for these workshops. You can [view their source code in p5.js Web Editor](https://editor.p5js.org/jackbdu/collections/BUeR59x4g).
 
 <iframe style="width:100%;height:450px" src="https://editor.p5js.org/jackbdu/full/SE-USZgxj"></iframe>
 
@@ -46,11 +36,3 @@ This workshop series encourages participants to experiment with unconventional a
 <iframe style="width:100%;height:450px" src="https://editor.p5js.org/jackbdu/full/10b7GrjS4"></iframe>
 
 <iframe style="width:100%;height:450px" src="https://editor.p5js.org/jackbdu/full/5lzBOxU1T"></iframe>
-
-## Other Resources
-
-[p5.js Reference](https://p5js.org/reference/)
-
-[p5.js Tutorials](https://p5js.org/learn/)
-
-[Code! Programming for Beginners with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) by [Daniel Shiffman](https://shiffman.net)
