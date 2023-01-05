@@ -88,7 +88,7 @@ permalink: /cv/
 
 ## Exhibitions
 
-2022 \| **Sikka Art and Design Festival**, Dubai, UAE
+2022 \| **Sikka Art and Design Festival**, Al Fahidi Historical Neighborhood, Dubai, UAE
 
 2018 \| **Shenzhen Design Week**, Shenzhen, China
 

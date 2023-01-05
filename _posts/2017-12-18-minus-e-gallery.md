@@ -19,7 +19,7 @@ Square (2017), ink on canvas, 176 x 176 cm (5.8 x 5.8 ft). [ [Instagram](https:/
 
 ![Heart](/media{{ page.url }}heart.jpg) |
 :----------: |
-Heart (2017), ink on canvas, 176 x 176 cm (5.8 x 5.8 ft). [ [Instagram](https://www.instagram.com/p/BZkw5VDB0u8) ] |
+Heart (2017), ink on canvas, 176 x 176 cm (5.8 x 5.8 ft). [ [Instagram](https://www.instagram.com/p/BZilgweBD1E/) ] |
 
 ![Shei](/media{{ page.url }}shei.jpg) |
 :----------: |
@@ -63,7 +63,7 @@ Nicole Chan (2017), ink on paper, 176 x 176 cm (5.8 x 5.8 ft). [ [YouTube](https
 
 ![Arrow](/media{{ page.url }}arrow.jpg) |
 :----------: |
-Arrow (2017), ink on paper, 176 x 176 cm (5.8 x 5.8 ft). [ [YouTube]() \| [Instagram]() ] |
+Arrow (2017), ink on paper, 176 x 176 cm (5.8 x 5.8 ft). [ [YouTube](https://www.youtube.com/watch?v=Z7KEnMZib3A&list=PLUbmjnHkwari3NY0RF9b3pnPEspcN8Fa3&index=5) \| [Instagram](https://www.instagram.com/p/BUyCGTyh-XG/) ] |
 
 ![Shirky's Eye](/media{{ page.url }}shirkys-eye.jpg) |
 :----------: |
