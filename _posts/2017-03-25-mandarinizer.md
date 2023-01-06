@@ -44,3 +44,19 @@ Apple (2018), shot with Mandarinizer | Starbucks (2018), shot with Mandarinizer 
 ![Untitled (2018), shot with Mandarinizer](/media{{ page.url }}mandarinizer-untitled.jpg) |
 :----------: |
 Untitled (2018), shot with Mandarinizer |
+
+## Exhibitions
+
+2022 \| **Sikka Art and Design Festival**, Al Fahidi Historical Neighborhood, Dubai, UAE
+
+2018 \| **Shenzhen Design Week**, Shenzhen, China
+
+2018 \| **Shanghai Education Expo**, Shanghai Exhibition Center, Shanghai, China
+
+## Press
+
+2022 \| Chaves, Alexandra: “[Sikka turns 10: Dubai art and design festival returns after two-year hiatus](https://www.thenationalnews.com/arts-culture/art/2022/03/16/sikka-turns-10-dubai-art-and-design-festival-returns-after-two-year-hiatus/)”, _The National_, Mar. 16, 2022
+
+2018 \| “[机器时代即将到来｜新锐艺术家专访](https://mp.weixin.qq.com/s/4yy7EwKfEpMtOzV7RD5VsA)” [Emerging Artist Interview: the Age of Robots is Around the Corner], _MANA_, July 16, 2018
+
+2018 \| Qiu, Wenhan: “[谁说‘码农’不能搞艺术？上海纽约大学这门专业让学生大胆‘跨界’](https://www.shobserver.com/ydzx/html/86265.html)” [Why Can’t Coders Create Art? This Major at NYU Shanghai Allows Students to Bravely Cross Disciplines], _Shanghai Observer_, Apr. 16, 2018
