@@ -134,7 +134,7 @@ permalink: /cv/
 
 2017 \| **5th Place** at [Robot Art Competition](https://robotart.org/2017-winners/), USA
 
-2015 \| **[Dean’s Undergraduate Research Fund](https://shanghai.nyu.edu/academics/undergraduate-research)** from NYU Shanghai, China
+2015 \| **Dean’s Undergraduate Research Fund** from NYU Shanghai, China
 
 2014 \| **2nd Best Hardware Hack** at HackShanghai, China
 
