@@ -148,7 +148,7 @@ permalink: /cv/
 
 2018 \| Qiu, Wenhan: “[谁说‘码农’不能搞艺术？上海纽约大学这门专业让学生大胆‘跨界’](https://www.shobserver.com/ydzx/html/86265.html)” [Why Can’t Coders Create Art? This Major at NYU Shanghai Allows Students to Bravely Cross Disciplines], _Shanghai Observer_, Apr. 16, 2018
 
-2018 \| Turner, Juliet: "[Creative Machines](https://cdn.shanghai.nyu.edu/sites/default/files/nyush_spring2018_english.pdf)", _NYU Shanghai Magzine_, Spring 2018
+2018 \| Turner, Juliet: "[Creative Machines](https://cdn.shanghai.nyu.edu/sites/default/files/accessible_nyush_spring2018_english.pdf)", _NYU Shanghai Magzine_, Spring 2018
 
 2017 \| Chapman, Catherine: "[Robot Artists Compete for Thousands of Dollars at This Painting Competition](https://creators.vice.com/en_au/article/xwqk3n/robot-artists-compete-for-thousands-of-dollars-at-this-painting-competition)", _Vice_, May 23, 2017.
 

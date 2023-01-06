@@ -13,7 +13,7 @@ description: An experimental web-based camera app that captures pictures in the 
 :----------: | :----------: |
 2018 \| Mandarinizer exhibited at Shanghai Education Expo, Shanghai Exhibition Center, Shanghai, China | 2022 \| Mandarinizer exhibited at Sikka Art and Design Festival, Al Fahidi Historical Neighborhood, Dubai, UAE |
 
-Mandarinizer started as a [command-line application](https://github.com/jackbdu/mandarinizer) that converts an image file to a text file containing a matrix of Mandarin Chinese characters that gives the impression of the original image. It was one of [a series of experiments](/works/shirkys-eye/) that served as a proof of concept that the impression of an image can still be formed when pixels are replaced by a variety of different elements according to how dark each pixel is.
+Mandarinizer started as a [command-line application](https://github.com/jackbdu/mandarinizer) that converts an image file to a text file containing a grid of Mandarin Chinese characters that gives the impression of the original image. It was one of [a series of experiments](/works/shirkys-eye/) that served as a proof of concept that the impression of an image can still be formed when pixels are replaced by a variety of different elements according to how dark each pixel is.
 
 ![Early version of Mandarinizer running in a terminal emulator](/media{{ page.url }}mandarinizer.gif) |
 :----------: |
