@@ -11,6 +11,7 @@ description: A series of experimental digital paintings that deconstruct images 
 ![Self-Portrait of Little Jack](/media{{ page.url }}self-portrait-of-little-jack.jpg) |
 :----------: |
 Self-Portrait of Little Jack (2019), created with Procreate, 3072 x 2048 px. |
+[ [View post on Instagram](https://www.instagram.com/p/B3z0vEmhZNt/) ] |
 
 ![Self-Portrait of Little Jack - Cyan](/media{{ page.url }}self-portrait-of-little-jack-cyan.jpg) | ![Self-Portrait of Little Jack - Magenta](/media{{ page.url }}self-portrait-of-little-jack-magenta.jpg) | ![Self-Portrait of Little Jack - Yellow](/media{{ page.url }}self-portrait-of-little-jack-yellow.jpg) | ![Self-Portrait of Little Jack - Black](/media{{ page.url }}self-portrait-of-little-jack-black.jpg)
 :----------: | :----------: | :----------: | :----------:
@@ -19,3 +20,4 @@ Self-Portrait of Little Jack (2019) - Cyan | Self-Portrait of Little Jack (2019)
 ![Self-Portrait](/media{{ page.url }}self-portrait.jpg) |
 :----------: |
 Self-Portrait (2019), created with Procreate, 2048 x 3072 px. |
+[ [View post on Instagram](https://www.instagram.com/p/B3nW621BBmn/) ] |
