@@ -3,14 +3,18 @@ layout: post
 title: Daily Sketches
 categories: works
 tags: p5js glsl web featured
-description: A select collection of my daily sketches in 2022.
+description: A collection of computational sketches I created with code in the year 2022.
 ---
 
-[ [Instagram](http://instagram.com/jackbdu/) \| [Code](https://editor.p5js.org/jackbdu/sketches) ]
+[ [View sketches on Instagram](http://instagram.com/jackbdu/) \| [View source code in p5.js Web Editor](https://editor.p5js.org/jackbdu/sketches) ]
 
 <!--more-->
 
-My daily sketches in 2022 are all posted on [Instagram](http://instagram.com/jackbdu/). Below is a selection of them divided into different categories based on the techniques I used. Within each category, you can see the incremental changes I made over time.
+As a new year resolution, I challenged myself to create and post computational sketches on social media every single day starting on January 1st, 2022. I use it as a way to journal, turning ideas, memories, and everyday events into expressive visuals. Some visuals are in simple geometric shapes and representational forms, some are in generative, repetitive, and abstract patterns, others are combinations of both. Most sketches are either still images or short animations, and the rest are interactive. The interactive ones are what I call virtual mirrors, which are sketches that are dynamically rendered in real time based on the presence of viewers. The images and motions of the viewers are first captured by a video camera, and then reinterpreted by the code that I wrote before shown to the viewers.
+
+Most sketches started with a simple idea—a single circle, a blob, or some random scribbles. I would then spend anytime from a few days to a few weeks on these ideas by making incremental changes every day, altering colors, sizes, rotations, number of repetitions, etc. These changes often lead to unexpected results that are even surprising to me. Doing these sketches helped me practice my old coding skills as well as pick up many new techniques. It has also been a great source of inspiration for future project ideas.
+
+You can find all of my daily sketches on [Instagram](http://instagram.com/jackbdu/). Below is a selection of them divided into a few categories based on the different techniques I used. Within each category, you can see the incremental changes I made over time.
 
 ## Spiral repetitions
 
