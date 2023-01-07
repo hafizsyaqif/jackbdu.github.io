@@ -107,24 +107,16 @@ img, video {
 }
 
 table {
-  margin-bottom: 1.5em;
+  margin: 0 -0.4em 1.5em -0.4em;
   table-layout: fixed;
   width: 100%;
 
   td {
-    padding: 0.2em 0.2em;
+    padding: 0.2em 0.4em;
   }
 
   th {
     padding: 0.4em;
-  }
-
-  th:first-child {
-    padding-left: 0;
-  }
-
-  th:last-child {
-    padding-right: 0;
   }
 }
 
