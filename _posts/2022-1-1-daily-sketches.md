@@ -12,165 +12,52 @@ description: A collection of computational sketches I created with code in the y
 
 As a new year resolution, I challenged myself to create and post computational sketches on social media every single day starting on January 1st, 2022. I use it as a way to journal, turning ideas, memories, and everyday events into expressive visuals. Some visuals are in simple geometric shapes and representational forms, some are in generative, repetitive, and abstract patterns, others are combinations of both. Most sketches are either still images or short animations, and the rest are interactive. The interactive ones are what I call virtual mirrors, which are sketches that are dynamically rendered in real time based on the presence of viewers. The images and motions of the viewers are first captured by a video camera, and then reinterpreted by the code that I wrote before shown to the viewers.
 
+
+![Screenshot of my Instagram posts, featuring vibrantly colorful daily sketches I created](/media{{ page.url }}screenshot-of-jackbdu-instagram.jpg) |
+:----------: |
+Screenshot of [my Instagram](https://www.instagram.com/jackbdu/) posts |
+
 Most sketches started with a simple idea—a single circle, a blob, or some random scribbles. I would then spend anytime from a few days to a few weeks on these ideas by making incremental changes every day, altering colors, sizes, rotations, number of repetitions, etc. These changes often lead to unexpected results that are even surprising to me. Doing these sketches helped me practice my old coding skills as well as pick up many new techniques. It has also been a great source of inspiration for future project ideas.
 
-You can find all of my daily sketches on [Instagram](http://instagram.com/jackbdu/). Below is a selection of them divided into a few categories based on the different techniques I used. Within each category, you can see the incremental changes I made over time.
+Below I am showing a selection of my daily sketches based on different techniques I used.
 
-## Spiral repetitions
+## Scribbles
 
-<table style="width: 100%;">
-  <thead><tr>
-    <th>
-      <video loop autoplay width="100%" preload="auto">
-        <source src="/media{{ page.url }}20220405-spiral-bright-circles-on-dark-background-loop.mp4" type='video/mp4'>
-      </video>
-    </th>
-    <th>
-      <video loop autoplay width="100%" preload="auto">
-        <source src="/media{{ page.url }}20220410-blue-to-red-animated-spiral-hollow-squares-on-dark-background-loop.mp4" type='video/mp4'>
-      </video>
-    </th>
-  </tr></thead>
-  <tbody><tr style="text-align: center;">
-    <th>
-      <a href="https://www.instagram.com/p/Cb-sw3KLtdk/" target="_blank">Daily Sketch 04/05/2022</a>
-    </th>
-    <th>
-      <a href="https://www.instagram.com/p/CcLxyWzrDvc/" target="_blank">Daily Sketch 04/10/2022</a>
-    </th>
-  </tr></tbody>
-</table>
-<table style="width: 100%;">
-  <thead><tr>
-    <th>
-      <video loop autoplay width="100%" preload="auto">
-        <source src="/media{{ page.url }}20220415-three-animated-green-to-blue-spiral-springs.mp4" type='video/mp4'>
-      </video>
-    </th>
-    <th>
-      <video loop autoplay width="100%" preload="auto">
-        <source src="/media{{ page.url }}20220418-five-animated-white-shells.mp4" type='video/mp4'>
-      </video>
-    </th>
-  </tr></thead>
-  <tbody><tr style="text-align: center;">
-    <th>
-      <a href="https://www.instagram.com/p/CcYqJzGrRiV/" target="_blank">Daily Sketch 04/15/2022</a>
-    </th>
-    <th>
-      <a href="https://www.instagram.com/p/CcgbIiTL70i/" target="_blank">Daily Sketch 04/18/2022</a>
-    </th>
-  </tr></tbody>
-</table>
-<table style="width: 100%;">
-  <thead><tr>
-    <th>
-      <video loop autoplay width="100%" preload="auto">
-        <source src="/media{{ page.url }}20220421-animated-red-to-blue-flower.mp4" type='video/mp4'>
-      </video>
-    </th>
-    <th>
-      <video loop autoplay width="100%" preload="auto">
-        <source src="/media{{ page.url }}20220822-animated-light-blue-four-petal-flower.mp4" type='video/mp4'>
-      </video>
-    </th>
-  </tr></thead>
-  <tbody><tr style="text-align: center;">
-    <th>
-      <a href="https://www.instagram.com/p/CcoKDVvr9W1/" target="_blank">Daily Sketch 04/21/2022</a>
-    </th>
-    <th>
-      <a href="https://www.instagram.com/p/Chjd4-nOZyS/" target="_blank">Daily Sketch 08/22/2022</a>
-    </th>
-  </tr></tbody>
-</table>
+Some of the first daily sketches I created were inspired by drawings created by [Minus E](/works/minus-e/), an robotic drawing system I built in 2017. Essentially, these sketches were a recreation of Minus E's drawing style, forming images with a single thread of scribble that clusters in different densities at different spots. No longer constrained by hardware and time limitations, what surprised me the most was how easily I could bring these sketches to life by animating them.
 
-## Circular repetitions
+![Linear gradient formed by a grid of white scribbles of different densities on black background](/media{{ page.url }}20220102-linear-gradient.jpg) | ![Self-portrait formed by a grid of colorful scribbles of different densities on white background](/media{{ page.url }}20220105-cmyk-young-jackbdu.jpg) | ![An abstract portrait formed by a grid of white scribbles of different densities on black background](/media{{ page.url }}20220107-monochrome-slanted-curve-short-infinite-loop.gif)
+:----------: | :----------: | :----------:
+Sketch on January 2, 2022 | Sketch on January 5, 2022 | Sketch on January 7, 2022
+[ [View post on Instagram](https://www.instagram.com/p/CYOergphFY1/) ] | [ [View post on Instagram](https://www.instagram.com/p/CYWGTULBSrD/) ] | [ [View post on Instagram](https://www.instagram.com/p/CYaHPxBBCQu/) ]
 
-<table style="width: 100%;">
-  <thead><tr>
-    <th>
-      <video loop autoplay width="100%" preload="auto">
-        <source src="/media{{ page.url }}20220426-negative-circle-from-springy-circles.mp4" type='video/mp4'>
-      </video>
-    </th>
-    <th>
-      <video loop autoplay width="100%" preload="auto">
-        <source src="/media{{ page.url }}20220428-negative-blob-from-colorful-springy-circles.mp4" type='video/mp4'>
-      </video>
-    </th>
-  </tr></thead>
-  <tbody><tr style="text-align: center;">
-    <th>
-      <a href="https://www.instagram.com/p/Cc005U0MHcx/" target="_blank">Daily Sketch 04/26/2022</a>
-    </th>
-    <th>
-      <a href="https://www.instagram.com/p/Cc6GhnhrkIQ/" target="_blank">Daily Sketch 04/28/2022</a>
-    </th>
-  </tr></tbody>
-</table>
-<table style="width: 100%;">
-  <thead><tr>
-    <th>
-      <video loop autoplay width="100%" preload="auto">
-        <source src="/media{{ page.url }}20220501-donut-blob-from-colorful-hollow-circles.mp4" type='video/mp4'>
-      </video>
-    </th>
-    <th>
-      <video loop autoplay width="100%" preload="auto">
-        <source src="/media{{ page.url }}20220504-balloon-blob-from-color-changing-hollow-circles.mp4" type='video/mp4'>
-      </video>
-    </th>
-  </tr></thead>
-  <tbody><tr style="text-align: center;">
-    <th>
-      <a href="https://www.instagram.com/p/CdBVC0VsuZI/" target="_blank">Daily Sketch 05/01/2022</a>
-    </th>
-    <th>
-      <a href="https://www.instagram.com/p/CdJmDnTLdqH/" target="_blank">Daily Sketch 05/04/2022</a>
-    </th>
-  </tr></tbody>
-</table>
+Near the end of the year, I revisited this idea by recreating a similar [digital painting style](/works/digital-self-portraits/) I experimented with in 2019. In the end, I turned it into a virtual mirror that constantly regenerates new images in real time based on the presence of a viewer.
 
-## Pixels formed by random scribbles
+![Linear gradient formed by a grid of black zigzag scribbles of different densities on white background](/media{{ page.url }}20221129-scribble-linear-graident.jpg) | ![Mona Lisa formed by a grid of colorful zigzag scribbles of different densities in different orientation on white background](/media{{ page.url }}20221205-scribble-filter-cmyk-mona-lisa.jpg) | ![A portrait formed by a grid of connected colorful scribbles of different densities on black background](/media{{ page.url }}20221213-symmetrical-long-scribble-filter-single-color-webcam-mirror-16x16-lifting-hair.gif)
+:----------: | :----------: | :----------:
+Sketch on November 29, 2022 | Sketch on December 5, 2022 | Sketch on December 13, 2022
+[ [View post on Instagram](https://www.instagram.com/p/ClivVW4rj9W/) ] | [ [View post on Instagram](https://www.instagram.com/p/ClzKQwHpHYu/) ] | [ [View post on Instagram](https://www.instagram.com/p/CmIBzGdB0yz/) ]
 
-<table style="width: 100%;">
-  <thead><tr>
-    <th>
-      <img src="/media{{ page.url }}20220102-linear-gradient.png" alt='Linear gradient in the style of pixels formed by different intensities of scribbles'>
-    </th>
-    <th>
-      <img src="/media{{ page.url }}20220103-at-sign.png" alt='At sign in the style of pixels formed by different intensities of scribbles'>
-    </th>
-  </tr></thead>
-  <tbody><tr style="text-align: center;">
-    <th>
-      <a href="https://www.instagram.com/p/CYOergphFY1/" target="_blank">Daily Sketch 01/02/2022</a>
-    </th>
-    <th>
-      <a href="https://www.instagram.com/p/CYQ5pvDrnMj/" target="_blank">Daily Sketch 01/03/2022</a>
-    </th>
-  </tr></tbody>
-</table>
-<table style="width: 100%;">
-  <thead><tr>
-    <th>
-      <video loop autoplay width="100%" preload="auto">
-        <source src="/media{{ page.url }}20220104-jackbdu-instagram.mp4" type='video/mp4'>
-      </video>
-    </th>
-    <th>
-      <video loop autoplay width="100%" preload="auto">
-        <source src="/media{{ page.url }}20220108-monochrome-green-curve-countdown-short-infinite-loop.mp4" type='video/mp4'>
-      </video>
-    </th>
-  </tr></thead>
-  <tbody><tr style="text-align: center;">
-    <th>
-      <a href="https://www.instagram.com/p/CYT6t1Ph8jY/" target="_blank">Daily Sketch 01/04/2022</a>
-    </th>
-    <th>
-      <a href="https://www.instagram.com/p/CYedi-dBdqz/" target="_blank">Daily Sketch 01/08/2022</a>
-    </th>
-  </tr></tbody>
-</table>
+## Repetitions
+
+One other series of experiments I did was with repetition. I started off with simple repetitions of small hollow circles in a spiral pattern. Iterations after iterations, I realized the pattern became much more interesting as repetitions were more ordered and as gaps between hollow contours got smaller.
+
+![](/media{{ page.url }}20220409-green-to-blue-animated-spiral-hollow-circles-on-dark-background-still.jpg) | ![](/media{{ page.url }}20220411-yellow-animated-spiral-hollow-squares-on-dark-background-still.jpg) | ![](/media{{ page.url }}20220415-three-animated-green-to-blue-spiral-springs-still.jpg) |
+:----------: | :----------: | :----------:
+Sketch on April 9, 2022 | Sketch on April 11, 2022 | Daily Sketch on April 15, 2022
+[ [View post on Instagram](https://www.instagram.com/p/CcI-WLZL8kO/) ] | [ [View post on Instagram](https://www.instagram.com/p/CcOY3P2rY5D/) ] | [ [View post on Instagram](https://www.instagram.com/p/CcYqJzGrRiV/) ]
+
+When gaps were completely eliminated, seamless gradients were formed, which gave these sketches a very natural look. Afterwards, I also experimented with using Perlin noise to generate more organic shapes and overlapping shapes by different amounts.
+
+![](/media{{ page.url }}20220417-two-animated-purple-shells-still.jpg) | ![](/media{{ page.url }}20220421-animated-red-to-blue-flower-still.jpg) | ![](/media{{ page.url }}20220424-animated-colorful-flower-still.jpg) |
+:----------: | :----------: | :----------:
+Sketch on April 17, 2022 | Sketch on April 21, 2022 | Sketch on April 24, 2022
+[ [View post on Instagram](https://www.instagram.com/p/Ccd3dlNrWpC/) ] | [ [View post on Instagram](https://www.instagram.com/p/CcoKDVvr9W1/) ] | [ [View post on Instagram](https://www.instagram.com/p/Ccvopnjr3Sl/) ]
+
+When I revisited this idea four months later, I decided to go with a more flowery look.
+
+![](/media{{ page.url }}20220817-animated-light-purple-two-petal-flower-still.jpg) | ![](/media{{ page.url }}20220821-animated-light-blue-seven-petal-flower-still.jpg) | ![](/media{{ page.url }}20220823-animated-magenta-three-petal-flower-still.jpg) |
+:----------: | :----------: | :----------:
+Sketch on August 17, 2022 | Sketch on August 21, 2022 | Sketch on August 23, 2022
+[ [View post on Instagram](https://www.instagram.com/p/ChWpFj5OG89/) ] | [ [View post on Instagram](https://www.instagram.com/p/ChgbiSYMzKL/) ] | [ [View post on Instagram](https://www.instagram.com/p/Chmp_MirW8z/) ]
+
+These are just a few examples of the ideas that I explored in 2022. To view all my daily sketches, please visit [my Instagram](http://instagram.com/jackbdu/).
