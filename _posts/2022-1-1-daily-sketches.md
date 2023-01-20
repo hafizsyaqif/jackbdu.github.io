@@ -41,21 +41,21 @@ Sketch on November 29, 2022 | Sketch on December 5, 2022 | Sketch on December 13
 
 One other series of experiments I did was with repetition. I started off with simple repetitions of small hollow circles in a spiral pattern. Iterations after iterations, I realized the pattern became much more interesting as repetitions were more ordered and as gaps between hollow contours got smaller.
 
-![](/media{{ page.url }}20220409-green-to-blue-animated-spiral-hollow-circles-on-dark-background-still.jpg) | ![](/media{{ page.url }}20220411-yellow-animated-spiral-hollow-squares-on-dark-background-still.jpg) | ![](/media{{ page.url }}20220415-three-animated-green-to-blue-spiral-springs-still.jpg) |
+![A spiral of hollow circles, small yellow circles near the center gradually transitioning into larger blue circles near the edges of the frame](/media{{ page.url }}20220409-green-to-blue-animated-spiral-hollow-circles-on-dark-background-still.jpg) | ![Multiple spirals of heavily-overlapped yellow round-corner squares in an arranged with a radial look](/media{{ page.url }}20220411-yellow-animated-spiral-hollow-squares-on-dark-background-still.jpg) | ![Three threads of heavily-overlapped round-corner squares arranged with a radial look, green near the center, blue near the edges](/media{{ page.url }}20220415-three-animated-green-to-blue-spiral-springs-still.jpg) |
 :----------: | :----------: | :----------:
 Sketch on April 9, 2022 | Sketch on April 11, 2022 | Daily Sketch on April 15, 2022
 [ [View post on Instagram](https://www.instagram.com/p/CcI-WLZL8kO/) ] | [ [View post on Instagram](https://www.instagram.com/p/CcOY3P2rY5D/) ] | [ [View post on Instagram](https://www.instagram.com/p/CcYqJzGrRiV/) ]
 
 When gaps were completely eliminated, seamless gradients were formed, which gave these sketches a very natural look. Afterwards, I also experimented with using Perlin noise to generate more organic shapes and overlapping shapes by different amounts.
 
-![](/media{{ page.url }}20220417-two-animated-purple-shells-still.jpg) | ![](/media{{ page.url }}20220421-animated-red-to-blue-flower-still.jpg) | ![](/media{{ page.url }}20220424-animated-colorful-flower-still.jpg) |
+![Two light purple blue shells slightly-twisted around each other](/media{{ page.url }}20220417-two-animated-purple-shells-still.jpg) | ![Two intertwined shell-like structures in color gradient, from white near their center to navy, then red orange near the edges](/media{{ page.url }}20220421-animated-red-to-blue-flower-still.jpg) | ![Five interwined curly pedals in a repeating color gradient, from orange, to white, to blue, and then back to orange](/media{{ page.url }}20220424-animated-colorful-flower-still.jpg) |
 :----------: | :----------: | :----------:
 Sketch on April 17, 2022 | Sketch on April 21, 2022 | Sketch on April 24, 2022
 [ [View post on Instagram](https://www.instagram.com/p/Ccd3dlNrWpC/) ] | [ [View post on Instagram](https://www.instagram.com/p/CcoKDVvr9W1/) ] | [ [View post on Instagram](https://www.instagram.com/p/Ccvopnjr3Sl/) ]
 
 When I revisited this idea four months later, I decided to go with a more flowery look.
 
-![](/media{{ page.url }}20220817-animated-light-purple-two-petal-flower-still.jpg) | ![](/media{{ page.url }}20220821-animated-light-blue-seven-petal-flower-still.jpg) | ![](/media{{ page.url }}20220823-animated-magenta-three-petal-flower-still.jpg) |
+![Two flowery curly purple petals slightly-twisted around each other](/media{{ page.url }}20220817-animated-light-purple-two-petal-flower-still.jpg) | ![A flower-like visual with interwined 7 light blue petals](/media{{ page.url }}20220821-animated-light-blue-seven-petal-flower-still.jpg) | ![Three flowery petals interwined, in color gradient from navy near the center to hot pink near the edges](/media{{ page.url }}20220823-animated-magenta-three-petal-flower-still.jpg) |
 :----------: | :----------: | :----------:
 Sketch on August 17, 2022 | Sketch on August 21, 2022 | Sketch on August 23, 2022
 [ [View post on Instagram](https://www.instagram.com/p/ChWpFj5OG89/) ] | [ [View post on Instagram](https://www.instagram.com/p/ChgbiSYMzKL/) ] | [ [View post on Instagram](https://www.instagram.com/p/Chmp_MirW8z/) ]
