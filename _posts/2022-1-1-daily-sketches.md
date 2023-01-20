@@ -23,14 +23,14 @@ Below I am showing a selection of my daily sketches based on different technique
 
 ## Scribbles
 
-Some of the first daily sketches I created were inspired by drawings created by [Minus E](/works/minus-e/), an robotic drawing system I built in 2017. Essentially, these sketches were a recreation of Minus E's drawing style, forming images with a single thread of scribble that clusters in different densities at different spots. No longer constrained by hardware and time limitations, what surprised me the most was how easily I could bring these sketches to life by animating them.
+Some of the first daily sketches I created were inspired by drawings created by [Minus E](/works/minus-e/), a robotic drawing system I built in 2017. Essentially, these sketches were a recreation of Minus E's drawing style, forming images with a single thread of scribble that clusters in different densities at different spots. No longer constrained by hardware and time limitations, what surprised me the most was how easily I could bring these sketches to life by animating them.
 
 ![Linear gradient formed by a grid of white scribbles of different densities on black background](/media{{ page.url }}20220102-linear-gradient.jpg) | ![Self-portrait formed by a grid of colorful scribbles of different densities on white background](/media{{ page.url }}20220105-cmyk-young-jackbdu.jpg) | ![An abstract portrait formed by a grid of white scribbles of different densities on black background](/media{{ page.url }}20220107-monochrome-slanted-curve-short-infinite-loop.gif)
 :----------: | :----------: | :----------:
 Sketch on January 2, 2022 | Sketch on January 5, 2022 | Sketch on January 7, 2022
 [ [View post on Instagram](https://www.instagram.com/p/CYOergphFY1/) ] | [ [View post on Instagram](https://www.instagram.com/p/CYWGTULBSrD/) ] | [ [View post on Instagram](https://www.instagram.com/p/CYaHPxBBCQu/) ]
 
-Near the end of the year, I revisited this idea by recreating a similar [digital painting style](/works/digital-self-portraits/) I experimented with in 2019. In the end, I turned it into a virtual mirror that constantly regenerates new images in real time based on the presence of a viewer.
+Near the end of the year, I revisited this idea by recreating a similar [digital painting style](/works/digital-self-portraits/) I experimented with in 2019. Again, I was pleasantly surprised by the ability to animate as well as the flexibility of experimenting with different ways to connect the scribbles. In the end, I turned it into a virtual mirror that constantly regenerates new images in real time based on the presence of a viewer.
 
 ![Linear gradient formed by a grid of black zigzag scribbles of different densities on white background](/media{{ page.url }}20221129-scribble-linear-graident.jpg) | ![Mona Lisa formed by a grid of colorful zigzag scribbles of different densities in different orientation on white background](/media{{ page.url }}20221205-scribble-filter-cmyk-mona-lisa.jpg) | ![A portrait formed by a grid of connected colorful scribbles of different densities on black background](/media{{ page.url }}20221213-symmetrical-long-scribble-filter-single-color-webcam-mirror-16x16-lifting-hair.gif)
 :----------: | :----------: | :----------:
@@ -46,7 +46,7 @@ One other series of experiments I did was with repetition. I started off with si
 Sketch on April 9, 2022 | Sketch on April 11, 2022 | Daily Sketch on April 15, 2022
 [ [View post on Instagram](https://www.instagram.com/p/CcI-WLZL8kO/) ] | [ [View post on Instagram](https://www.instagram.com/p/CcOY3P2rY5D/) ] | [ [View post on Instagram](https://www.instagram.com/p/CcYqJzGrRiV/) ]
 
-When gaps were completely eliminated, seamless gradients were formed, which gave these sketches a very natural look. Afterwards, I also experimented with using Perlin noise to generate more organic shapes and overlapping shapes by different amounts.
+When gaps were completely eliminated, seamless color gradients were formed, which gave these sketches a very natural look. Afterwards, I also experimented with using Perlin noise to generate more organic shapes and overlapping shapes by different amounts.
 
 ![Two light purple blue shells slightly-twisted around each other](/media{{ page.url }}20220417-two-animated-purple-shells-still.jpg) | ![Two intertwined shell-like structures in color gradient, from white near their center to navy, then red orange near the edges](/media{{ page.url }}20220421-animated-red-to-blue-flower-still.jpg) | ![Five interwined curly pedals in a repeating color gradient, from orange, to white, to blue, and then back to orange](/media{{ page.url }}20220424-animated-colorful-flower-still.jpg) |
 :----------: | :----------: | :----------:
@@ -60,4 +60,4 @@ When I revisited this idea four months later, I decided to go with a more flower
 Sketch on August 17, 2022 | Sketch on August 21, 2022 | Sketch on August 23, 2022
 [ [View post on Instagram](https://www.instagram.com/p/ChWpFj5OG89/) ] | [ [View post on Instagram](https://www.instagram.com/p/ChgbiSYMzKL/) ] | [ [View post on Instagram](https://www.instagram.com/p/Chmp_MirW8z/) ]
 
-These are just a few examples of the ideas that I explored in 2022. To view all my daily sketches, please visit [my Instagram](http://instagram.com/jackbdu/).
+These are just a few examples of the ideas that I explored in 2022. To view all my daily sketches, please [visit my Instagram](http://instagram.com/jackbdu/). I will keep creating and posting daily sketches in the coming years.
