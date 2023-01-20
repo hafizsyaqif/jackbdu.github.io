@@ -46,7 +46,7 @@ One other series of experiments I did was with repetition. I started off with si
 Sketch on April 9, 2022 | Sketch on April 11, 2022 | Daily Sketch on April 15, 2022
 [ [View post on Instagram](https://www.instagram.com/p/CcI-WLZL8kO/) ] | [ [View post on Instagram](https://www.instagram.com/p/CcOY3P2rY5D/) ] | [ [View post on Instagram](https://www.instagram.com/p/CcYqJzGrRiV/) ]
 
-When gaps were completely eliminated, seamless color gradients were formed, which gave these sketches a very natural look. Afterwards, I also experimented with using Perlin noise to generate more organic shapes and overlapping shapes by different amounts.
+When gaps were completely eliminated, seamless color gradients were formed, which gave these sketches a very natural look. Afterwards, I also experimented with using Perlin noise to generate more organic shapes and then overlapping shapes by different amounts.
 
 ![Two light purple blue shells slightly-twisted around each other](/media{{ page.url }}20220417-two-animated-purple-shells-still.jpg) | ![Two intertwined shell-like structures in color gradient, from white near their center to navy, then red orange near the edges](/media{{ page.url }}20220421-animated-red-to-blue-flower-still.jpg) | ![Five interwined curly pedals in a repeating color gradient, from orange, to white, to blue, and then back to orange](/media{{ page.url }}20220424-animated-colorful-flower-still.jpg) |
 :----------: | :----------: | :----------:
@@ -59,5 +59,12 @@ When I revisited this idea four months later, I decided to go with a more flower
 :----------: | :----------: | :----------:
 Sketch on August 17, 2022 | Sketch on August 21, 2022 | Sketch on August 23, 2022
 [ [View post on Instagram](https://www.instagram.com/p/ChWpFj5OG89/) ] | [ [View post on Instagram](https://www.instagram.com/p/ChgbiSYMzKL/) ] | [ [View post on Instagram](https://www.instagram.com/p/Chmp_MirW8z/) ]
+
+Similarly, I experimented with repeating circles in a more circular fashion, which rendered some very different results.
+
+![](/media{{ page.url }}20220429-negative-blob-from-colorful-circles-v2-fast.gif) | ![](/media{{ page.url }}20220503-balloon-blob-from-red-hollow-circles.gif) | ![](/media{{ page.url }}20220506-color-changing-blob-v3.gif) |
+:----------: | :----------: | :----------:
+Sketch on April 29, 2022 | Sketch on May 3, 2022 | Sketch on May 6, 2022
+[ [View post on Instagram](https://www.instagram.com/p/Cc8cssErMR3/) ] | [ [View post on Instagram](https://www.instagram.com/p/CdGJl9ZsJqd/) ] | [ [View post on Instagram](https://www.instagram.com/p/CdO0WhaL54v/) ]
 
 These are just a few examples of the ideas that I explored in 2022. To view all my daily sketches, please [visit my Instagram](http://instagram.com/jackbdu/). I will keep creating and posting daily sketches in the coming years.
