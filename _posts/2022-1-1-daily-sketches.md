@@ -67,4 +67,27 @@ Similarly, I experimented with repeating circles in a more circular fashion, whi
 Sketch on April 29, 2022 | Sketch on May 3, 2022 | Sketch on May 6, 2022
 [ [View post on Instagram](https://www.instagram.com/p/Cc8cssErMR3/) ] | [ [View post on Instagram](https://www.instagram.com/p/CdGJl9ZsJqd/) ] | [ [View post on Instagram](https://www.instagram.com/p/CdO0WhaL54v/) ]
 
+## Shaders
+
+Another series of sketches were experiments with [shaders](https://en.wikipedia.org/wiki/Shader). Since this was my first time writing shaders in p5.js, I found [this tutorial](https://itp-xstory.github.io/p5js-shaders/) to help me get started, which turned out to be very helpful. I did a few different glowing sketches before unexpected results started to appear.
+
+![](/media{{ page.url }}20220722-ten-glowing-rainbow-circles-in-a-circle-still.jpg) | ![](/media{{ page.url }}20220724-16-glowing-colorful-circles-in-a-circle-still.jpg) | ![](/media{{ page.url }}20220725-rotating-colorful-bubbles-in-a-circle-v2-still.jpg)
+:----------: | :----------: | :----------:
+Sketch on July 22, 2022 | Sketch on July 24, 2022 | Sketch on July 25, 2022
+[ [View post on Instagram](https://www.instagram.com/p/CgUJBfiLlk1/) ] | [ [View post on Instagram](https://www.instagram.com/p/CgYVuFhMnzF/) ] | [ [View post on Instagram](https://www.instagram.com/p/CgbORLNg9Qu/) ]
+
+After I drastically increased changes in color, the glowing effect intensified and colors became very saturated, which resulted in an interesting transition between colors. Multiple dispersed glowing spots started to look like fluids.
+
+![](/media{{ page.url }}20220730-many-many-colorful-abstract-shapes-still.jpg) | ![](/media{{ page.url }}20220802-colorful-abstract-fluid-v2-still.jpg) | ![](/media{{ page.url }}20220803-yellow-and-blue-abstract-symmetrical-fluid.gif)
+:----------: | :----------: | :----------:
+Sketch on July 30, 2022 | Sketch on August 2, 2022 | Sketch on August 3, 2022
+[ [View post on Instagram](https://www.instagram.com/p/CgnvZtHslDd/) ] | [ [View post on Instagram](https://www.instagram.com/p/CgwEyhWuMio/) ] | [ [View post on Instagram](https://www.instagram.com/p/CgzB-ZELZ3s/) ]
+
+Later this year, I used shaders to create organic repetitive patterns.
+
+![](/media{{ page.url }}20220930-black-and-white-fluids-v2-still.jpg) | ![](/media{{ page.url }}20221008-colorful-repetitive-pattern-still.jpg) | ![](/media{{ page.url }}20221019-colorful-wavy-pattern-fast.gif)
+:----------: | :----------: | :----------:
+Sketch on September 30, 2022 | Sketch on October 8, 2022 | Sketch on October 19, 2022
+[ [View post on Instagram](https://www.instagram.com/p/CjIRqMCrZXh/) ] | [ [View post on Instagram](https://www.instagram.com/p/CjcX0JyD-F0/) ] | [ [View post on Instagram](https://www.instagram.com/p/Cj6PkTtrdpp/) ]
+
 These are just a few examples of the ideas that I explored in 2022. To view all my daily sketches, please [visit my Instagram](http://instagram.com/jackbdu/). I will keep creating and posting daily sketches in the coming years.
