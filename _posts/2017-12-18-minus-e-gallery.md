@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Drawing by Minus E
+title: Drawings by Minus E
 categories: gallery
 permalink: /works/minus-e/gallery/
 ---
