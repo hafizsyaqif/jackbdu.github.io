@@ -88,21 +88,21 @@ permalink: /cv/
 
 ## Exhibitions
 
-2022 \| **Sikka Art and Design Festival**, Al Fahidi Historical Neighborhood, Dubai, UAE
+2022 \| **[Sikka Art and Design Festival](https://www.thenationalnews.com/arts-culture/art/2022/03/16/sikka-turns-10-dubai-art-and-design-festival-returns-after-two-year-hiatus/)**, Al Fahidi Historical Neighborhood, Dubai, UAE
 
-2018 \| **Shenzhen Design Week**, Shenzhen, China
+2018 \| **[Shenzhen Design Week](https://mp.weixin.qq.com/s/GO2ASMizDg9uW2pUA4UNAg)**, Shenzhen, China
 
 2018 \| **[Shanghai Education Expo](https://shanghai.nyu.edu/cn/news/yi-zhu-jiao-yu)**, Shanghai Exhibition Center, Shanghai, China
 
-2017 \| **Life Geek Exhibition**, USC-SJTU Institute of Cultural and Creative Industry, Shanghai, China
+2017 \| **[Life Geek Exhibition](https://mp.weixin.qq.com/s/MmxxAsvPuUHKlGHYwu4v6A)**, USC-SJTU Institute of Cultural and Creative Industry, Shanghai, China
 
 2017 \| **The Map as Art**, NYU Shanghai Gallery, Shanghai, China
 
-2017 \| **Maker Carnival**, Knowledge & Innovation Community, Shanghai, China
+2017 \| **[Maker Carnival](https://mp.weixin.qq.com/s/Q23G57RkNaec9SHfuCD24g)**, Knowledge & Innovation Community, Shanghai, China
 
-2017 \| **Maker Exhibition**, Shanghai Library, Shanghai, China
+2017 \| **[Maker Exhibition](https://mp.weixin.qq.com/s/NYf5Fim_HD4D3lQcIYGmyg)**, Shanghai Library, Shanghai, China
 
-2017 \| **Shanghai Science Expo**, Shanghai Exhibition Center, Shanghai, China
+2017 \| **[Shanghai Science Expo](https://mp.weixin.qq.com/s/UOW0FrFjTTU2nZufVqQK7w)**, Shanghai Exhibition Center, Shanghai, China
 
 2017 \| **Undergraduate Research Symposium**, NYU Shanghai, Shanghai, China
 
