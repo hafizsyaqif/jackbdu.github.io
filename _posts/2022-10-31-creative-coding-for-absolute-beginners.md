@@ -5,7 +5,7 @@ categories: teaching
 description: A series of beginner-friendly creative coding workshops for people without any coding experience.
 ---
 
-[ [Watch recordings on YouTube](https://www.youtube.com/playlist?list=PLUbmjnHkwarjjZ7qHHyZlrhnVije58S_L) \| [View source code in p5.js Web Editor](https://editor.p5js.org/jackbdu/collections/BUeR59x4g) ]
+[ [Watch recordings on YouTube](https://www.youtube.com/playlist?list=PLUbmjnHkwarjjZ7qHHyZlrhnVije58S_L) \| [View demo code in p5.js Web Editor](https://editor.p5js.org/jackbdu/collections/BUeR59x4g) ]
 
 <!--more-->
 
@@ -27,12 +27,4 @@ In early 2022, I was invited by organizers of [Sikka Art and Design Festival](ht
 
 In addition, I also developed and taught a series of beginner-friendly creative coding workshops to community members at New York University Abu Dhabi. This series consists of three workshops: the first workshop provides an overview of creative coding and gets participants started with sketching using p5.js, the second workshop demonstrates how repetition can be used to create mesmerizing patterns and seamless transitions, and the third workshop introduces Perlin noise, an algorithm that helps to make sketches appear more organic and natural. In all these workshops, I try to encourage participants to experiment freely, because I believe that is the best way to get surprising results.
 
-Here are some sample sketches I made for these workshops. You can [view their source code in p5.js Web Editor](https://editor.p5js.org/jackbdu/collections/BUeR59x4g).
-
-<iframe style="width:100%;height:450px" src="https://editor.p5js.org/jackbdu/full/SE-USZgxj"></iframe>
-
-<iframe style="width:100%;height:450px" src="https://editor.p5js.org/jackbdu/full/mLxAjYjM0"></iframe>
-
-<iframe style="width:100%;height:450px" src="https://editor.p5js.org/jackbdu/full/10b7GrjS4"></iframe>
-
-<iframe style="width:100%;height:450px" src="https://editor.p5js.org/jackbdu/full/5lzBOxU1T"></iframe>
+You can [watch recordings of this series on YouTube](https://www.youtube.com/playlist?list=PLUbmjnHkwarjjZ7qHHyZlrhnVije58S_L) or [view demo code in p5.js Web Editor](https://editor.p5js.org/jackbdu/collections/BUeR59x4g).
