@@ -15,7 +15,7 @@ description: A series of beginner-friendly creative coding workshops for people 
 
 ![](/media{{ page.url }}20221112-dubai-design-week-creative-coding-workshop.jpg) |
 :----------: |
-2022 \| [Creative Coding Workshop](https://www.dubaidesignweek.ae/programme/2022/creative-coding/) at at Dubai Design Week, Dubai, UAE |
+2022 \| [Creative Coding Workshop](https://www.dubaidesignweek.ae/programme/2022/creative-coding/) at Dubai Design Week, Dubai, UAE |
 
 In early 2022, I was invited by organizers of [Sikka Art and Design Festival](https://sikkartandesign.com), an annual event housed in Al Fahidi Historical Neighborhood in Dubai, to teach workshops at the event. I decided to offer [two introductory creative coding workshops](https://sikkartandesign.com/Creative-Coding-Workshop) that teach participants how to use [p5.js](http://p5js.org), a creative coding framework that focuses on making code accessible and inclusive. These workshops were very successful, with participants ranging from professionals to elementary school students and stay-at-home moms. I was very touched by the enthusiasm of the participants, which inspired me to offer two [similar workshops](https://www.dubaidesignweek.ae/programme/2022/creative-coding/) at [Dubai Design Week](https://www.dubaidesignweek.ae) in late 2022.
 
