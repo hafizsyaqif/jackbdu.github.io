@@ -32,23 +32,11 @@ permalink: /cv/
 
 ## Teaching & Workshops
 
-**Dubai Design Week**, Dubai, UAE
-
-2022 \| [Creative Coding Workshop for Professionals](https://www.dubaidesignweek.ae/programme/2022/creative-coding-2/)
-
-2022 \| [Creative Coding Workshop for Children](https://www.dubaidesignweek.ae/programme/2022/creative-coding/)
-
-**Sikka Art and Design Festival**, Dubai, UAE
-
-2022 \| [Getting Started with Creative Coding](https://sikkartandesign.com/Creative-Coding-Workshop)
-
-**Ontario College of Art & Design University**, Toronto, Canada
-
-2022 \| Creative Coding with Perlin Noise for Interaction Experience Design
-
 **New York University Abu Dhabi**, Abu Dhabi, UAE
 
-2022 \| [Creative Coding Workshop Series for Absolute Beginners](/teaching/creative-coding-for-absolute-beginners/)
+2022 – 2023 \| [Creative Coding Workshop Series for Absolute Beginners](/teaching/creative-coding-for-absolute-beginners/)
+
+2019 – 2023 \| Hand & Power Tool Safety for Interactive Media
 
 2022 \| Introduction to p5.js for Communications Lab
 
@@ -58,8 +46,6 @@ permalink: /cv/
 
 2020 – 2022 \| [Web Development Workshop Series: Making a Website from Scratch for Absolute Beginners](https://github.com/jackbdu/web-dev-workshop)
 
-2019 – 2022 \| Hand & Power Tool Safety for Interactive Media
-
 2019 – 2021 \| Web Development Fundamentals for Interactive Media
 
 2018 – 2020 \| Introduction to Laser Cutting & Engraving for Interactive Media
@@ -67,6 +53,20 @@ permalink: /cv/
 2019 \| Computer Vision Workshop at Processing Community Day
 
 2019 \| Hosting Your Portfolio on GitHub
+
+**Sikka Art and Design Festival**, Dubai, UAE
+
+2022 – 2023 \| Getting Started with Creative Coding
+
+**Dubai Design Week**, Dubai, UAE
+
+2022 \| [Creative Coding Workshop for Professionals](https://www.dubaidesignweek.ae/programme/2022/creative-coding-2/)
+
+2022 \| [Creative Coding Workshop for Children](https://www.dubaidesignweek.ae/programme/2022/creative-coding/)
+
+**Ontario College of Art & Design University**, Toronto, Canada
+
+2022 \| Creative Coding with Perlin Noise for Interaction Experience Design
 
 **New York University Shanghai**, Shanghai, China
 
@@ -110,7 +110,9 @@ permalink: /cv/
 
 ## Talks
 
-2022 \| Guest Speaker, _Interaction Experience Design_, Ontario College of Art & Design University, Toronto, Canada
+2023 \| Artist Talk: Daily Experiments in Creative Coding, _NYU Shanghai_, Shanghai, China
+
+2022 \| Guest Speaker, _Ontario College of Art & Design University_, Toronto, Canada
 
 2018 \| [Making Art with a Robot](https://www.bilibili.com/video/av27211915/), _Zaojiu_, Shanghai, China
 
@@ -118,17 +120,19 @@ permalink: /cv/
 
 2018 \| Artist Talk, _Intro to Generative System_, NYU Shanghai, Shanghai, China
 
-2017 \| Ordered Randomness, _New Media Art and Cultural & Creative Industry Conference_, Shanghai, China
+2017 \| Artist talk: Ordered Randomness, _New Media Art and Cultural & Creative Industry Conference_, Shanghai, China
 
 2017 \| Artist Talk, _R/GA Shanghai_, Shanghai, China
 
 2017 \| Artist Talk, _Innovation Space_, Shanghai Library, Shanghai, China
 
-## Awards
+## Awards & Grants
 
-2022 \| **Professional Development Fund** from Arts and Humanities Division, NYU Abu Dhabi, UAE
+2022 – 2023 \| **Professional Development Fund** from Arts and Humanities Division, NYU Abu Dhabi, UAE
 
-2017 \| **Excellence Award** at [Shanghai International Digital Creation, Innovation & Entrepreneurship Competition](https://v.qq.com/x/page/a0620ky9lbx.html), China
+2017 \| **Interactive Media Arts Fellowship** from NYU Shanghai, China
+
+2017 \| **Excellence Award** (Finalist) at [Shanghai International Digital Creation, Innovation & Entrepreneurship Competition](https://v.qq.com/x/page/a0620ky9lbx.html), China
 
 2017 \| **Best Technology/Visual Demonstration** at Undergraduate Research Symposium, NYU Shanghai, China
 
