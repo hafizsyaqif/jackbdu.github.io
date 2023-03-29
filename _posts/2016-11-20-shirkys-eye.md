@@ -24,6 +24,6 @@ Shirky's Eye (2016) displayed against a whiteboard outside Shirky's office at Ne
 :----------: | :----------:
 Shirky's Eye (2017), graphite on paper, 20 x 20 cm (7.9 x 7.9 in). | Shirky's Eye (2017), created with [Mandarinizer](/{{ page.categories[0] }}/mandarinizer), 32 x 32 char.
 
-![Shirky's Eye - Minus E](/media{{ page.url }}shirkys-eye-minus-e.jpg) |
+![Shirky's Eye - Minus E](/media{{ page.url }}shirkys-eye-minus-e.jpg){: width="66.7%"} |
 :----------: |
 Shirky's Eye (2017), created by [Minus E](/{{ page.categories[0] }}/minus-e), ink on paper, 350 x 350 cm (137.8 x 137.8 in). |

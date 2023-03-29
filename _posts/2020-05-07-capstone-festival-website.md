@@ -28,7 +28,7 @@ Screenshot of Capstone Festival Website's project and book tiles |
 :----------: |
 Screenshot of Capstone Festival Website's real-time search and filter |
 
-![Screenshot of Capstone Festival Website's live events and project tiles displayed in a mobile browser](/media{{ page.url }}live-events-and-projects-on-mobile.jpg) | ![Screenshot of Capstone Festival Website's book tile displayed in a mobile browser](/media{{ page.url }}book-on-mobile.jpg)
+![Screenshot of Capstone Festival Website's live events and project tiles displayed in a mobile browser](/media{{ page.url }}live-events-and-projects-on-mobile.jpg){: width="90%"} | ![Screenshot of Capstone Festival Website's book tile displayed in a mobile browser](/media{{ page.url }}book-on-mobile.jpg){: width="90%"}
 :----------: | :----------:
 Screenshot of Capstone Festival Website's live events and project tiles displayed in a mobile browser | Screenshot of Capstone Festival Website's book tile displayed in a mobile browser
 

@@ -14,7 +14,7 @@ description: An interative sculpture of dark and light.
 :----------: |
 Plywood, fabric, micro controller, buttons, LEDs, etc. 200 x 100 x 200 cm |
 
-![](/media{{ page.url }}dark-and-light-front.jpg) |
+![](/media{{ page.url }}dark-and-light-front.jpg){: width="66.7%"} |
 :----------: |
 Dark & Light - Front |
 

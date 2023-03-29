@@ -8,7 +8,7 @@ description: A graphite drawing based on a photograph of myself that I took in W
 
 <!--more-->
 
-![Self-Portrait](/media{{ page.url }}self-portrait.jpg) |
+![Self-Portrait](/media{{ page.url }}self-portrait.jpg){: width="75%"} |
 :----------: |
 Graphite on paper, 61.0 x 45.7 cm (24 x 18 in). |
 

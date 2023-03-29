@@ -12,7 +12,7 @@ tags: mixed-media collage painting video featured
 :----------: |
 2017 \| The Map as Art, New York University Shanghai Gallery, Shanghai, China |
 
-![This Is Where I Live - Collage](/media{{ page.url }}this-is-where-i-live-collage.jpg) |
+![This Is Where I Live - Collage](/media{{ page.url }}this-is-where-i-live-collage.jpg){: width="66.7%"} |
 :----------: |
 Found object collage on canvas, 80 x 60 cm (31.5 x 23.6 in). |
 

@@ -15,7 +15,7 @@ In 2019, as I was [experimenting with digital paintings](/works/portraits-of-fri
 Self-Portrait (2019), created with Procreate, 2048 x 3072 px. |
 [ [View post on Instagram](https://www.instagram.com/p/B3nW621BBmn/) ] |
 
-![Self-Portrait of Little Jack](/media{{ page.url }}self-portrait-of-little-jack.jpg) |
+![Self-Portrait of Little Jack](/media{{ page.url }}self-portrait-of-little-jack.jpg){: width="66.7%"} |
 :----------: |
 Self-Portrait of Little Jack (2019), created with Procreate, 3072 x 2048 px. |
 [ [View post on Instagram](https://www.instagram.com/p/B3z0vEmhZNt/) ] |

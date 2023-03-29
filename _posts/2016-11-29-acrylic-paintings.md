@@ -20,7 +20,7 @@ Mother - Underdrawing | Father - Underdrawing
 :----------: |
 Untitled (2016), acrylic on canvas. |
 
-![Untitled - Eye](/media{{ page.url }}untitled_02.jpg) |
+![Untitled - Eye](/media{{ page.url }}untitled_02.jpg){: width="66.7%"} |
 :----------: |
 Untitled - Eye, acrylic on canvas, 30 x 24 cm (11.8 x 9.4 in). [ [Documentation](https://jackbdu.wordpress.com/2016/11/14/eyes-with-two-different-styles/) ] |
 
