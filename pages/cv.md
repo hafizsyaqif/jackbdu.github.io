@@ -32,28 +32,6 @@ permalink: /cv/
 
 ## Teaching & Workshops
 
-**New York University Abu Dhabi**, Abu Dhabi, UAE
-
-2022 – 2023 \| [Creative Coding Workshop Series for Absolute Beginners](/teaching/creative-coding-for-absolute-beginners/)
-
-2019 – 2023 \| Hand & Power Tool Safety for Interactive Media
-
-2022 \| Introduction to p5.js for Communications Lab
-
-2022 \| Introduction to Digital Fabrication for Desert Media Art
-
-2022 \| Arduino Serial Communication Basics for Introduction to Interactive Media
-
-2020 – 2022 \| [Web Development Workshop Series: Making a Website from Scratch for Absolute Beginners](https://github.com/jackbdu/web-dev-workshop)
-
-2019 – 2021 \| Web Development Fundamentals for Interactive Media
-
-2018 – 2020 \| Introduction to Laser Cutting & Engraving for Interactive Media
-
-2019 \| Computer Vision Workshop at Processing Community Day
-
-2019 \| Hosting Your Portfolio on GitHub
-
 **Sikka Art and Design Festival**, Dubai, UAE
 
 2022 – 2023 \| Getting Started with Creative Coding
@@ -67,6 +45,28 @@ permalink: /cv/
 **Ontario College of Art & Design University**, Toronto, Canada
 
 2022 \| Creative Coding with Perlin Noise for Interaction Experience Design
+
+**New York University Abu Dhabi**, Abu Dhabi, UAE
+
+2022 – 2023 \| [Creative Coding Workshop Series for Absolute Beginners](/teaching/creative-coding-for-absolute-beginners/)
+
+2022 \| Introduction to p5.js for Communications Lab
+
+2022 \| Introduction to Digital Fabrication for Desert Media Art
+
+2022 \| Arduino Serial Communication Basics for Introduction to Interactive Media
+
+2020 – 2022 \| [Web Development Workshop Series: Making a Website from Scratch for Absolute Beginners](https://github.com/jackbdu/web-dev-workshop)
+
+2019 – 2023 \| Hand & Power Tool Safety for Interactive Media
+
+2019 – 2021 \| Web Development Fundamentals for Interactive Media
+
+2019 \| Computer Vision Workshop at Processing Community Day
+
+2019 \| Hosting Your Portfolio on GitHub
+
+2018 – 2020 \| Introduction to Laser Cutting & Engraving for Interactive Media
 
 **New York University Shanghai**, Shanghai, China
 
