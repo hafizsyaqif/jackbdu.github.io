@@ -144,6 +144,8 @@ permalink: /cv/
 
 ## Press
 
+2023 | “[Jack B. Du ’17: Viewing the World from a Truly Global Lens](https://shanghai.nyu.edu/stories/jack-b-du-17-viewing-world-truly-global-lens)”, _NYU Shanghai People_, Apr. 21, 2023.
+
 2022 \| Chaves, Alexandra: “[Sikka turns 10: Dubai art and design festival returns after two-year hiatus](https://www.thenationalnews.com/arts-culture/art/2022/03/16/sikka-turns-10-dubai-art-and-design-festival-returns-after-two-year-hiatus/)”, _The National_, Mar. 16, 2022
 
 2018 \| “[我为什么要费尽心思造出一个不完美的绘画机器人？](https://mp.weixin.qq.com/s/ZiTIpNLR9Vm13mw_fxWhGQ)” [Why Did I Painstakingly Build an Imperfect Drawing Robot?], _Zaojiu_, July 19, 2018
