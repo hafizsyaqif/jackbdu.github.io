@@ -148,7 +148,7 @@ permalink: /cv/
 
 ## Press
 
-2023 | “[Jack B. Du ’17: Viewing the World from a Truly Global Lens](https://shanghai.nyu.edu/stories/jack-b-du-17-viewing-world-truly-global-lens)”, _NYU Shanghai People_, Apr. 21, 2023.
+2023 | “[Alumni Voices: Jack B. Du ’17](https://shanghai.nyu.edu/stories/alumni-voices-jack-b-du-17)”, _NYU Shanghai People_, Apr. 21, 2023.
 
 2022 \| Chaves, Alexandra: “[Sikka turns 10: Dubai art and design festival returns after two-year hiatus](https://www.thenationalnews.com/arts-culture/art/2022/03/16/sikka-turns-10-dubai-art-and-design-festival-returns-after-two-year-hiatus/)”, _The National_, Mar. 16, 2022
 
