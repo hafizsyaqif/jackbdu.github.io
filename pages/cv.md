@@ -88,6 +88,10 @@ permalink: /cv/
 
 ## Exhibitions
 
+2023 \| **React Summit Conference**, Amsterdam, Netherlands
+
+2023 \| **JSNation Conference**, Amsterdam, Netherlands
+
 2022 \| **[Sikka Art and Design Festival](https://www.thenationalnews.com/arts-culture/art/2022/03/16/sikka-turns-10-dubai-art-and-design-festival-returns-after-two-year-hiatus/)**, Al Fahidi Historical Neighborhood, Dubai, UAE
 
 2018 \| **[Shenzhen Design Week](https://mp.weixin.qq.com/s/GO2ASMizDg9uW2pUA4UNAg)**, Shenzhen, China
