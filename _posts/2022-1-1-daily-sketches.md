@@ -10,8 +10,18 @@ description: A collection of computational sketches I created with code in the y
 
 <!--more-->
 
-As a new year resolution, I challenged myself to create and post computational sketches on social media every single day starting on January 1st, 2022. I use it as a way to journal, turning ideas, memories, and everyday events into expressive visuals. Some visuals are in simple geometric shapes and representational forms, some are in generative, repetitive, and abstract patterns, others are combinations of both. Most sketches are either still images or short animations, and the rest are interactive. The interactive ones are what I call virtual mirrors, which are sketches that are dynamically rendered in real time based on the presence of viewers. The images and motions of the viewers are first captured by a video camera, and then reinterpreted by the code that I wrote before shown to the viewers.
+<table style="width:100%">
+  <thead><tr><th>
+    <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+      <iframe width="100%" height="100%" src="https://player.vimeo.com/video/830839700?h=8291bea6ce" style="position:absolute; top:0; left:0;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    </div>
+  </th></tr></thead>
+  <tbody><tr style="text-align: center;"><th>
+  A compilation video showcasing select sketches
+  </th></tr></tbody>
+</table>
 
+As a new year resolution, I challenged myself to create and post computational sketches on social media every single day starting on January 1st, 2022. I use it as a way to journal, turning ideas, memories, and everyday events into expressive visuals. Some visuals are in simple geometric shapes and representational forms, some are in generative, repetitive, and abstract patterns, others are combinations of both. Most sketches are either still images or short animations, and the rest are interactive. The interactive ones are what I call virtual mirrors, which are sketches that are dynamically rendered in real time based on the presence of viewers. The images and motions of the viewers are first captured by a video camera, and then reinterpreted by the code that I wrote before shown to the viewers.
 
 ![Screenshot of my Instagram posts, featuring vibrantly colorful daily sketches I created](/media{{ page.url }}screenshot-of-jackbdu-instagram.jpg) |
 :----------: |
@@ -91,3 +101,9 @@ Sketch on September 30, 2022 | Sketch on October 8, 2022 | Sketch on October 19,
 [ [View post on Instagram](https://www.instagram.com/p/CjIRqMCrZXh/) ] | [ [View post on Instagram](https://www.instagram.com/p/CjcX0JyD-F0/) ] | [ [View post on Instagram](https://www.instagram.com/p/Cj6PkTtrdpp/) ]
 
 These are just a few examples of the ideas that I explored in 2022. To view all my daily sketches, please [visit my Instagram](http://instagram.com/jackbdu/). I will keep creating and posting daily sketches in the coming years.
+
+## Exhibitions
+
+2023 \| **React Summit Conference**, Amsterdam, Netherlands
+
+2023 \| **JSNation Conference**, Amsterdam, Netherlands
