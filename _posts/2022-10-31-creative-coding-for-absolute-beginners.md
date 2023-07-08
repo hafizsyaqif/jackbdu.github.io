@@ -27,24 +27,19 @@ In early 2022, I was invited by organizers of Sikka Art and Design Festival, an 
 
 In addition, I also developed and taught a series of beginner-friendly creative coding workshops at New York University Abu Dhabi. This series consists of five workshops:
 
-**Workshop #1: Let’s Start Sketching**
+![](/media{{ page.url }}20230612-creative-coding-workshop-1-preview-colorful-circles-moving-in-a-circle-512x512@15fps.gif) | ![](/media{{ page.url }}20230612-creative-coding-workshop-2-preview-repetitive-circles-forming-lissajous-512x512@15fps.gif) |
+:----------: | :----------: |
+**Workshop #1: Let’s Start Sketching** | **Workshop #2: Repeat, Repeat, and Repeat** |
+This workshop provides an overview of creative coding and helps participants get started with sketching using p5.js. | This workshop shows how repetition can be used to create mesmerizing patterns and seamless transitions. |
 
-This workshop provides an overview of creative coding and helps participants get started with sketching using p5.js. 
+![](/media{{ page.url }}20230612-creative-coding-workshop-3-preview-blob-with-noise-512x512@15fps.gif) | ![](/media{{ page.url }}20230612-creative-coding-workshop-4-preview-colorful-particles-with-rectangular-boundary-512x512@15fps.gif) |
+:----------: | :----------: |
+**Workshop #3: Beauty of Noises** | **Workshop #4: Object-Oriented Creativity** |
+This workshop introduces Perlin noise, an algorithm that helps to make sketches appear more organic and natural. | This workshop introduces object-oriented programming and how it can be used to create interactive sketches. |
 
-**Workshop #2: Repeat, Repeat, and Repeat**
-
-This workshop shows how repetition can be used to create mesmerizing patterns and seamless transitions.
-
-**Workshop #3: Beauty of Noises**
-
-This workshop introduces Perlin noise, an algorithm that helps to make sketches appear more organic and natural.
-
-**Workshop #4: Object-Oriented Creativity**
-
-This workshop introduces object-oriented programming and how it can be used to create interactive sketches.
-
-**Workshop #5: Virtual Reflections**
-
-This workshop shows how a webcam to can be incorporated to create sketches that reflect images like a mirror.
+![](/media{{ page.url }}20230612-creative-coding-workshop-5-preview-pixelated-reflection-512x512@15fps.gif){: width="66.7%"} |
+:----------: |
+**Workshop #5: Virtual Reflections** |
+This workshop shows how a webcam to can be incorporated to create sketches that reflect images like a mirror. |
 
 You can [watch recordings of this series on YouTube](https://www.youtube.com/playlist?list=PLUbmjnHkwarjjZ7qHHyZlrhnVije58S_L) or [view code examples in p5.js Web Editor](https://editor.p5js.org/jackbdu/collections/BUeR59x4g).
