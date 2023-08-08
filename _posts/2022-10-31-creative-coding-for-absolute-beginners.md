@@ -5,7 +5,7 @@ categories: teaching
 description: A series of beginner-friendly creative coding workshops for people without any coding experience.
 ---
 
-[ [Watch recordings on YouTube](https://www.youtube.com/playlist?list=PLUbmjnHkwarjjZ7qHHyZlrhnVije58S_L) \| [View code examples in p5.js Web Editor](https://editor.p5js.org/jackbdu/collections/BUeR59x4g) ]
+[ [Watch recordings on YouTube](https://www.youtube.com/playlist?list=PLUbmjnHkwarjjudjj2dclvClnL5ngpDze) \| [View code examples in p5.js Web Editor](https://editor.p5js.org/jackbdu/collections/dyLuBa_37) ]
 
 <!--more-->
 
