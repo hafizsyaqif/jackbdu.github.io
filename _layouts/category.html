@@ -25,10 +25,12 @@ layout: default
       </div>
 
       <a href="{{ post. url | relative_url}}">
-        {% if page.category != "blog" %}
+        {% if post.categories[0] != "blog" %}
         <img src="/media{{ post.url }}preview.jpg"/>
         {% endif %}
       </a>
+
+      <p>[ <a href="{{ post. url | relative_url}}">Read more</a> ]</p>
 
     </article>
   {% endfor %}
