@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #python"
+title: "#python"
 tag: python
-permalink: "/works/tag/python"
+permalink: "/tag/python"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #mixed-media"
+title: "#mixed-media"
 tag: mixed-media
-permalink: "/works/tag/mixed-media"
+permalink: "/tag/mixed-media"
 ---

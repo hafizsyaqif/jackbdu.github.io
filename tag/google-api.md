@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #google-api"
+title: "#google-api"
 tag: google-api
-permalink: "/works/tag/google-api"
+permalink: "/tag/google-api"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #glsl"
+title: "#glsl"
 tag: glsl
-permalink: "/works/tag/glsl"
+permalink: "/tag/glsl"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #p5js"
+title: "#p5js"
 tag: p5js
-permalink: "/works/tag/p5js"
+permalink: "/tag/p5js"
 ---

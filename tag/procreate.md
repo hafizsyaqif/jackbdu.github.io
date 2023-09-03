@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #procreate"
+title: "#procreate"
 tag: procreate
-permalink: "/works/tag/procreate"
+permalink: "/tag/procreate"
 ---

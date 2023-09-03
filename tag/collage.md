@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #collage"
+title: "#collage"
 tag: collage
-permalink: "/works/tag/collage"
+permalink: "/tag/collage"
 ---

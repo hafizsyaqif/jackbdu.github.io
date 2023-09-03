@@ -11,7 +11,7 @@ layout: default
 
       <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       {% for tag in post.tags %}
-        <a class="tag" href="/{{ page.category }}/tag/{{ tag }}">#{{tag}}</a>
+        <a class="tag" href="/tag/{{ tag }}">#{{tag}}</a>
       {% endfor %}
       </h1>
 
@@ -24,7 +24,11 @@ layout: default
         {{ post.excerpt }} 
       </div>
 
-      <a href="{{ post. url | relative_url}}"><img src="/media{{ post.url }}preview.jpg"/></a>
+      <a href="{{ post. url | relative_url}}">
+        {% if page.category != "blog" %}
+        <img src="/media{{ post.url }}preview.jpg"/>
+        {% endif %}
+      </a>
 
     </article>
   {% endfor %}

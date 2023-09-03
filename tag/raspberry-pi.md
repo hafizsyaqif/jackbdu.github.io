@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #raspberry-pi"
+title: "#raspberry-pi"
 tag: raspberry-pi
-permalink: "/works/tag/raspberry-pi"
+permalink: "/tag/raspberry-pi"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #nodejs"
+title: "#nodejs"
 tag: nodejs
-permalink: "/works/tag/nodejs"
+permalink: "/tag/nodejs"
 ---

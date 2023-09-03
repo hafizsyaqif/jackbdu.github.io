@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #open-cv"
+title: "#open-cv"
 tag: open-cv
-permalink: "/works/tag/open-cv"
+permalink: "/tag/open-cv"
 ---

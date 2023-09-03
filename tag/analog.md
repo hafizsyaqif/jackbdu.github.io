@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #analog"
+title: "#analog"
 tag: analog
-permalink: "/works/tag/analog"
+permalink: "/tag/analog"
 ---

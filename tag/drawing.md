@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #drawing"
+title: "#drawing"
 tag: drawing
-permalink: "/works/tag/drawing"
+permalink: "/tag/drawing"
 ---

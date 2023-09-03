@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #arduino"
+title: "#arduino"
 tag: arduino
-permalink: "/works/tag/arduino"
+permalink: "/tag/arduino"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #handlebarsjs"
+title: "#handlebarsjs"
 tag: handlebarsjs
-permalink: "/works/tag/handlebarsjs"
+permalink: "/tag/handlebarsjs"
 ---

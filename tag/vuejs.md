@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #vuejs"
+title: "#vuejs"
 tag: vuejs
-permalink: "/works/tag/vuejs"
+permalink: "/tag/vuejs"
 ---

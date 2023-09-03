@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #hardware"
+title: "#hardware"
 tag: hardware
-permalink: "/works/tag/hardware"
+permalink: "/tag/hardware"
 ---

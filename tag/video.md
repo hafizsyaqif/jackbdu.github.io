@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Works #video"
+title: "#video"
 tag: video
-permalink: /works/tag/video/
+permalink: /tag/video/
 ---
