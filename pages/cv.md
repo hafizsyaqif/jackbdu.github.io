@@ -6,6 +6,10 @@ permalink: /cv/
 
 ## Education 
 
+**New York University**, New York, NY, USA
+
+2023 – 2025 \| Master of Professional Studies in Interactive Telecommunications (expected)
+
 **New York University Shanghai**, Shanghai, China
 
 2013 – 2017 \| Bachelor of Science in Computer Science, Interactive Media Arts, and Studio Art
@@ -18,11 +22,15 @@ permalink: /cv/
 
 2015 – 2016 \| New York University Global Program in Integrated Digital Media and Computer Science
 
-## Experience
+## Academic Appointments
+
+**New York University**, New York, NY, USA
+
+2023 – Present \| Adjunct Assistant Professor of Interactive Telecommunications Program (ITP) / Interactive Media Arts (IMA), Tisch School of the Arts
 
 **New York University Abu Dhabi**, Abu Dhabi, UAE
 
-2021 – Present \| Associate Arts Instructor of Interactive Media
+2021 – 2023 \| Associate Arts Instructor of Interactive Media
 
 2018 – 2021 \| Assistant Arts Instructor of Interactive Media
 
@@ -31,6 +39,10 @@ permalink: /cv/
 2017 – 2018 \| Associate Fellow of Interactive Media Arts
 
 ## Teaching & Workshops
+
+**DigitalFUTURES International Online Workshops**, Worldwide
+
+2023 \| [Creative Coding Workshops for Absolute Beginners](https://digitalfutures.international/creative-coding/)
 
 **Sikka Art and Design Festival**, Dubai, UAE
 
@@ -56,7 +68,7 @@ permalink: /cv/
 
 2022 \| Arduino Serial Communication Basics for Introduction to Interactive Media
 
-2020 – 2022 \| [Web Development Workshop Series: Making a Website from Scratch for Absolute Beginners](https://github.com/jackbdu/web-dev-workshop)
+2020 – 2022 \| [Web Development Workshop Series: Making a Website from Scratch for Absolute Beginners](/teaching/web-development-for-absolute-beginners/)
 
 2019 – 2023 \| Hand & Power Tool Safety for Interactive Media
 
@@ -88,6 +100,8 @@ permalink: /cv/
 
 ## Exhibitions
 
+2023 \| **International Symposium on Visual Information Communication and Interaction** (VINCI 2023), Guangzhou, China (upcoming)
+
 2023 \| **React Summit Conference**, Amsterdam, Netherlands
 
 2023 \| **JSNation Conference**, Amsterdam, Netherlands
@@ -112,7 +126,7 @@ permalink: /cv/
 
 2016 \| **December Showcase**, NYU Abu Dhabi Arts Center, Abu Dhabi, UAE
 
-## Talks
+## Talks & Presentations
 
 2023 \| Artist Talk: Daily Experiments in Creative Coding, _NYU Shanghai_, Shanghai, China
 
