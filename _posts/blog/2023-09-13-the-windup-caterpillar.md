@@ -15,23 +15,21 @@ Last Sunday, as a part of my first homework for a class called [Fabricating Mech
 
 Here are some orthographic photos of this lovely toy:
 
-![](/media{{ page.url }}20230913-ZVE03197.jpg)
+![](/media{{ page.url }}20230913-ZVE03197.jpg) | ![](/media{{ page.url }}20230913-ZVE03218.jpg) |
+:---: | :---: |
+Front View | Back View
 
-![](/media{{ page.url }}20230913-ZVE03218.jpg)
+![](/media{{ page.url }}20230913-ZVE03225.jpg) | ![](/media{{ page.url }}20230913-ZVE03231.jpg)
+:---: | :---: |
+Left View | Right View
 
-![](/media{{ page.url }}20230913-ZVE03225.jpg)
-
-![](/media{{ page.url }}20230913-ZVE03231.jpg)
-
-![](/media{{ page.url }}20230913-ZVE03234.jpg)
-
-![](/media{{ page.url }}20230913-ZVE03246.jpg)
+![](/media{{ page.url }}20230913-ZVE03234.jpg) | ![](/media{{ page.url }}20230913-ZVE03246.jpg)
+:---: | :---: |
+Top View | Bottom View
 
 Before opening it up, I closely examined the toy. I don't remember when it was my last time to open up a windup toy, but I imagine there is probably a spiral spring inside that is being twisted as I turn the windup knob, which stores the energy that will then be released backwards. I noticed there is a small piece of plastic stick attached to one of the wheels. For every turn the wheel rotates, the stick pushes one side of the immediately attached body segment, which makes that segment wiggle sideways. The last two segments near the rear end seem to move freely, so their movements mostly likely come from the segment before them.
 
 Enough speculation. It’s time to open it up!
-
-![](/media{{ page.url }}20230913-ZVE03254.jpg)
 
 ![](/media{{ page.url }}20230913-ZVE03255.jpg)
 
