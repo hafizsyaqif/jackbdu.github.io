@@ -7,17 +7,17 @@ description:
 published: true
 ---
 
-This year, I am starting a new chapter of my life as a graduate student in the [Interactive Telecommunications Program (ITP)](https://tisch.nyu.edu/itp) at [Tisch School of Arts, New York University]([https://tisch.nyu.edu](https://tisch.nyu.edu/)). One of the graduate courses that I am taking is called [Fabricating Mechanical Automatons \*Batteries Not Included](https://doubletake.notion.site/9f357e279aa943ddaace71145300eb92).
+This year, I am starting a new chapter of my life as a graduate student in the [Interactive Telecommunications Program (ITP)](https://tisch.nyu.edu/itp) at [Tisch School of Arts, New York University]([https://tisch.nyu.edu](https://tisch.nyu.edu/)). As I pursue my graduate studies here, I will be sharing lots of updates on this blog. One of the courses that I am taking is called [Fabricating Mechanical Automatons \*Batteries Not Included](https://doubletake.notion.site/9f357e279aa943ddaace71145300eb92).
 
-Back in 2017, when I was researching autonomous drawing machines for my [undergraduate capstone project](https://jackbdu.com/works/minus-e/), I found out about automatons for the first time. In particular, I was fascinated by the automatons that either write or draw based on a selection of predetermined sequences of movements. Now that I am pursuing my graduate studies, I can’t be more excited to take a class on making automatons. I believe this course will help me build a solid foundation for designing and fabricating mechanical systems. It will equip me with a whole new set of skills that help expand the creative possibilities that I can explore.
+<!--more-->
+
+Back in 2017, when I was researching autonomous drawing machines for my [undergraduate capstone project](https://jackbdu.com/works/minus-e/), I found out about automatons for the first time. In particular, I was fascinated by the automatons that either write or draw based on a selection of predetermined sequences of movements. Now that I am in grad school, I can’t be more excited to take a class on making automatons. I believe this course will help me build a solid foundation for designing and fabricating mechanical systems. It will equip me with a whole new set of skills that help expand the creative possibilities that I can explore.
 
 After doing a bit more research on automatons, I still find [Jaquet-Droz automata](https://en.wikipedia.org/wiki/Jaquet-Droz_automata) to be the most inspiring. In particular, the programmability of the writer, one of the three automata built by the Jaquet-Droz family, was the most astonishing. Even though I understand that the earliest computers were mechanical, it still feels very different when knowing similar machines were used for art. In this class, programmability will be one area of mechanical automatons that I am planning to experiment with.
 
 As a part of the first homework for this class, I set out on a quest last Sunday for a small, inexpensive mechanical toy around downtown Brooklyn. Two of the most common types of mechnanical toys that I found were windup vehicles and DIY mechanical kits. The latter tend to be bulky, complex, and out of my budget, whereas the former was a bit too basic. After visiting a variety of different stores, a cartoony windup caterpillar caught my eye. I bought it for about 8 bucks at a gift shop called [Exit9 Gift Emporium](https://goo.gl/maps/wJSzfjQYQBQC4nzHA). I really like it because of its simple cartoony look and its segmented body (more mechanical components to learn from). There were also some windup walking pigeons in the same store, but the art style was a little bit too detailed to my taste (though I am really interested in how the walking mechanism works, hopefully one of my classmates will buy something similar).
 
 ![](/media{{ page.url }}20230913-ZVE03248.jpg)
-
-<!--more-->
 
 Here are some orthographic photos of this lovely toy:
 
