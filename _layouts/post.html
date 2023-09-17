@@ -10,7 +10,12 @@ layout: default
   </h1>
 
   <div class="date">
-    {{ page.date | date: "%b %d, %Y" }}
+    {% if page.categories[0] == "blog" %}
+      {{ page.date | date: "%b %d, %Y" }}
+    {% endif %}
+    {% if page.categories[0] != "blog" %}
+      {{ page.date | date: "%Y" }}
+    {% endif %}
   </div>
 
   <div class="entry">
