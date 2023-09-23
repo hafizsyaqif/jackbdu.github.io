@@ -104,6 +104,8 @@ These are just a few examples of the ideas that I explored in 2022. To view all 
 
 ## Exhibitions
 
+2023 \| **International Symposium on Visual Information Communication and Interaction** (VINCI 2023), Guangzhou, China
+
 2023 \| **React Summit Conference**, Amsterdam, Netherlands
 
 2023 \| **JSNation Conference**, Amsterdam, Netherlands
