@@ -7,7 +7,12 @@ description:
 published: true
 ---
 
-I have been making and posting creative coding experiments daily for almost 2 years now. One of the mathematical functions that keep coming back is a sine function. As I have been studying fabrication and mechanical movements recently, I had this idea of creating an automaton that visualizes a sine wave.
+I have been making and posting (on my [Instagram](https://www.instagram.com/jackbdu/)) creative coding experiments daily for almost 2 years now. One of the mathematical functions that keep coming back is a sine function (such as the one below, which utilizes a combination of sine and cosine functions). As I have been studying fabrication and mechanical movements recently, I had this idea of creating an automaton that visualizes a sine wave.
+
+![](/media{{ page.url }}20230803-v2-animated-thin-long-curve-512x512@15fps.gif){: width="50%"} |
+:----------: |
+Sketch on on August 3, 2023 |
+[[ View post on Instagram ]](https://www.instagram.com/p/CvfJJ54BF6h/) |
 
 One of the mechanisms that I recently learned is called [cam](https://en.wikipedia.org/wiki/Cam), which is commonly used to transform rotary motion into linear motion. I tried imagining and sketching what a cam would look like if its movement follows a sine wave. I started with a regular sine wave, and tried to wrap it around a circle. While it gave me a general idea of what it might look like, it was far from accurate. Luckily, I have created similar shapes with code before, so I
 started sketching in p5.js.
