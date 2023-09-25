@@ -16,7 +16,12 @@ layout: default
       </h1>
 
       <div class="date">
-        {{ post.date | date: "%Y" }}
+        {% if post.categories[0] == "blog" %}
+          {{ post.date | date: "%b %d, %Y" }}
+        {% endif %}
+        {% if post.categories[0] != "blog" %}
+          {{ post.date | date: "%Y" }}
+        {% endif %}
       </div>
 
       <div class="entry">
