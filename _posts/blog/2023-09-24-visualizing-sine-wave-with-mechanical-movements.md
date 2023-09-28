@@ -91,28 +91,69 @@ Me taking a video while holding the prototype and rotating the shalf, trying not
 
 While the motion was far from perfect, this (mostly) cardboard prototype proved that my idea could work. It also convinced me that a wooden prototype would work much more reliably.
 
-***I will add more details on the woodworking process too. Stay tuned!***
+The topic of the most recent fabrication class was repeatability. I took this opportunity to create multiple wooden cams that were shaped exactly the same.
 
-![](/media{{ page.url }}IMG_9149.jpg)
+I picked the largest block of scrap wood that I could find and resized the template to fit the wood block.
 
-![](/media{{ page.url }}IMG_9153.jpg)
+![](/media{{ page.url }}IMG_9148.jpg) | ![](/media{{ page.url }}IMG_9149.jpg)
 
-![](/media{{ page.url }}IMG_9154.jpg)
+I started off my trimming off the irregullar side of this block on the band saw, so it was flat and square all on sides.
 
-![](/media{{ page.url }}IMG_9170.jpg)
+![](/media{{ page.url }}IMG_9150.jpg)
 
-![](/media{{ page.url }}IMG_9176.jpg)
+Then I moved to the disk sander to sand off the edges and carefully shape it based on the template. During this process, I found it very hard to keep the piece completely straight. I beleive it takes both practice and techniques. Next time, I would probably stick templates on both sides, and maybe also use the band saw to cut reference points across the block.
 
-Here is how it looked when fully assembled:
+![](/media{{ page.url }}IMG_9153.jpg) | ![](/media{{ page.url }}IMG_9154.jpg)
 
-![](/media{{ page.url }}20230924-ZVE03616.jpg)
+Once I shaped the wood block as even as I could, I moved back to the band saw to slice the block into even flat cam pieces by consistently pushing it against the fence.
 
-![](/media{{ page.url }}20230924-ZVE03606.jpg)
+![](/media{{ page.url }}IMG_9172-1024x576@10fps.gif)
+
+After slicing 7 pieces, the rest was too small to be sliced. I was still pretty happy with what I was able to get out of this wood block.
+
+![](/media{{ page.url }}IMG_9173.jpg) | ![](/media{{ page.url }}IMG_9176.jpg)
+
+After some rough measurements and calculations, I was able to find a good piece of scrap plywood to make a structure to hold the whole mechanism.
+
+![](/media{{ page.url }}IMG_9177.jpg)
+
+I also found two pieces of wood panel that I was going to stack together to be the top side of the structure.
+
+![](/media{{ page.url }}IMG_9178.jpg)
+
+After some more measurements, I marked the points where holes needed to be drilled.
+
+![](/media{{ page.url }}IMG_9179.jpg) | ![](/media{{ page.url }}IMG_9180.jpg)
+
+Without a jig, the holes were a bit uneven, but I was hopeful that it would still work.
+
+![](/media{{ page.url }}IMG_9181.jpg)
+
+After all components were cut and drilled, I used some sand paper to smoothen all the sharp edges. It was finally time to assemble! As I attempted to install the first cam onto a wooden rod, the cam cracked. I believe it was its small size that made it very delicate. Since I did not have many cams, I did not want to lose a single one of them. Surprisingly, wrapping it with Scotch tape helped to keep it together. For all the other cam pieces, I used a hand file to make the
+holes slightly bigger to fit the wooden rod.
+
+![](/media{{ page.url }}IMG_9182.jpg)
+
+All pieces were finally assembled.
+
+![](/media{{ page.url }}IMG_9183.jpg)
+
+I quickly realized the glue sticks were too soft and kept getting caught by the cams. I had to switch to the pencils again, but the holes were designed for the glue sticks. I partially disassembled the structure and redrilled the holes with a hand drill to make them a bit bigger. I also used a Dremel to clean up the holes for a even smoother surface.
+
+![](/media{{ page.url }}20230924-ZVE03616.jpg) | ![](/media{{ page.url }}20230924-ZVE03606.jpg)
 
 ![](/media{{ page.url }}20230924-ZVE03582.jpg)
 
 ![](/media{{ page.url }}20230924-ZVE03635.jpg)
 
-This is how it worked as stop-motion animation:
+It finally worked!!!
 
 ![](/media{{ page.url }}sine-cam-with-colorful-pencils-animated.gif)
+
+Here are a couple of things I need to improve next time:
+
+- I should use the drill press for cleaner and smoother holes to minimize wobbling.
+
+- One other thing that can help reduce wobbling is to either increase the distance between the two top panels, or use a single piece of wood that is much thicker.
+
+- The cams should be installed on the rod with stronger frictions or completely glued together to avoid slipping.
