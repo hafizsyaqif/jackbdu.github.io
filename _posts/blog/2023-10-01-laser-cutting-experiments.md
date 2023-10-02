@@ -21,9 +21,13 @@ Now, everything we draw in p5.js will be rendered as a SVG element.
 
 ![](/media{{ page.url }}20231002-p5js-svg-setup-web-inspector.png)
 
-After some experiments with this SVG runtime, I decided to try it out with one of my old sketches. To my surprise, it worked right out of the box by doing the steps above.
+After some experiments with this SVG runtime, I decided to try it out with one of my old sketches, which converts any reference image to a drawing formed by scribbles (in the sketch below, the reference image is a QR code). To my surprise, it worked right away after doing the steps above.
 
 ![](/media{{ page.url }}20230930-p5js-web-editor-svg-experiment-scribble-filter-jackbdu-instagram-qr-code.png)
+
+I did not yet find any easy way to export it to a SVG file, instead, I grabbed the SVG code directly from the web inspector and pasted it into a blank .svg file. Once I had the SVG file, I could then edit it however I like. In my case, I was using Adobe Illustrator.
+
+![](/media{{ page.url }}20231002-illustrator-svg-experiment-scribble-filter-jackbdu-instagram-qr-code.png)
 
 <table style="width: 100%;">
   <thead><tr><th>
