@@ -27,12 +27,11 @@ After some experiments with this SVG runtime, I decided to try it out with one o
 
 <table style="width: 100%;">
   <thead><tr><th>
-    <video controls width="100%" preload="auto" poster="/media{{ page.url }}this-is-where-i-live-video.jpg">
+    <video controls width="100%" preload="auto" poster="">
       <source src="/media{{ page.url }}IMG_9353.mp4" type='video/mp4'>
     </video>
   </th></tr></thead>
-  <tbody><tr style="text-align: center;"><th>
-  </th></tr></tbody>
+  <tbody><tr style="text-align: center;"><th></th></tr></tbody>
 </table>
 
 ![](/media{{ page.url }}20230930-p5js-web-editor-svg-experiment-scribble-filter-three-petal-flowers.png)
@@ -55,7 +54,7 @@ After some experiments with this SVG runtime, I decided to try it out with one o
 
 <table style="width: 100%;">
   <thead><tr><th>
-    <video controls width="100%" preload="auto" poster="/media{{ page.url }}this-is-where-i-live-video.jpg">
+    <video controls width="100%" preload="auto" poster="">
       <source src="/media{{ page.url }}IMG_9401.mp4" type='video/mp4'>
     </video>
   </th></tr></thead>
