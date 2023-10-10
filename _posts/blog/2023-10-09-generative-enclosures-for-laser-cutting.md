@@ -49,6 +49,8 @@ published: true
 
 ![](/media{{ page.url }}IMG_9731.jpg)
 
+![](/media{{ page.url }}IMG_9752_SDR-1024x576@10fps.gif)
+
 ![](/media{{ page.url }}20231009-p5js-web-editor-organic-pencil-enclosure-3-vertices.png)
 
 ![](/media{{ page.url }}20231009-adobe-illustrator-pencil-enclosure-laser-cutting-layout.png)
@@ -65,6 +67,8 @@ published: true
 </table>
 
 ![](/media{{ page.url }}IMG_9734.jpg)
+
+![](/media{{ page.url }}IMG_9753_SDR-1024x576@10fps.gif)
 
 ![](/media{{ page.url }}20231009-ZVE03842.jpg)
 
