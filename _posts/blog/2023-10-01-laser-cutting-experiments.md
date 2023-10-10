@@ -29,6 +29,8 @@ I did not yet find any easy way to export it to a SVG file, instead, I grabbed t
 
 ![](/media{{ page.url }}20231002-illustrator-svg-experiment-scribble-filter-jackbdu-instagram-qr-code.png)
 
+In Adobe Illustrator, I resized the scribble (yes, it is a single continous scribble) and fitted it onto a 2.125 x 2.125 inch square with rounded corners, which is as wide as a credit card. Onto the 
+
 <table style="width: 100%;">
   <thead><tr><th>
     <video controls width="100%" preload="auto" poster="">
