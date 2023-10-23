@@ -7,7 +7,7 @@ description:
 published: true
 ---
 
-For the graduate course, [Introduction to Fabrication](/tag/introduction-to-fabrication), that I took at [Interactive Telecommunications Program (ITP)](/tag/itp), I spent a few weeks learning and experimenting with various fabrication machines, tools, and materials. I took a very experimental approach by incorporating many computational techniques into my process. Here are all my experiments each linked to its respective post.
+For the graduate course, [Introduction to Fabrication](/tag/introduction-to-fabrication), that I took at [Interactive Telecommunications Program (ITP)](/tag/itp), I spent a few weeks learning and experimenting with a variety of fabrication machines, tools, and materials. I embraced an iterative approach to fabrication and integrated computational techniques into my process. Here are all my experiments, each linked to its respective post:
 
 ![](/media{{ page.url }}20230915-ZVE03331.jpg) |
 :---:|
@@ -35,4 +35,4 @@ For the graduate course, [Introduction to Fabrication](/tag/introduction-to-fabr
 
 ![](/media{{ page.url }}20231021-ZVE04592.jpg) |
 :---:|
-All Fabrication Experiments from [Introduction to Fabrication](/tag/introduction-to-fabrication) |
+Family Photo of All Experiments |
