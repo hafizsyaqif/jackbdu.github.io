@@ -6,7 +6,8 @@ tags: itp introduction-to-fabrication
 description:
 published: true
 ---
-A collection of fabrication experiments for [Introduction to Fabrication](/tag/introduction-to-fabrication) at [Interactive Telecommunications Program (ITP)](/tag/itp).
+
+For the graduate course, [Introduction to Fabrication](/tag/introduction-to-fabrication), that I took at [Interactive Telecommunications Program (ITP)](/tag/itp), I spent a few weeks learning and experimenting with various fabrication machines, tools, and materials. I took a very experimental approach by incorporating many computational techniques into my process. Here are all my experiments each linked to its respective post.
 
 ![](/media{{ page.url }}20230915-ZVE03331.jpg) |
 :---:|
