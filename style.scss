@@ -32,7 +32,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: $fontStack;
   color: $bodyColor;
-  font-weight: 500;
+  font-weight: 550;
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -97,7 +97,7 @@ em, i {
 }
 
 strong, b {
-  font-weight: 500;
+  font-weight: 550;
 }
 
 img, video, iframe {
@@ -259,7 +259,7 @@ table {
 
 .site-name {
   margin: 0;
-  font-weight: 500;
+  font-weight: 550;
   text-transform: none;
 }
 

@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300..550;1,300..550&display=swap');
 
 //
 // VARIABLES
@@ -13,7 +14,7 @@ $selBgColor: #555;
 $borderColor: #eee;
 
 // Font stacks
-$fontStack: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$fontStack: Ubuntu, Calibri, 'DejaVu Sans', 'Noto Sans', source-sans-pro, sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
