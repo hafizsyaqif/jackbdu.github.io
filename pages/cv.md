@@ -40,6 +40,10 @@ permalink: /cv/
 
 ## Teaching & Workshops
 
+**New York University**, New York, NY, USA
+
+2023 \| [IMNY-UT 101 Creative Computing](https://itp.nyu.edu/ima/courses/creative-computing/), Interactive Media Arts, Tisch School of the Arts
+
 **DigitalFUTURES International Online Workshops**, Worldwide
 
 2023 \| [Creative Coding Workshops for Absolute Beginners](https://digitalfutures.international/creative-coding/)
@@ -56,7 +60,7 @@ permalink: /cv/
 
 **Ontario College of Art & Design University**, Toronto, Canada
 
-2022 \| Creative Coding with Perlin Noise for Interaction Experience Design
+2022 \| Creative Coding Workshop for Interaction Experience Design
 
 **New York University Abu Dhabi**, Abu Dhabi, UAE
 
@@ -70,15 +74,15 @@ permalink: /cv/
 
 2020 – 2022 \| [Web Development Workshop Series: Making a Website from Scratch for Absolute Beginners](/teaching/web-development-for-absolute-beginners/)
 
-2019 – 2023 \| Hand & Power Tool Safety for Interactive Media
+2019 – 2023 \| Fabrication Tool Safety for Interactive Media
 
 2019 – 2021 \| Web Development Fundamentals for Interactive Media
 
 2019 \| Computer Vision Workshop at Processing Community Day
 
-2019 \| Hosting Your Portfolio on GitHub
+2019 \| Building & Hosting Portfolio Websites on GitHub
 
-2018 – 2020 \| Introduction to Laser Cutting & Engraving for Interactive Media
+2018 – 2020 \| Introduction to Digital Fabrication for Interactive Media
 
 **New York University Shanghai**, Shanghai, China
 
@@ -128,6 +132,8 @@ permalink: /cv/
 
 ## Talks & Presentations
 
+2023 \| Artist Talk: Daily Experiments in Creative Coding, _Maker Faire Coney Island_, Brooklyn, NY, USA
+
 2023 \| Artist Talk: Daily Experiments in Creative Coding, _NYU Shanghai_, Shanghai, China
 
 2022 \| Guest Speaker, _Ontario College of Art & Design University_, Toronto, Canada
@@ -160,7 +166,9 @@ permalink: /cv/
 
 2014 \| **2nd Best Hardware Hack** at HackShanghai, China
 
-## Press
+## Press & PUBLICATIONS
+
+2023 \| Jack B. Du: [Daily Sketches (2022)](https://doi.org/10.1145/3615522.3615571). _The 16th International Symposium on Visual Information Communication and Interaction (VINCI 2023)_, September 22–24, 2023, Guangzhou, China. ACM, New York, NY, USA, 2 pages.
 
 2023 \| “[Alumni Voices: Jack B. Du ’17](https://shanghai.nyu.edu/stories/alumni-voices-jack-b-du-17)”, _NYU Shanghai People_, Apr. 21, 2023.
 
