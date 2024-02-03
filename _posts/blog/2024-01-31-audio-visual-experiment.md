@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Audio Visual Experiment
+title: Audio-Visual Experiment
 categories: blog
 tags: itp the-code-of-music
 description: 
@@ -48,4 +48,24 @@ Once acquinted with tone.js, I finally linked my audio to my visual.
   </tbody>
 </table>
 
-In this version, I am wrapping the audio waveform around the mesh and applying it as a factor to the radius. In addition, the amplitude of the audio is applied as a factor to the amplitude of the oscillation.
+In this sketch, I am wrapping the audio waveform around the mesh and applying it as a factor to the radius. In addition, the amplitude of the audio is applied as a factor to the amplitude of the oscillation.
+
+The first version incorporates a keyboard interaction. Later, I thought it would be more interesting to use a mouse to interact as if the mouse is paddling the water.
+
+In the live demo below, you can click and drag your mouse around, and the water sound reacts to how fast you move your mouse.
+
+<table style="width: 100%;">
+  <thead><tr><th>
+    <div style="width: 100%; padding-top: 75%; position: relative;">
+      <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://editor.p5js.org/jackbdu/full/u6KVNRbiv"></iframe>
+    </div>
+  </th></tr></thead>
+  <tbody>
+  <tr><th>
+    Experiment on February 2, 2024
+  </th></tr>
+  <tr><th>
+    [ <a href="https://www.instagram.com/p/C224c1vJTG4/">View post on Instagram</a> | <a href="https://editor.p5js.org/jackbdu/sketches/u6KVNRbiv">View source code in p5.js Web Editor</a> ].
+  </th></tr>
+  </tbody>
+</table>
