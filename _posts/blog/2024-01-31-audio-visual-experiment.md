@@ -43,7 +43,7 @@ Once acquinted with tone.js, I finally linked my audio to my visual.
     Experiment on January 31, 2024
   </th></tr>
   <tr><th>
-    [ <a href="https://www.instagram.com/p/C2y9Onbu5nV/">View post on Instagram</a> | <a href="https://editor.p5js.org/jackbdu/sketches/YIyVY4NZw">View source code in p5.js Web Editor</a> ].
+    [ <a href="https://www.instagram.com/p/C2y9Onbu5nV/">View post on Instagram</a> | <a href="https://editor.p5js.org/jackbdu/sketches/YIyVY4NZw">View source code in p5.js Web Editor</a> ]
   </th></tr>
   </tbody>
 </table>
@@ -65,7 +65,7 @@ In the live demo below, you can click and drag your mouse around, and the water 
     Experiment on February 2, 2024
   </th></tr>
   <tr><th>
-    [ <a href="https://www.instagram.com/p/C224c1vJTG4/">View post on Instagram</a> | <a href="https://editor.p5js.org/jackbdu/sketches/u6KVNRbiv">View source code in p5.js Web Editor</a> ].
+    [ <a href="https://www.instagram.com/p/C224c1vJTG4/">View post on Instagram</a> | <a href="https://editor.p5js.org/jackbdu/sketches/u6KVNRbiv">View source code in p5.js Web Editor</a> ]
   </th></tr>
   </tbody>
 </table>
