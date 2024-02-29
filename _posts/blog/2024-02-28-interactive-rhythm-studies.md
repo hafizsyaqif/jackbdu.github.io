@@ -39,9 +39,9 @@ I wanted to incorporate some physics in the creation of the rhythm, but I was no
   </tbody>
 </table>
 
-While physics simulation can be a bit unpredictable, a steady tempo can still be maintained if a sequencer remains the underlying mechanism. I came up with this idea of letting a bouncing ball interact and toggle each beat on the sequencer.
+While physics simulation can be a bit unpredictable, a steady tempo can still be maintained if a sequencer remains the underlying mechanism. An idea came to me that I could add a bouncing bubble and let it toggle every beat it passes by.
 
-Though it is simple enough to add one bouncing ball, having multiple objects interact with either other is a different story. I eventually decided to use [matter.js](https://brm.io/matter-js/), a 2D physics engine, to take care of the physics aspect.
+Though it is simple enough to add one bouncing bubble, having multiple ones interact with either other is a different story. I eventually decided to use [matter.js](https://brm.io/matter-js/), a 2D physics engine, to take care of the physics aspect. In the demo below, you can click and drag a bubble if you would like. The bubbles eventually stop due to frications and there you have your rhthym.
 
 <table style="width: 100%;">
   <thead><tr><th>
@@ -51,10 +51,10 @@ Though it is simple enough to add one bouncing ball, having multiple objects int
   </th></tr></thead>
   <tbody>
   <tr><th>
-  Live demo of the physics-driven interactive sequencer.
+  Live demo of the interactive sequencer.
   </th></tr>
   <tr><th>
-    [ <a href="https://editor.p5js.org/jackbdu/sketches/sH4pFwgI1">View source code in p5.js Web Editor</a> ]
+    [ <a href="https://www.instagram.com/p/C36spupsuZc/">View post on Instagram</a> | <a href="https://editor.p5js.org/jackbdu/sketches/sH4pFwgI1">View source code in p5.js Web Editor</a> ]
   </th></tr>
   </tbody>
 </table>
