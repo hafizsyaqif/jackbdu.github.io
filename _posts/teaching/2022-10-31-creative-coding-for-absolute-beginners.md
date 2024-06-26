@@ -39,6 +39,6 @@ Most recently, I offered this series at [DigitalFUTURES 2023](https://digitalfut
 |  ![](/media{{ page.url }}20230612-creative-coding-workshop-5-preview-pixelated-reflection-512x512@15fps.gif)  |            ![](/media{{ page.url }}20240626-creative-coding-workshop-6-preview-ml5-facemesh-googly-eyes-512x512@15fps.gif)            |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
 |                                     **Workshop #5: Virtual Reflections**                                      |                                              **Workshop #6: Friendly Machine Learning**                                               |
-| This workshop shows how a webcam to can be incorporated to create sketches that reflect images like a mirror. | This workshop demonstrates how to create sketches that respond to body movements using pre-trained machine learning models in ml5.js. |
+| This workshop shows how a webcam can be incorporated to create sketches that reflect images like a mirror. | This workshop demonstrates how to create sketches that respond to body movements using pre-trained machine learning models in ml5.js. |
 
 You can [watch recordings of this workshop series on YouTube](https://www.youtube.com/playlist?list=PLUbmjnHkwarjjudjj2dclvClnL5ngpDze) or [view code examples in p5.js Web Editor](https://editor.p5js.org/jackbdu/collections/dyLuBa_37).
